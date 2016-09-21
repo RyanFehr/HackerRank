@@ -38,10 +38,10 @@ import java.util.*;
 
 public class Solution {
 	
-	 //My hash map is intialized based on the fact that this is only using english characters
+	 //My hash map is initialized based on the fact that this is only using English characters as is stated in the problem constraints
 
 	//Overall time complexity: O(n)
-	//Overall space complexity: O(n)
+	//Overall space complexity: O(1)
 
 	static boolean isAnagram(String a, String b)
   {
@@ -58,35 +58,24 @@ public class Solution {
       a = a.toUpperCase(); //O(n)
       b = b.toUpperCase(); //O(n)
       
-      //I wrote my strings into arrays costing me in space complexity because if you do like I show 
-      //below you will have a time complexity of O(n^2), because substring has a time complexity of O(n) 
-      //ever since it was changed in Java 7.6 but I did trade of space complexity of O(1) to achieve this:
+      //Originally I took a different approach to this problem because I was using substring and it 
+      // runs in O(n) which would make my algorithm run in O(n^2) with constant space, but then I
+      // remembered that charAt() runs in constant time so utilizing that function I was able to
+      // have a time complexity of O(n) and space complexity of O(1)
       
-      //for(int i = 0;i <a.length();i++)  //O(n)
-      //{
-      //    String letter = letterFrequencya.substring(i,i+1);   //O(n)
-      //    letterFrequency.put(letter,letterFrequency.get(letter)++);
-      //}
-      
-      
-      char[] AcArray = a.toCharArray();
-      char[] BcArray = b.toCharArray();
-      Character[] AArray = toCharacterArray(AcArray); //O(n)
-      Character[] BArray = toCharacterArray(BcArray); //O(n)
-      
-      for(int i = 0; i<AArray.length;i++) //O(n)
+      for(int i = 0;i <a.length();i++)  //O(n)
       {
-          Character letter = AArray[i]; //O(1)
-          Integer frequency = ALetterFrequency.get(letter);//O(1)
-          ALetterFrequency.put(letter,++frequency); //O(1)
+    	  Character letter = a.charAt(i);   //O(1)
+          Integer frequency = ALetterFrequency.get(letter);
+          ALetterFrequency.put(letter,++frequency);
+      }
+      for(int i = 0;i <b.length();i++)  //O(n)
+      {
+          Character letter = b.charAt(i);   //O(1)
+          Integer frequency = BLetterFrequency.get(letter);
+          BLetterFrequency.put(letter,++frequency);
       }
       
-      for(int i = 0; i<BArray.length;i++)
-      {
-          Character letter = BArray[i]; //O(1)
-          Integer frequency = BLetterFrequency.get(letter); //O(1)
-          BLetterFrequency.put(letter,++frequency); //O(1)
-      }
       
       //Compare Hash
       for(Character letter : charSet)
