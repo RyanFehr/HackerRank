@@ -10,7 +10,7 @@ public class Solution {
         Scanner input = new Scanner(System.in);
         int n  = input.nextInt();
         long sum = 0;
-        for(int i = n; n>0; n--)
+        for(int i = n; i>0; i--)
         {
             sum += input.nextInt();
         }
