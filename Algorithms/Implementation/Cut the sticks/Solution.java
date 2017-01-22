@@ -22,23 +22,24 @@ public class Solution {
         
         
         int sticksLeft = N;
-        while(sticks[N-1] > 0)
+        
+        int curr = sticks[0];
+        int currCount = 0;
+        System.out.println(N);
+        
+        //Works by decrementing sticksLeft by the frequency of the smallest stick each time
+        for(int i = 0; i < N; i++)
         {
-            System.out.println(sticksLeft);
-            
-            int cut = sticks[N-sticksLeft];
-            
-            for(int i = sticksLeft; i > 0; i--)
+            if(curr == sticks[i])
             {
-                //Performs the cut
-                int postCut = sticks[N-i] - cut;
-                sticks[N-i] = postCut;
-                
-                //If the stick is gone as a result of the cut we decrement sticksLeft
-                if(postCut == 0)
-                {
-                    sticksLeft--;
-                }
+                currCount++;
+            }
+            else
+            {
+                sticksLeft -= currCount;
+                currCount = 1;
+                curr = sticks[i];
+                System.out.println(sticksLeft);
             }
         }
         
