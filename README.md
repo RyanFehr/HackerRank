@@ -2,8 +2,8 @@
 
 
 #Algorithms
-- Rank: 43294
-- Points: 631.00
+- Rank: 34781
+- Points: 751.00
 
 #Java
 - Rank: 20998
