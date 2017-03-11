@@ -2,8 +2,8 @@
 
 
 #Algorithms
-- Rank: 9786
-- Points: 1667.66
+- Rank: 8453
+- Points: 1784.42
 
 #Data Structures
 - Rank: 114680
