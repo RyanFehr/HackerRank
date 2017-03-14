@@ -13,27 +13,27 @@ My Solutions to problems on Hacker Rank
 ## Algorithms ![AlgorithmsRank] ![AlgorithmsPoints]
 - [Warmup](https://github.com/RyanFehr/HackerRank#Warmup)
 
-- [Implementation](https://github.com/RyanFehr/HackerRank#Implementation)
+- [Implementation](https://github.com/RyanFehr/HackerRank#implementation)
 
-- [Strings](https://github.com/RyanFehr/HackerRank#Strings)
+- [Strings](https://github.com/RyanFehr/HackerRank#strings)
 
-- [Sorting](https://github.com/RyanFehr/HackerRank#Sorting)
+- [Sorting](https://github.com/RyanFehr/HackerRank#sorting)
 
-- [Search](https://github.com/RyanFehr/HackerRank#Search)
+- [Search](https://github.com/RyanFehr/HackerRank#search)
 
-- [Graph Theory](https://github.com/RyanFehr/HackerRank#Graph-Theory)
+- [Graph Theory](https://github.com/RyanFehr/HackerRank#graph-theory)
 
-- [Dynamic Programming](https://github.com/RyanFehr/HackerRank#Dynamic-Programming)
+- [Dynamic Programming](https://github.com/RyanFehr/HackerRank#dynamic-programming)
 
-- [Constructive Algorithms](https://github.com/RyanFehr/HackerRank#Constructive-Algorithms)
+- [Constructive Algorithms](https://github.com/RyanFehr/HackerRank#constructive-algorithms)
 
-- [Bit Manipulation](https://github.com/RyanFehr/HackerRank#Bit-Manipulation)
+- [Bit Manipulation](https://github.com/RyanFehr/HackerRank#bit-manipulation)
 
-- [Recursion](https://github.com/RyanFehr/HackerRank#Recursion)
+- [Recursion](https://github.com/RyanFehr/HackerRank#recursion)
 
-- [Game Theory](https://github.com/RyanFehr/HackerRank#Game-Theory)
+- [Game Theory](https://github.com/RyanFehr/HackerRank#game-theory)
 
-- [NP Complete](https://github.com/RyanFehr/HackerRank#NP-Complete)
+- [NP Complete](https://github.com/RyanFehr/HackerRank#np-complete)
 
 ## DataStructures ![DataStructuresRank] ![DataStructuresPoints]
 - Arrays
