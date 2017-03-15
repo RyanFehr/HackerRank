@@ -5,11 +5,11 @@
 	<a href="https://www.hackerrank.com/ryanfehr18">My</a>
     Solutions to problems on HackerRank
 </div>
-<div style ="text-align:center;">
+<p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-98-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
-</div>
+</p>
 
 
 
