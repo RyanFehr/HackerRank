@@ -1,6 +1,6 @@
-<center>[![HackerRank]](https://www.hackerrank.com)</center>
-<center>[My](https://www.hackerrank.com/ryanfehr18) Solutions to problems on HackerRank</center>
-<center>![Problems Solved] ![Language] ![UpToDate]</center>
+[![HackerRank]](https://www.hackerrank.com)
+[My](https://www.hackerrank.com/ryanfehr18) Solutions to problems on HackerRank
+![Problems Solved] ![Language] ![UpToDate]
 
 
 
