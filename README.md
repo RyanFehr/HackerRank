@@ -3,7 +3,10 @@
 </p>
 <p align="center">
 	<a href="https://www.hackerrank.com/ryanfehr18">My</a>
-    Solutions to problems on HackerRank
+    Solutions to problems on HackerRank. 
+</p>
+<p align="center">
+	If you have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-98-brightgreen.svg">
@@ -74,9 +77,16 @@
 
 ### Warmup
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
------|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
-||||||||||
-||||||||||
+-----|---------------- |:---------------:|:---------------:|:---------------:|:-------------:|:--------------:| -----
+|  |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/Solve%20Me%20First/Solution.java) | | | Easy | 1 | ||
+|  |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/Simple%20Array%20Sum/Solution.java) | | | Easy | 10 | ||
+|  |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/Compare%20the%20Triplets/Solution.java) | | | Easy | 10 | ||
+|  |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/A%20Very%20Big%20Sum/Solution.java) | | | Easy | 10 | ||
+|  |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/Diagonal%20Difference/Solution.java) | | | Easy | 10 | ||
+|  |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/Plus%20Minus/Solution.java) | | | Easy | 10 | ||
+|  |[Staircase](https://www.hackerrank.com/challenges/staircase)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/Staircase/Solution.java) | | | Easy | 10 | ||
+|  |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/Mini-Max%20Sum/Solution.java) | | | Easy | 10 | ||
+|  |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/Time%20Conversion/Solution.java) | | | Easy | 15 | ||
 
 ### Implementation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
