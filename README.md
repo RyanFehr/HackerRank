@@ -1,10 +1,12 @@
-# HackerRank ![Problems Solved] ![Language] ![UpToDate]
-My Solutions to problems on Hacker Rank
+<center>[![HackerRank]](https://www.hackerrank.com)</center>
+<center>[My](https://www.hackerrank.com/ryanfehr18) Solutions to problems on HackerRank</center>
+<center>![Problems Solved] ![Language] ![UpToDate]</center>
 
-### Domains:
-##### Algorithms ![AlgorithmsPercentile]
-##### Machine Learning: ![MachineLearningPercentile]
-##### Functional Languages: ![FunctionalLanguagesPercentile]
+
+
+
+
+
 
 
 
@@ -48,7 +50,7 @@ My Solutions to problems on Hacker Rank
 - Trie
 - Advanced
 
-## Mathematics
+## Mathematics ![MathematicsRank] ![MathematicsPoints]
 - Fundamentals
 - Number Theory
 - Combinatorics
@@ -138,6 +140,7 @@ My Solutions to problems on Hacker Rank
 ||||||||||
 ||||||||||
 
+[HackerRank]:http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg
 
 [Problems Solved]:https://img.shields.io/badge/Problems%20Solved-98-brightgreen.svg
 [Language]:https://img.shields.io/badge/Language-Java-orange.svg
@@ -152,6 +155,9 @@ My Solutions to problems on Hacker Rank
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
+
+[MathematicsRank]:https://img.shields.io/badge/Rank-n/a-lightgrey.svg
+[MathematicsPoints]:https://img.shields.io/badge/Points-n/a-lightgrey.svg
 
 [JavaRank]:https://img.shields.io/badge/Rank-20998-yellow.svg
 [JavaPoints]:https://img.shields.io/badge/Points-163.00-yellow.svg
