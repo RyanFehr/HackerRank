@@ -1,10 +1,10 @@
-<center>
+<p align="center">
 	<a href="https://www.hackerrank.com"><img src="http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg" ></a>
-</center>
-<div style ="text-align:center;">
+</p>
+<p align="center">
 	<a href="https://www.hackerrank.com/ryanfehr18">My</a>
     Solutions to problems on HackerRank
-</div>
+</p>
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-98-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java-orange.svg">
