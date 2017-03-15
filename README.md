@@ -1,8 +1,7 @@
 <p align="center">
-	<a href="https://www.hackerrank.com"><img src="http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg" ></a>
+	<a href="https://www.hackerrank.com/ryanfehr18"><img src="http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg" ></a>
 </p>
 <p align="center">
-	<a href="https://www.hackerrank.com/ryanfehr18">My</a>
     Solutions to problems on HackerRank. 
 </p>
 <p align="center">
@@ -10,7 +9,7 @@
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-98-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Language-Java-orange.svg">
+	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
 </p>
 
@@ -20,7 +19,7 @@
 
 
 
-## Algorithms ![AlgorithmsRank] ![AlgorithmsPoints]
+## Algorithms ![AlgorithmsPoints]
 - [Warmup](https://github.com/RyanFehr/HackerRank#Warmup)
 
 - [Implementation](https://github.com/RyanFehr/HackerRank#implementation)
@@ -45,7 +44,7 @@
 
 - [NP Complete](https://github.com/RyanFehr/HackerRank#np-complete)
 
-## DataStructures ![DataStructuresRank] ![DataStructuresPoints]
+## DataStructures ![DataStructuresPoints]
 - Arrays
 - Linked Lists
 - Trees
@@ -58,7 +57,7 @@
 - Trie
 - Advanced
 
-## Mathematics ![MathematicsRank] ![MathematicsPoints]
+## Mathematics ![MathematicsPoints]
 - Fundamentals
 - Number Theory
 - Combinatorics
@@ -66,7 +65,7 @@
 - Geometry
 - Probability
 - Linear Algebra Foundations
-## Java ![JavaRank] ![JavaPoints]
+## Java ![JavaPoints]
 - Introduction
 - Strings
 - BigNumber
@@ -213,7 +212,7 @@
 [HackerRank]:http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg
 
 [Problems Solved]:https://img.shields.io/badge/Problems%20Solved-98-brightgreen.svg
-[Language]:https://img.shields.io/badge/Language-Java-orange.svg
+[Language]:https://img.shields.io/badge/Language-Java/Python/C++-orange.svg
 [UpToDate]:https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg
 
 [AlgorithmsPercentile]:https://img.shields.io/badge/Percentile-81st-brightgreen.svg
