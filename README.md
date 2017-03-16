@@ -20,7 +20,7 @@
 
 
 ## Algorithms ![AlgorithmsPoints]
-- [Warmup](https://github.com/RyanFehr/HackerRank#Warmup)
+- [Warmup](https://github.com/RyanFehr/HackerRank#warmup)
 
 - [Implementation](https://github.com/RyanFehr/HackerRank#implementation)
 
