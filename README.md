@@ -91,30 +91,30 @@
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
 |   | [Grading Students](https://www.hackerrank.com/challenges/grading)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Grading%20Students/Solution.java) | _O(n)_ | _O(1)_ | Easy| 10| ||
-|   | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)| [Java]() |  | | Easy| 10| ||
-|   | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)| [Java]() |  | | Easy| 10| ||
-|   | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)| [Java]() |  | | Easy| 10| ||
-|   | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)| [Java]() |  | | Easy| 10| ||
-|   | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds)| [Java]() |  | | Easy| 10| ||
-|   | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit)| [Java]() |  | | Easy| 10| ||
-|   | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)| [Java]() |  | | Easy| 10| ||
-|   | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)| [Java]() |  | | Easy| 10| ||
+|   | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Apple%20and%20Orange/Solution.java) |  | | Easy| 10| ||
+|   | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Kangaroo/Solution.java) |  | | Easy| 10| ||
+|   | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Between%20Two%20Sets/Solution.java) |  | | Easy| 10| ||
+|   | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Divisible%20Sum%20Pairs/Solution.java) |  | | Easy| 10| ||
+|   | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Migratory%20Birds/Solution.java) |  | | Easy| 10| ||
+|   | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Bon%20Appetit/Solution.java) |  | | Easy| 10| ||
+|   | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Sock%20Merchant/Solution.java) |  | | Easy| 10| ||
+|   | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Drawing%20Book/Solution.java) |  | | Easy| 10| ||
 |   | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)| Java |  | | Easy| 15| ||
 |   | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)| Java |  | | Easy| 20| ||
 |   | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)| Java |  | | Easy| 20| ||
 |   | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)| Java |  | | Easy| 15| ||
-|   | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer)| [Java]() |  | | Easy| 20| ||
-|   | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)| [Java]() |  | | Easy | 20| ||
-|   | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)| [Java]() |  | | Easy | 20| ||
-|   | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)| [Java]() |  | | Easy | 15| ||
-|   | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising)| [Java]() |  | | Easy | 15| ||
-|   | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner)| [Java]() |  | | Easy | 15| ||
-|   | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)| [Java]() |  | | Easy | 20| ||
+|   | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Designer%20PDF%20Viewer/Solution.java) |  | | Easy| 20| ||
+|   | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Utopian%20Tree/Solution.java) |  | | Easy | 20| ||
+|   | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Angry%20Professor/Solution.java) |  | | Easy | 20| ||
+|   | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Beautiful%20Days%20at%20the%20Movies/Solution.java) |  | | Easy | 15| ||
+|   | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Viral%20Advertising/Solution.java) |  | | Easy | 15| ||
+|   | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Save%20the%20Prisoner!/Solution.txt) |  | | Easy | 15| ||
+|   | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Circular%20Array%20Rotation/Solution.txt) |  | | Easy | 20| ||
 |   | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation)| Java |  | | Easy | 20| ||
-|   | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited)| [Java]() |  | | Easy | 15| ||
-|   | [Find Digits](https://www.hackerrank.com/challenges/find-digits)| [Java]() |  | | Easy | 25| ||
-|   | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)| [Java]() |  | | Medium | 20| ||
-|   | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete)| [Java]() |  | | Easy | 20| ||
+|   | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Jumping%20on%20the%20Clouds-%20Revisited/Solution.java) |  | | Easy | 15| ||
+|   | [Find Digits](https://www.hackerrank.com/challenges/find-digits)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Find%20Digits/Solution.java) |  | | Easy | 25| ||
+|   | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Extra%20Long%20Factorials/Solution.java) |  | | Medium | 20| ||
+|   | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Append%20and%20Delete/Solution.java) |  | | Easy | 20| ||
 |   | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares)| [Java]() |  | | Easy | 20| ||
 |   | [Library Fine](https://www.hackerrank.com/challenges/library-fine)| [Java]() |  | | Easy| 15| ||
 |   | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks)| [Java]() |  | | Easy | 25| ||
