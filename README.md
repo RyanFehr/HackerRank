@@ -153,62 +153,97 @@
 ### Strings
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
-||||||||||
-||||||||||
+|   | [Super Reduced String]()| [Java]() |  | | Easy | 10| ||
+|   | [CamelCase]()| [Java]() |  | | Easy | 15| ||
+|   | [Two Characters]()| [Java]() |  | | Easy| 15| ||
+|   | [Caesar Cipher]()| [Java]() |  | | Easy | 15| ||
+|   | [Mars Exploration]()| [Java]() |  | | Easy | 15| ||
+|   | [HackerRank in a String!]()| Java |  | | Easy | 20| ||
+|   | [Pangrams]()| [Java]() |  | | Easy | 20| ||
+|   | [Weighted Uniform Strings]()| [Java]() |  | | Easy | 20| ||
+|   | [Separate the Numbers]()| Java |  | | Easy | 20| ||
+|   | [Funny String]()| [Java]() |  | | Easy | 25| ||
+|   | [Gemstones]()| [Java]() |  | | Easy | 20| ||
+|   | [Alternating Characters]()| [Java]() |  | | Easy | 20| ||
+|   | [Beautiful Binary String]()| [Java]() |  | | Easy | 20| ||
+|   | [The Love-Letter Mystery]()| [Java]() |  | | Easy | 20| ||
+|   | [Determining DNA Health]()| Java |  | | Hard | 50| ||
+|   | [Palindrome Index]()| [Java]() |  | | Easy | 25| ||
+|   | [Anagram]()| [Java]() |  | | Easy | 25| ||
+|   | [Making Anagrams]()| [Java]() |  | | Easy | 30| ||
+|   | [Game of Thrones - I]()| [Java]() |  | | Easy | 30| ||
+|   | [Two Strings]()| [Java]() |  | | Easy | 25| ||
+|   | [String Construction]()| [Java]() |  | | Easy | 25| ||
+|   | [Sherlock and Valid String]()| [Java]() |  | | Hard | 100| ||
+|   | [Richie Rich]()| Java |  | | Medium | 30| ||
+|   | [Sherlock and Anagrams]()| Java |  | | Medium | 50| ||
+|   | [Common Child]()| Java |  | | Hard | 60| ||
+|   | [Bear and Steady Gene]()| Java |  | | Medium | 50| ||
+|   | [Morgan and a String]()| Java |  | | Expert | 100| ||
+|   | [Count Strings]()| Java |  | | Hard | 80| ||
+|   | [String Function Calculation]()| Java |  | | Advanced | 80| ||
+|   | [Build a Palindrome]()| Java |  | | Advanced | 80| ||
+|   | [Build a String]()| Java |  | | Hard | 80| ||
+|   | [Gridland Provinces]()| Java |  | | Hard | 80| ||
+|   | [Ashton and String]()| Java |  | | Advanced | 100| ||
+|   | [String Similarity]()| Java |  | | Expert | 100| ||
+|   | [Super Functional Strings]()| Java |  | | Advanced | 80| ||
+|   | [Circular Palindromes]()| Java |  | | Advanced | 120| ||
+|   | [Similar Strings]()| Java |  | | Advanced | 85| ||
+|   | [Save Humanity]()| Java |  | | Expert | 100| ||
+|   | [Find Strings]()| Java |  | | Expert | 100| ||
+|   | [Palindromic Border]()| Java |  | | Expert | 100| ||
+|   | [Two Two]()| Java |  | | Advanced | 150| ||
+|   | [Two Strings Game]()| Java |  | | Expert | 100| ||
+|   | [Letter Islands]()| Java |  | | Expert | 100| ||
+|   | [Pseudo-Isomorphic Substrings]()| Java |  | | Expert | 100| ||
+|   | [How Many Substrings?]()| Java |  | | Expert | 100| ||
+
 
 ### Sorting
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
-||||||||||
-||||||||||
+
 
 ### Search
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
-||||||||||
-||||||||||
+
 
 ### Graph Theory
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
-||||||||||
-||||||||||
+
 
 ### Dynamic Programming
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
-||||||||||
-||||||||||
+
 
 ### Constructive Algorithms
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
-||||||||||
-||||||||||
+
 
 ### Bit Manipulation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
-||||||||||
-||||||||||
+
 
 ### Recursion
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
-||||||||||
-||||||||||
+
 
 ### Game Theory
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
-||||||||||
-||||||||||
+
 
 ### NP Complete
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
-||||||||||
-||||||||||
+
 
 [HackerRank]:http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg
 
