@@ -158,7 +158,7 @@
 |   | [Two Characters]()| [Java]() |  | | Easy| 15| ||
 |   | [Caesar Cipher]()| [Java]() |  | | Easy | 15| ||
 |   | [Mars Exploration]()| [Java]() |  | | Easy | 15| ||
-|   | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/HackerRank%20in%20a20String!/Solution.java) |  | | Easy | 20| ||
+|   | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/HackerRank%20in%20a20String!/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
 |   | [Pangrams]()| [Java]() |  | | Easy | 20| ||
 |   | [Weighted Uniform Strings]()| [Java]() |  | | Easy | 20| ||
 |   | [Separate the Numbers]()| Java |  | | Easy | 20| ||
