@@ -8,7 +8,7 @@
 	If you have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-99-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-103-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
 </p>
@@ -103,7 +103,7 @@
 |   | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Cats%20and%20a%20Mouse/Solution.java) | _O(1)_ | _O(1)_ | Easy| 15| ||
 |   | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Picking%20Numbers/Solution.java) | _O(n)_ | _O(n)_ | Easy| 20| ||
 |   | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)| Java |  | | Easy| 20| ||
-|   | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)| Java |  | | Easy| 15| ||
+|   | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/The%20Hurdle%20Race/Solution.java) | _O(n)_ | _O(1)_ | Easy| 15| ||
 |   | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Designer%20PDF%20Viewer/Solution.java) |  | | Easy| 20| ||
 |   | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Utopian%20Tree/Solution.java) |  | | Easy | 20| ||
 |   | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Angry%20Professor/Solution.java) |  | | Easy | 20| ||
@@ -247,7 +247,7 @@
 
 [HackerRank]:http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg
 
-[Problems Solved]:https://img.shields.io/badge/Problems%20Solved-99-brightgreen.svg
+[Problems Solved]:https://img.shields.io/badge/Problems%20Solved-103-brightgreen.svg
 [Language]:https://img.shields.io/badge/Language-Java/Python/C++-orange.svg
 [UpToDate]:https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg
 
@@ -256,7 +256,7 @@
 [FunctionalLanguagesPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 
 [AlgorithmsRank]:https://img.shields.io/badge/Rank-7973-brightgreen.svg
-[AlgorithmsPoints]:https://img.shields.io/badge/Points-1834.42-brightgreen.svg
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-1909.42-brightgreen.svg
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
