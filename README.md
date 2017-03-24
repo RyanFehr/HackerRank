@@ -8,7 +8,7 @@
 	If you have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-104-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-105-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
 </p>
@@ -109,9 +109,9 @@
 |   | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Angry%20Professor/Solution.java) |  | | Easy | 20| ||
 |   | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Beautiful%20Days%20at%20the%20Movies/Solution.java) |  | | Easy | 15| ||
 |   | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Viral%20Advertising/Solution.java) |  | | Easy | 15| ||
-|   | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Save%20the%20Prisoner!/Solution.txt) |  | | Easy | 15| ||
-|   | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Circular%20Array%20Rotation/Solution.txt) |  | | Easy | 20| ||
-|   | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation)| Java |  | | Easy | 20| ||
+|   | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Save%20the%20Prisoner!/Solution.java) |  | | Easy | 15| ||
+|   | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Circular%20Array%20Rotation/Solution.java) |  | | Easy | 20| ||
+|   | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Sequence%20Equation/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Jumping%20on%20the%20Clouds-%20Revisited/Solution.java) |  | | Easy | 15| ||
 |   | [Find Digits](https://www.hackerrank.com/challenges/find-digits)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Find%20Digits/Solution.java) |  | | Easy | 25| ||
 |   | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Extra%20Long%20Factorials/Solution.java) |  | | Medium | 20| ||
@@ -247,16 +247,16 @@
 
 [HackerRank]:http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg
 
-[Problems Solved]:https://img.shields.io/badge/Problems%20Solved-104-brightgreen.svg
+[Problems Solved]:https://img.shields.io/badge/Problems%20Solved-105-brightgreen.svg
 [Language]:https://img.shields.io/badge/Language-Java/Python/C++-orange.svg
 [UpToDate]:https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg
 
-[AlgorithmsPercentile]:https://img.shields.io/badge/Percentile-81st-brightgreen.svg
+[AlgorithmsPercentile]:https://img.shields.io/badge/Percentile-83rd-brightgreen.svg
 [MachineLearningPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 [FunctionalLanguagesPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 
-[AlgorithmsRank]:https://img.shields.io/badge/Rank-7973-brightgreen.svg
-[AlgorithmsPoints]:https://img.shields.io/badge/Points-1944.42-brightgreen.svg
+[AlgorithmsRank]:https://img.shields.io/badge/Rank-6886-brightgreen.svg
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-1964.42-brightgreen.svg
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
