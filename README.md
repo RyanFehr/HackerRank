@@ -153,57 +153,74 @@
 ### Strings
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Super Reduced String]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Super%20Reduced%20String/Solution.java) |  | | Easy | 10| ||
-|   | [camelCase]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/camelCase/Solution.java) |  | | Easy | 15| ||
-|   | [Two Characters]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Two%20Characters/Solution.java) | _O(n)_ | _O(1)_ | Easy| 15| ||
-|   | [Caesar Cipher]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Caesar%20Cipher/Solution.java) |  | | Easy | 15| ||
-|   | [Mars Exploration]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Mars%20Exploration/Solution.java) |  | | Easy | 15| ||
+|   | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Super%20Reduced%20String/Solution.java) |  | | Easy | 10| ||
+|   | [camelCase](https://www.hackerrank.com/challenges/camelcase)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/camelCase/Solution.java) |  | | Easy | 15| ||
+|   | [Two Characters](https://www.hackerrank.com/challenges/two-characters)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Two%20Characters/Solution.java) | _O(n)_ | _O(1)_ | Easy| 15| ||
+|   | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Caesar%20Cipher/Solution.java) |  | | Easy | 15| ||
+|   | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Mars%20Exploration/Solution.java) |  | | Easy | 15| ||
 |   | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/HackerRank%20in%20a20String!/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
-|   | [Pangrams]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Pangrams/Solution.java) |  | | Easy | 20| ||
-|   | [Weighted Uniform Strings]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Weighted%20Uniform%20Strings/Solution.java) |  | | Easy | 20| ||
-|   | [Separate the Numbers]()| Java |  | | Easy | 20| ||
-|   | [Funny String]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Funny%20String/Solution.java) |  | | Easy | 25| ||
-|   | [Gemstones]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Gemstones/Solution.java) |  | | Easy | 20| ||
-|   | [Alternating Characters]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Alternating%20Characters/Solution.java) |  | | Easy | 20| ||
-|   | [Beautiful Binary String]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Beautiful%20Binary%20String/Solution.java) |  | | Easy | 20| ||
-|   | [The Love-Letter Mystery]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/The%20Love-Letter%20Mystery/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
-|   | [Determining DNA Health]()| Java |  | | Hard | 50| ||
-|   | [Palindrome Index]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Palindrome%20Index/Solution.java) |  | | Easy | 25| ||
-|   | [Anagram]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Anagram/Solution.java) | _O(n)_ | _O(1)_ | Easy | 25| ||
-|   | [Making Anagrams]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Making%20Anagrams/Solution.java) |  | | Easy | 30| ||
-|   | [Game of Thrones - I]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Game%20of%20Thrones-I/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
-|   | [Two Strings]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Two%20Strings/Solution.java) | _O(|a| + |b|)_ | _O(1)_ | Easy | 25| ||
-|   | [String Construction]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/String%20Construction/Solution.java) |   |  | Easy | 25| ||
-|   | [Sherlock and Valid String]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Sherlock%20and%20Valid%20String/Solution.java) | _O(n)_ | _O(n)_ | Hard | 100| ||
-|   | [Richie Rich]()| Java |  | | Medium | 30| ||
-|   | [Sherlock and Anagrams]()| Java |  | | Medium | 50| ||
-|   | [Common Child]()| Java |  | | Hard | 60| ||
-|   | [Bear and Steady Gene]()| Java |  | | Medium | 50| ||
-|   | [Morgan and a String]()| Java |  | | Expert | 100| ||
-|   | [Count Strings]()| Java |  | | Hard | 80| ||
-|   | [String Function Calculation]()| Java |  | | Advanced | 80| ||
-|   | [Build a Palindrome]()| Java |  | | Advanced | 80| ||
-|   | [Build a String]()| Java |  | | Hard | 80| ||
-|   | [Gridland Provinces]()| Java |  | | Hard | 80| ||
-|   | [Ashton and String]()| Java |  | | Advanced | 100| ||
-|   | [String Similarity]()| Java |  | | Expert | 100| ||
-|   | [Super Functional Strings]()| Java |  | | Advanced | 80| ||
-|   | [Circular Palindromes]()| Java |  | | Advanced | 120| ||
-|   | [Similar Strings]()| Java |  | | Advanced | 85| ||
-|   | [Save Humanity]()| Java |  | | Expert | 100| ||
-|   | [Find Strings]()| Java |  | | Expert | 100| ||
-|   | [Palindromic Border]()| Java |  | | Expert | 100| ||
-|   | [Two Two]()| Java |  | | Advanced | 150| ||
-|   | [Two Strings Game]()| Java |  | | Expert | 100| ||
-|   | [Letter Islands]()| Java |  | | Expert | 100| ||
-|   | [Pseudo-Isomorphic Substrings]()| Java |  | | Expert | 100| ||
-|   | [How Many Substrings?]()| Java |  | | Expert | 100| ||
+|   | [Pangrams](https://www.hackerrank.com/challenges/pangrams)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Pangrams/Solution.java) |  | | Easy | 20| ||
+|   | [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Weighted%20Uniform%20Strings/Solution.java) |  | | Easy | 20| ||
+|   | [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers)| Java |  | | Easy | 20| ||
+|   | [Funny String](https://www.hackerrank.com/challenges/funny-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Funny%20String/Solution.java) |  | | Easy | 25| ||
+|   | [Gemstones](https://www.hackerrank.com/challenges/gem-stones)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Gemstones/Solution.java) |  | | Easy | 20| ||
+|   | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Alternating%20Characters/Solution.java) |  | | Easy | 20| ||
+|   | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Beautiful%20Binary%20String/Solution.java) |  | | Easy | 20| ||
+|   | [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/The%20Love-Letter%20Mystery/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
+|   | [Determining DNA Health](https://www.hackerrank.com/challenges/determining-dna-health)| Java |  | | Hard | 50| ||
+|   | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Palindrome%20Index/Solution.java) |  | | Easy | 25| ||
+|   | [Anagram](https://www.hackerrank.com/challenges/anagram)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Anagram/Solution.java) | _O(n)_ | _O(1)_ | Easy | 25| ||
+|   | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Making%20Anagrams/Solution.java) |  | | Easy | 30| ||
+|   | [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Game%20of%20Thrones-I/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
+|   | [Two Strings](https://www.hackerrank.com/challenges/two-strings)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Two%20Strings/Solution.java) | _O(|a| + |b|)_ | _O(1)_ | Easy | 25| ||
+|   | [String Construction](https://www.hackerrank.com/challenges/string-construction)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/String%20Construction/Solution.java) |   |  | Easy | 25| ||
+|   | [Sherlock and Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Sherlock%20and%20Valid%20String/Solution.java) | _O(n)_ | _O(n)_ | Hard | 100| ||
+|   | [Richie Rich](https://www.hackerrank.com/challenges/richie-rich)| Java |  | | Medium | 30| ||
+|   | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams)| Java |  | | Medium | 50| ||
+|   | [Common Child](https://www.hackerrank.com/challenges/common-child)| Java |  | | Hard | 60| ||
+|   | [Bear and Steady Gene](https://www.hackerrank.com/challenges/bear-and-steady-gene)| Java |  | | Medium | 50| ||
+|   | [Morgan and a String](https://www.hackerrank.com/challenges/morgan-and-a-string)| Java |  | | Expert | 100| ||
+|   | [Count Strings](https://www.hackerrank.com/challenges/count-strings)| Java |  | | Hard | 80| ||
+|   | [String Function Calculation](https://www.hackerrank.com/challenges/string-function-calculation)| Java |  | | Advanced | 80| ||
+|   | [Build a Palindrome](https://www.hackerrank.com/challenges/challenging-palindromes)| Java |  | | Advanced | 80| ||
+|   | [Build a String](https://www.hackerrank.com/challenges/build-a-string)| Java |  | | Hard | 80| ||
+|   | [Gridland Provinces](https://www.hackerrank.com/challenges/gridland-provinces)| Java |  | | Hard | 80| ||
+|   | [Ashton and String](https://www.hackerrank.com/challenges/ashton-and-string)| Java |  | | Advanced | 100| ||
+|   | [String Similarity](https://www.hackerrank.com/challenges/string-similarity)| Java |  | | Expert | 100| ||
+|   | [Super Functional Strings](https://www.hackerrank.com/challenges/super-functional-strings)| Java |  | | Advanced | 80| ||
+|   | [Circular Palindromes](https://www.hackerrank.com/challenges/circular-palindromes)| Java |  | | Advanced | 120| ||
+|   | [Similar Strings](https://www.hackerrank.com/challenges/similar-strings)| Java |  | | Advanced | 85| ||
+|   | [Save Humanity](https://www.hackerrank.com/challenges/save-humanity)| Java |  | | Expert | 100| ||
+|   | [Find Strings](https://www.hackerrank.com/challenges/find-strings)| Java |  | | Expert | 100| ||
+|   | [Palindromic Border](https://www.hackerrank.com/challenges/palindromic-border)| Java |  | | Expert | 100| ||
+|   | [Two Two](https://www.hackerrank.com/challenges/two-two)| Java |  | | Advanced | 150| ||
+|   | [Two Strings Game](https://www.hackerrank.com/challenges/two-strings-game)| Java |  | | Expert | 100| ||
+|   | [Letter Islands](https://www.hackerrank.com/challenges/letter-islands)| Java |  | | Expert | 100| ||
+|   | [Pseudo-Isomorphic Substrings](https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings)| Java |  | | Expert | 100| ||
+|   | [How Many Substrings?](https://www.hackerrank.com/challenges/how-many-substrings)| Java |  | | Expert | 100| ||
 
 
 ### Sorting
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-
+|   | [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro)| [Java]() |  | | Easy | 30| ||
+|   | [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1)| Java |  | | Easy | 30| ||
+|   | [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2)| Java |  | | Easy | 30| ||
+|   | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant)| Java |  | | Easy | 30| ||
+|   | [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime)| Java |  | | Easy | 30| ||
+|   | [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1)| Java |  | | Easy | 10| ||
+|   | [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2)| Java |  | | Easy | 30| ||
+|   | [Quicksort In-Place](https://www.hackerrank.com/challenges/quicksort3)| Java |  | | Medium| 35| ||
+|   | [Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4)| Java |  | | Easy | 35| ||
+|   | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1)| Java |  | | Easy | 30| ||
+|   | [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2)| Java |  | | Easy | 30| ||
+|   | [Counting Sort 3](https://www.hackerrank.com/challenges/countingsort3)| Java |  | | Easy | 30| ||
+|   | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4)| Java |  | | Medium | 40| ||
+|   | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)| Java |  | | Easy | 35| ||
+|   | [Find the Median](https://www.hackerrank.com/challenges/find-the-median)| Java |  | | Easy | 35| ||
+|   | [Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort)| Java |  | | Advanced | 50| ||
+|   | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications)| Java |  | | Medium | 40| ||
+|   | [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework)| Java |  | | Medium | 40| ||
 
 ### Search
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
