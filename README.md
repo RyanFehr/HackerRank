@@ -153,28 +153,28 @@
 ### Strings
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Super Reduced String]()| [Java]() |  | | Easy | 10| ||
-|   | [CamelCase]()| [Java]() |  | | Easy | 15| ||
-|   | [Two Characters]()| [Java]() |  | | Easy| 15| ||
-|   | [Caesar Cipher]()| [Java]() |  | | Easy | 15| ||
-|   | [Mars Exploration]()| [Java]() |  | | Easy | 15| ||
+|   | [Super Reduced String]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Super%20Reduced%20String/Solution.java) |  | | Easy | 10| ||
+|   | [camelCase]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/camelCase/Solution.java) |  | | Easy | 15| ||
+|   | [Two Characters]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Two%20Characters/Solution.java) | _O(n)_ | _O(1)_ | Easy| 15| ||
+|   | [Caesar Cipher]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Caesar%20Cipher/Solution.java) |  | | Easy | 15| ||
+|   | [Mars Exploration]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Mars%20Exploration/Solution.java) |  | | Easy | 15| ||
 |   | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/HackerRank%20in%20a20String!/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
-|   | [Pangrams]()| [Java]() |  | | Easy | 20| ||
-|   | [Weighted Uniform Strings]()| [Java]() |  | | Easy | 20| ||
+|   | [Pangrams]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Pangrams/Solution.java) |  | | Easy | 20| ||
+|   | [Weighted Uniform Strings]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Weighted%20Uniform%20Strings/Solution.java) |  | | Easy | 20| ||
 |   | [Separate the Numbers]()| Java |  | | Easy | 20| ||
-|   | [Funny String]()| [Java]() |  | | Easy | 25| ||
-|   | [Gemstones]()| [Java]() |  | | Easy | 20| ||
-|   | [Alternating Characters]()| [Java]() |  | | Easy | 20| ||
-|   | [Beautiful Binary String]()| [Java]() |  | | Easy | 20| ||
-|   | [The Love-Letter Mystery]()| [Java]() |  | | Easy | 20| ||
+|   | [Funny String]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Funny%20String/Solution.java) |  | | Easy | 25| ||
+|   | [Gemstones]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Gemstones/Solution.java) |  | | Easy | 20| ||
+|   | [Alternating Characters]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Alternating%20Characters/Solution.java) |  | | Easy | 20| ||
+|   | [Beautiful Binary String]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Beautiful%20Binary%20String/Solution.java) |  | | Easy | 20| ||
+|   | [The Love-Letter Mystery]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/The%20Love-Letter%20Mystery/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
 |   | [Determining DNA Health]()| Java |  | | Hard | 50| ||
-|   | [Palindrome Index]()| [Java]() |  | | Easy | 25| ||
-|   | [Anagram]()| [Java]() |  | | Easy | 25| ||
-|   | [Making Anagrams]()| [Java]() |  | | Easy | 30| ||
-|   | [Game of Thrones - I]()| [Java]() |  | | Easy | 30| ||
-|   | [Two Strings]()| [Java]() |  | | Easy | 25| ||
-|   | [String Construction]()| [Java]() |  | | Easy | 25| ||
-|   | [Sherlock and Valid String]()| [Java]() |  | | Hard | 100| ||
+|   | [Palindrome Index]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Palindrome%20Index/Solution.java) |  | | Easy | 25| ||
+|   | [Anagram]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Anagram/Solution.java) | _O(n)_ | _O(1)_ | Easy | 25| ||
+|   | [Making Anagrams]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Making%20Anagrams/Solution.java) |  | | Easy | 30| ||
+|   | [Game of Thrones - I]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Game%20of%20Thrones-I/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
+|   | [Two Strings]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Two%20Strings/Solution.java) | _O(|a| + |b|)_ | _O(1)_ | Easy | 25| ||
+|   | [String Construction]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/String%20Construction/Solution.java) |   |  | Easy | 25| ||
+|   | [Sherlock and Valid String]()| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Sherlock%20and%20Valid%20String/Solution.java) | _O(n)_ | _O(n)_ | Hard | 100| ||
 |   | [Richie Rich]()| Java |  | | Medium | 30| ||
 |   | [Sherlock and Anagrams]()| Java |  | | Medium | 50| ||
 |   | [Common Child]()| Java |  | | Hard | 60| ||
