@@ -76,7 +76,7 @@
 
 ### Warmup
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
------|---------------- |:---------------:|:---------------:|:---------------:|:-------------:|:--------------:| -----
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |  |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/Solve%20Me%20First/Solution.java) | _O(1)_ | _O(1)_| Easy | 1 | ||
 |  |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/Simple%20Array%20Sum/Solution.java) | _O(n)_ | _O(1)_ | Easy | 10 | ||
 |  |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/Compare%20the%20Triplets/Solution.java) | _O(1)_ | _O(1)_ | Easy | 10 | ||
@@ -89,7 +89,7 @@
 
 ### Implementation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
------|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |   | [Grading Students](https://www.hackerrank.com/challenges/grading)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Grading%20Students/Solution.java) | _O(n)_ | _O(1)_ | Easy| 10| ||
 |   | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Apple%20and%20Orange/Solution.java) |  | | Easy| 10| ||
 |   | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Kangaroo/Solution.java) |  | | Easy| 10| ||
@@ -152,7 +152,7 @@
 
 ### Strings
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
------|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |   | [Super Reduced String]()| [Java]() |  | | Easy | 10| ||
 |   | [CamelCase]()| [Java]() |  | | Easy | 15| ||
 |   | [Two Characters]()| [Java]() |  | | Easy| 15| ||
@@ -202,47 +202,47 @@
 
 ### Sorting
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
------|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 
 
 ### Search
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
------|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 
 
 ### Graph Theory
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
------|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 
 
 ### Dynamic Programming
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
------|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 
 
 ### Constructive Algorithms
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
------|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 
 
 ### Bit Manipulation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
------|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 
 
 ### Recursion
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
------|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 
 
 ### Game Theory
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
------|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 
 
 ### NP Complete
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
------|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 
 
 [HackerRank]:http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg
