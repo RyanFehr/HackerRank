@@ -8,7 +8,7 @@
 	If you have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-105-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-106-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
 </p>
@@ -123,7 +123,7 @@
 |   | [Repeated String](https://www.hackerrank.com/challenges/repeated-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Repeated%20String/Solution.java) |  | | Easy | 20| ||
 |   | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Jumping%20on%20the%20Clouds/Solution.java) |  | | Easy | 20| ||
 |   | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Equalize%20the%20Array/Solution.java) |  | | Easy | 20| ||
-|   | [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2)| Java |  | | Medium | 30| ||
+|   | [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Queen's%20Attack%20II/Solution.java) | _O(k)_ | _O(1)_ | Medium | 30| ||
 |   | [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/ACM%20ICPC%20Team/Solution.java) |  | | Easy | 25| ||
 |   | [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Taum%20and%20B'day/Solution.java) |  | | Easy | 25| ||
 |   | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls)| Java |  | | Medium | 30| ||
@@ -256,7 +256,7 @@
 [FunctionalLanguagesPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 
 [AlgorithmsRank]:https://img.shields.io/badge/Rank-6886-brightgreen.svg
-[AlgorithmsPoints]:https://img.shields.io/badge/Points-1964.42-brightgreen.svg
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-1994.42-brightgreen.svg
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
