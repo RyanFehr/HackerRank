@@ -26,6 +26,8 @@ aaaabbbbc   -> Y
 aaaabbbbcd  -> N
 aabbcd      -> N
 
+Time Complexity: O(n) //We have to look at every char
+Space Complexity: O(n) //We store frequencies in a Hashmap
 
 */
 
@@ -91,35 +93,5 @@ public class Solution {
             else
                 System.out.println("NO");
         }
-        
-        
-        
-        
-        /*
-        int frequencyValue = 2; //We want the highest frequency
-        int deletions = 1;
-        //int frequencyValueTwo = -1;
-        //int frequencyCountOne = 0;
-        //int frequencyCountTwo = 0;
-        for(int freq : frequencies.values())
-        {
-            if(freq != frequencyValue)
-            {
-                if(freq < frequencyValue)
-                {
-                    deletions += 
-                }
-                deletions += Math.abs(freq - frequencyValue);
-            }
-        }
-        if(deletions > 1)
-        {
-            System.out.println("NO");
-        }
-        else
-        {
-            System.out.println("YES");
-        }
-        */
     }
 }
