@@ -225,7 +225,29 @@
 ### Search
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-
+|   | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters)| Java |  | | Easy | 15 | ||
+|   | [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)| [Java]() |  | | Easy | 30 | ||
+|   | [Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro)| Java |  | | Medium | 25 | ||
+|   | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)| Java |  | | Easy | 45 | ||
+|   | [KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard)| Java |  | | Medium | 35 | ||
+|   | [Pairs](https://www.hackerrank.com/challenges/pairs)| Java |  | | Medium | 50 | ||
+|   | [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array)| Java |  | | Easy | 40 | ||
+|   | [Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum)| Java |  | | Hard | 65 | ||
+|   | [Connected Cells in a grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid)| Java |  | | Medium | 50 | ||
+|   | [Short Palindrome](https://www.hackerrank.com/challenges/short-palindrome)| Java |  | | Medium | 40 | ||
+|   | [Maximizing Mission Points](https://www.hackerrank.com/challenges/maximizing-mission-points)| Java |  | | Hard | 70 | ||
+|   | [Count Luck](https://www.hackerrank.com/challenges/count-luck)| Java |  | | Medium | 50 | ||
+|   | [Cut the Tree](https://www.hackerrank.com/challenges/cut-the-tree)| Java |  | | Medium | 50 | ||
+|   | [Making Candies](https://www.hackerrank.com/challenges/making-candies)| Java |  | | Hard | 45 | ||
+|   | [Gena Playing Hanoi](https://www.hackerrank.com/challenges/gena)| Java |  | | Medium | 50 | ||
+|   | [Beautiful Quadruples](https://www.hackerrank.com/challenges/xor-quadruples)| Java |  | | Medium | 50 | ||
+|   | [Bike Racers](https://www.hackerrank.com/challenges/bike-racers)| Java |  | | Hard | 65 | ||
+|   | [Task Scheduling](https://www.hackerrank.com/challenges/task-scheduling)| Java |  | | Advanced | 70 | ||
+|   | [Similar Pair](https://www.hackerrank.com/challenges/similarpair)| Java |  | | Advanced | 70 | ||
+|   | [Absolute Element Sums](https://www.hackerrank.com/challenges/playing-with-numbers)| Java |  | | Hard | 70 | ||
+|   | [Sorted Subsegments](https://www.hackerrank.com/challenges/sorted-subsegments)| Java |  | | Hard | 80 | ||
+|   | [Distant Pairs](https://www.hackerrank.com/challenges/distant-pairs)| Java |  | | Expert | 80 | ||
+|   | [King Richard's Knights](https://www.hackerrank.com/challenges/king-richards-knights)| Java |  | | Hard | 80 | ||
 
 ### Graph Theory
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
