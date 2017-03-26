@@ -272,7 +272,16 @@
 ### Recursion
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-
+|   | [The Power Sum](https://www.hackerrank.com/challenges/the-power-sum)| Java |  | | Easy | 20 | ||
+|   | [Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle)| Java |  | | Medium | 30 | ||
+|   | [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum)| Java |  | | Medium | 30 | ||
+|   | [Simplified Chess Engine](https://www.hackerrank.com/challenges/simplified-chess-engine)| Java |  | | Medium | 40 | ||
+|   | [Password Cracker](https://www.hackerrank.com/challenges/password-cracker)| Java |  | | Medium | 40 | ||
+|   | [Artithmetic Expressions](https://www.hackerrank.com/challenges/arithmetic-expressions)| Java |  | | Hard | 40 | ||
+|   | [K Factorization](https://www.hackerrank.com/challenges/k-factorization)| Java |  | | Hard | 50 | ||
+|   | [Bowling Pins](https://www.hackerrank.com/challenges/bowling-pins)| Java |  | | Advanced | 60 | ||
+|   | [Simplified Chess Engine II](https://www.hackerrank.com/challenges/simplified-chess-engine-ii)| Java |  | | Hard | 60 | ||
+|   | [Repetitive K-Sums](https://www.hackerrank.com/challenges/repeat-k-sums)| Java |  | | Advanced | 150 | ||
 
 ### Game Theory
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
@@ -282,6 +291,10 @@
 ### NP Complete
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|   | [Walking the Approximate Longest Path](https://www.hackerrank.com/challenges/walking-the-approximate-longest-path)| Java |  | | Hard | 70 | ||
+|   | [Sam's Puzzle (Approximate)](https://www.hackerrank.com/challenges/sams-puzzle)| Java |  | | Advanced | 85 | ||
+|   | [Spies, Revised](https://www.hackerrank.com/challenges/spies-revised)| Java |  | | Expert | 100 | ||
+|   | [TBS Problem](https://www.hackerrank.com/challenges/tbsp)| Java |  | | Expert | 100 | ||
 
 
 [HackerRank]:http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg
