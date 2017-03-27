@@ -251,6 +251,17 @@
 ### Constructive Algorithms
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|   | [Lena Sort](https://www.hackerrank.com/challenges/lena-sort)| Java |  | | Medium | 30 | ||
+|   | [Flipping the Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Constructve%20Algorithms/Flipping%20Matrix/Solution.java) | _O(n^2)_ | _O(n^2)_ | Medium | 30 | ||
+|   | [Gaming Array](https://www.hackerrank.com/challenges/an-interesting-game-1)| Java |  | | Medium | 35 | ||
+|   | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos)| Java |  | | Medium | 40 | ||
+|   | [Bonetrousle](https://www.hackerrank.com/challenges/bonetrousle)| Java |  | | Medium | 50 | ||
+|   | [Yet Another KMP Problem](https://www.hackerrank.com/challenges/kmp-problem)| Java |  | | Hard | 60 | ||
+|   | [Beautiful 3 Set](https://www.hackerrank.com/challenges/beautiful-3-set)| Java |  | | Hard | 60 | ||
+|   | [Inverse RMQ](https://www.hackerrank.com/challenges/inverse-rmq)| Java |  | | Hard | 60 | ||
+|   | [Two Subarrays](https://www.hackerrank.com/challenges/two-subarrays)| Java |  | | Expert | 70 | ||
+|   | [Lovely Triplets](https://www.hackerrank.com/challenges/lovely-triplets)| Java |  | | Advanced | 80 | ||
+|   | [Array Construction](https://www.hackerrank.com/challenges/array-construction)| Java |  | | Advanced | 80 | ||
 
 
 ### Bit Manipulation
