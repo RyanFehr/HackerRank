@@ -193,12 +193,12 @@
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |   | [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro)| [Java]() |  | | Easy | 30| ||
-|   | [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1)| Java |  | | Easy | 30| ||
-|   | [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2)| Java |  | | Easy | 30| ||
+|   | [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Insertion%20Sort%20-%20Part%201/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
+|   | [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2)| [Java](https://www.hackerrank.com/challenges/insertionsort1)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Insertion%20Sort%20-%20Part%202/Solution.java) | _O(n^2)_ | _O(1)_ | Easy | 30| ||
 |   | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant)| Java |  | | Easy | 30| ||
 |   | [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime)| Java |  | | Easy | 30| ||
-|   | [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1)| Java |  | | Easy | 10| ||
-|   | [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2)| Java |  | | Easy | 30| ||
+|   | [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1)| Java |  |  | Easy | 10| ||
+|   | [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2)| Java |  |  | Easy | 30| ||
 |   | [Quicksort In-Place](https://www.hackerrank.com/challenges/quicksort3)| Java |  | | Medium| 35| ||
 |   | [Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4)| Java |  | | Easy | 35| ||
 |   | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1)| Java |  | | Easy | 30| ||
