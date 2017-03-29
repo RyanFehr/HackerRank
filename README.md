@@ -133,7 +133,7 @@
 |   | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Happy%20Ladybugs/Solution.java) |  | | Easy | 30| ||
 |   | [Strange Counter](https://www.hackerrank.com/challenges/strange-code)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Strange%20Counter/Solution.java) |  | | Easy | 30| ||
 |   | [Absolute Permuation](https://www.hackerrank.com/challenges/absolute-permutation)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Absolute%20Permuation/Solution.java) |  | | Medium | 40| ||
-|   | [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man)| [Java](https://www.hackerrank.com/challenges/absolute-permutation)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/The%20Bomberman%20Game/Solution.java) | _O(n*m)_ | _O(n*m)_ | Medium | 40| ||
+|   | [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/The%20Bomberman%20Game/Solution.java) | _O(n*m)_ | _O(n*m)_ | Medium | 40| ||
 |   | [Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses)| Java |  | | Medium | 40| ||
 |   | [Larry's Array](https://www.hackerrank.com/challenges/larrys-array)| Java |  | | Medium | 40| ||
 |   | [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted)| Java |  | | Medium | 50| ||
