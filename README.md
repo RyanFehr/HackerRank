@@ -8,7 +8,7 @@
 	If you have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-108-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-109-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
 </p>
@@ -193,10 +193,10 @@
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |   | [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro)| [Java]() |  | | Easy | 30| ||
-|   | [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Insertion%20Sort%20-%20Part%201/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
-|   | [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Insertion%20Sort%20-%20Part%202/Solution.java) | _O(n^2)_ | _O(1)_ | Easy | 30| ||
-|   | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Correctness%20and%20the%20Loop%20Invariant/Solution.java) | _O(n^2)_ | _O(1)_ | Easy | 30| ||
-|   | [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime)| Java |  | | Easy | 30| ||
+|   | [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Insertion%20Sort%20-%20Part%201/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30 | ||
+|   | [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Insertion%20Sort%20-%20Part%202/Solution.java) | _O(n^2)_ | _O(1)_ | Easy | 30 | ||
+|   | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Correctness%20and%20the%20Loop%20Invariant/Solution.java) | _O(n^2)_ | _O(1)_ | Easy | 30 | ||
+|   | [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Running%20Time%20of%20Algorithms/Solution.java) | _O(n^2)_ | _O(1)_ | Easy | 30 | ||
 |   | [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1)| Java |  |  | Easy | 10| ||
 |   | [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2)| Java |  |  | Easy | 30| ||
 |   | [Quicksort In-Place](https://www.hackerrank.com/challenges/quicksort3)| Java |  | | Medium| 35| ||
@@ -299,7 +299,7 @@
 
 [HackerRank]:http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg
 
-[Problems Solved]:https://img.shields.io/badge/Problems%20Solved-105-brightgreen.svg
+[Problems Solved]:https://img.shields.io/badge/Problems%20Solved-109-brightgreen.svg
 [Language]:https://img.shields.io/badge/Language-Java/Python/C++-orange.svg
 [UpToDate]:https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg
 
@@ -307,8 +307,8 @@
 [MachineLearningPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 [FunctionalLanguagesPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 
-[AlgorithmsRank]:https://img.shields.io/badge/Rank-6886-brightgreen.svg
-[AlgorithmsPoints]:https://img.shields.io/badge/Points-1994.42-brightgreen.svg
+[AlgorithmsRank]:https://img.shields.io/badge/Rank-5713-brightgreen.svg
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-2114.42-brightgreen.svg
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
