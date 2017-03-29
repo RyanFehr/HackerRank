@@ -8,7 +8,7 @@
 	If you have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-109-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-110-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
 </p>
@@ -133,7 +133,7 @@
 |   | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Happy%20Ladybugs/Solution.java) |  | | Easy | 30| ||
 |   | [Strange Counter](https://www.hackerrank.com/challenges/strange-code)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Strange%20Counter/Solution.java) |  | | Easy | 30| ||
 |   | [Absolute Permuation](https://www.hackerrank.com/challenges/absolute-permutation)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Absolute%20Permuation/Solution.java) |  | | Medium | 40| ||
-|   | [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man)| Java |  | | Medium | 40| ||
+|   | [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man)| [Java](https://www.hackerrank.com/challenges/absolute-permutation)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/The%20Bomberman%20Game/Solution.java) | _O(n*m)_ | _O(n*m)_ | Medium | 40| ||
 |   | [Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses)| Java |  | | Medium | 40| ||
 |   | [Larry's Array](https://www.hackerrank.com/challenges/larrys-array)| Java |  | | Medium | 40| ||
 |   | [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted)| Java |  | | Medium | 50| ||
@@ -299,16 +299,16 @@
 
 [HackerRank]:http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg
 
-[Problems Solved]:https://img.shields.io/badge/Problems%20Solved-109-brightgreen.svg
+[Problems Solved]:https://img.shields.io/badge/Problems%20Solved-110-brightgreen.svg
 [Language]:https://img.shields.io/badge/Language-Java/Python/C++-orange.svg
 [UpToDate]:https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg
 
-[AlgorithmsPercentile]:https://img.shields.io/badge/Percentile-83rd-brightgreen.svg
+[AlgorithmsPercentile]:https://img.shields.io/badge/Percentile-86th-brightgreen.svg
 [MachineLearningPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 [FunctionalLanguagesPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 
-[AlgorithmsRank]:https://img.shields.io/badge/Rank-5713-brightgreen.svg
-[AlgorithmsPoints]:https://img.shields.io/badge/Points-2114.42-brightgreen.svg
+[AlgorithmsRank]:https://img.shields.io/badge/Rank-5603-brightgreen.svg
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-2131.09-brightgreen.svg
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
