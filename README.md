@@ -8,7 +8,7 @@
 	If you have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-112-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-113-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
 </p>
@@ -90,7 +90,8 @@
 |   | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Bon%20Appetit/Solution.java) |  | | Easy| 10| ||
 |   | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Sock%20Merchant/Solution.java) |  | | Easy| 10| ||
 |   | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Drawing%20Book/Solution.java) |  | | Easy| 10| ||
-|   | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Cats%20and%20a%20Mouse/Solution.java) | _O(1)_ | _O(1)_ | Easy| 15| ||
+|   | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Drawing%20Book/Solution.java) | _O(n)_ | _O(1)_ | Easy| 15| ||
+|   | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Counting%20Valleys/Solution.java) | _O(1)_ | _O(1)_ | Easy| 15| ||
 |   | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Picking%20Numbers/Solution.java) | _O(n)_ | _O(n)_ | Easy| 20| ||
 |   | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Climbing%20the%20Leaderboard/Solution.java) | _O(n+m)_ | _(n)_ | Easy| 20| ||
 |   | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/The%20Hurdle%20Race/Solution.java) | _O(n)_ | _O(1)_ | Easy| 15| ||
@@ -308,8 +309,8 @@
 [MachineLearningPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 [FunctionalLanguagesPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 
-[AlgorithmsRank]:https://img.shields.io/badge/Rank-5445-brightgreen.svg
-[AlgorithmsPoints]:https://img.shields.io/badge/Points-2155.09-brightgreen.svg
+[AlgorithmsRank]:https://img.shields.io/badge/Rank-5361-brightgreen.svg
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-2170.09-brightgreen.svg
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
