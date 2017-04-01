@@ -8,7 +8,7 @@
 	If you have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-113-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-114-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
 </p>
@@ -199,7 +199,7 @@
 |   | [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Insertion%20Sort%20-%20Part%202/Solution.java) | _O(n^2)_ | _O(1)_ | Easy | 30 | ||
 |   | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Correctness%20and%20the%20Loop%20Invariant/Solution.java) | _O(n^2)_ | _O(1)_ | Easy | 30 | ||
 |   | [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Running%20Time%20of%20Algorithms/Solution.java) | _O(n^2)_ | _O(1)_ | Easy | 30 | ||
-|   | [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1)| Java |  |  | Easy | 10| ||
+|   | [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Quicksort%201%20-%20Partition/Solution.java) | _O(n)_ | _O(n)_ | Easy | 10| ||
 |   | [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2)| Java |  |  | Easy | 30| ||
 |   | [Quicksort In-Place](https://www.hackerrank.com/challenges/quicksort3)| Java |  | | Medium| 35| ||
 |   | [Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4)| Java |  | | Easy | 35| ||
