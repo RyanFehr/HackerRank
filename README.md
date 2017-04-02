@@ -217,7 +217,7 @@
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |   | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters)| Java |  | | Easy | 15 | ||
-|   | [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)| [Java]() |  | | Easy | 30 | ||
+|   | [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Search/Ice%20Cream%20Parlor/Solution.java) | _O(n)_ | _O(n)_ | Easy | 30 | ||
 |   | [Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro)| Java |  | | Medium | 25 | ||
 |   | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)| Java |  | | Easy | 45 | ||
 |   | [KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard)| Java |  | | Medium | 35 | ||
