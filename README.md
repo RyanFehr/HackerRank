@@ -194,15 +194,15 @@
 ### Sorting
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro)| [Java]() |  | | Easy | 30| ||
+|   | [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Intro%20to%20Tutorial%20Challenges/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
 |   | [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Insertion%20Sort%20-%20Part%201/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30 | ||
 |   | [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Insertion%20Sort%20-%20Part%202/Solution.java) | _O(n^2)_ | _O(1)_ | Easy | 30 | ||
 |   | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Correctness%20and%20the%20Loop%20Invariant/Solution.java) | _O(n^2)_ | _O(1)_ | Easy | 30 | ||
 |   | [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Running%20Time%20of%20Algorithms/Solution.java) | _O(n^2)_ | _O(1)_ | Easy | 30 | ||
 |   | [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Quicksort%201%20-%20Partition/Solution.java) | _O(n)_ | _O(n)_ | Easy | 10| ||
 |   | [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Quicksort%202%20-%20Sorting/Solution.java) | _O(n^2)_ | _O(n)_ | Easy | 30| ||
-|   | [Quicksort In-Place](https://www.hackerrank.com/challenges/quicksort3)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Quicksort%20In-Place/Solution.java) | _O(n^2)_ | _O(log n)_ | Medium| 35| ||
-|   | [Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4)| Java |  | | Easy | 35| ||
+|   | [Quicksort In-Place](https://www.hackerrank.com/challenges/quicksort3)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Quicksort%20In-Place/Solution.java) | _O(n^2)_ | _O(log(n))_ | Medium| 35| ||
+|   | [Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Running%20Time%20of%20Quicksort/Solution.java) | _O(n log(n))_ | _O(log(n))_ | Easy | 35| ||
 |   | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1)| Java |  | | Easy | 30| ||
 |   | [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2)| Java |  | | Easy | 30| ||
 |   | [Counting Sort 3](https://www.hackerrank.com/challenges/countingsort3)| Java |  | | Easy | 30| ||
