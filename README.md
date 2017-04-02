@@ -310,7 +310,7 @@
 [FunctionalLanguagesPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 
 [AlgorithmsRank]:https://img.shields.io/badge/Rank-4905-brightgreen.svg
-[AlgorithmsPoints]:https://img.shields.io/badge/Points-22245.09-brightgreen.svg
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-2245.09-brightgreen.svg
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
