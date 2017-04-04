@@ -8,7 +8,7 @@
 	If you have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-119-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-120-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
 </p>
@@ -205,7 +205,7 @@
 |   | [Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Running%20Time%20of%20Quicksort/Solution.java) | _O(n log(n))_ | _O(log(n))_ | Easy | 35| ||
 |   | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Counting%20Sort%201/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
 |   | [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Counting%20Sort%202/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
-|   | [Counting Sort 3](https://www.hackerrank.com/challenges/countingsort3)| Java |  | | Easy | 30| ||
+|   | [Counting Sort 3](https://www.hackerrank.com/challenges/countingsort3)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Counting%20Sort%203/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
 |   | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4)| Java |  | | Medium | 40| ||
 |   | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)| Java |  | | Easy | 35| ||
 |   | [Find the Median](https://www.hackerrank.com/challenges/find-the-median)| Java |  | | Easy | 35| ||
