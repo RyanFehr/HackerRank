@@ -2,13 +2,16 @@
 	<a href="https://www.hackerrank.com/ryanfehr18"><img src="http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg" ></a>
 </p>
 <p align="center">
-    Solutions to problems on HackerRank. 
+    Solutions to problems on HackerRank.
 </p>
 <p align="center">
-	If you have a solution in a different language feel free to make a pull request.
+	Updating to HackerRank's new format soon!
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-120-brightgreen.svg">
+	If you are interested in helping or have a solution in a different language feel free to make a pull request.
+</p>
+<p align="center">
+	<img src="https://img.shields.io/badge/Problems%20Solved-121-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
 </p>
@@ -203,10 +206,10 @@
 |   | [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Quicksort%202%20-%20Sorting/Solution.java) | _O(n^2)_ | _O(n)_ | Easy | 30| ||
 |   | [Quicksort In-Place](https://www.hackerrank.com/challenges/quicksort3)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Quicksort%20In-Place/Solution.java) | _O(n^2)_ | _O(log(n))_ | Medium| 35| ||
 |   | [Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Running%20Time%20of%20Quicksort/Solution.java) | _O(n log(n))_ | _O(log(n))_ | Easy | 35| ||
-|   | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Counting%20Sort%201/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
-|   | [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Counting%20Sort%202/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
-|   | [Counting Sort 3](https://www.hackerrank.com/challenges/countingsort3)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Counting%20Sort%203/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
-|   | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4)| Java |  | | Medium | 40| ||
+|   | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Counting%20Sort%201/Solution.java) | _O(n+k)_ | _O(k)_ | Easy | 30| ||
+|   | [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Counting%20Sort%202/Solution.java) | _O(n+k)_ | _O(k)_ | Easy | 30| ||
+|   | [Counting Sort 3](https://www.hackerrank.com/challenges/countingsort3)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Counting%20Sort%203/Solution.java) | _O(n+k)_ | _O(k)_ | Easy | 30| ||
+|   | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/The%20Full%20Counting%20Sort/Solution.java) | _O(n+k)_ | _O(k)_ | Medium | 40| ||
 |   | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)| Java |  | | Easy | 35| ||
 |   | [Find the Median](https://www.hackerrank.com/challenges/find-the-median)| Java |  | | Easy | 35| ||
 |   | [Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort)| Java |  | | Advanced | 50| ||
@@ -301,16 +304,16 @@
 
 [HackerRank]:http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg
 
-[Problems Solved]:https://img.shields.io/badge/Problems%20Solved-119-brightgreen.svg
+[Problems Solved]:https://img.shields.io/badge/Problems%20Solved-121-brightgreen.svg
 [Language]:https://img.shields.io/badge/Language-Java/Python/C++-orange.svg
 [UpToDate]:https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg
 
-[AlgorithmsPercentile]:https://img.shields.io/badge/Percentile-88th-brightgreen.svg
+[AlgorithmsPercentile]:https://img.shields.io/badge/Percentile-89th-brightgreen.svg
 [MachineLearningPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 [FunctionalLanguagesPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 
 [AlgorithmsRank]:https://img.shields.io/badge/Rank-4392-brightgreen.svg
-[AlgorithmsPoints]:https://img.shields.io/badge/Points-2340.09-brightgreen.svg
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-2435.09-brightgreen.svg
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg

@@ -1,8 +1,8 @@
 //Problem: https://www.hackerrank.com/challenges/countingsort2
 //Java 8
 /*
-Time Complexity: O(n)
-Space Complexity: O(1)
+Time Complexity: O(n+k) //k is the total numbers and k is total unique numbers
+Space Complexity: O(k) //we have to intialize an array to the number of unique numbers
 */
 import java.io.*;
 import java.util.*;
