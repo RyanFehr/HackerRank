@@ -292,7 +292,7 @@
 ### Game Theory
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-
+|  |[Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Graph%20Theory/Journey%20to%20the%20Moon/Solution.java) | _O(n + i)_ | _O(n)_| Medium | 50 | ||
 
 ### NP Complete
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
