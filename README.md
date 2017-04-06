@@ -11,7 +11,7 @@
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-121-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-122-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
 </p>
@@ -210,6 +210,7 @@
 |   | [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Counting%20Sort%202/Solution.java) | _O(n+k)_ | _O(k)_ | Easy | 30| ||
 |   | [Counting Sort 3](https://www.hackerrank.com/challenges/countingsort3)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Counting%20Sort%203/Solution.java) | _O(n+k)_ | _O(k)_ | Easy | 30| ||
 |   | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/The%20Full%20Counting%20Sort/Solution.java) | _O(n+k)_ | _O(k)_ | Medium | 40| ||
+|   | [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Marc's%20Cakewalk/Solution.java) | _O(n + k)_ | _O(k)_ | Easy | 15| ||
 |   | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)| Java |  | | Easy | 35| ||
 |   | [Find the Median](https://www.hackerrank.com/challenges/find-the-median)| Java |  | | Easy | 35| ||
 |   | [Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort)| Java |  | | Advanced | 50| ||
@@ -313,7 +314,7 @@
 [FunctionalLanguagesPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 
 [AlgorithmsRank]:https://img.shields.io/badge/Rank-4392-brightgreen.svg
-[AlgorithmsPoints]:https://img.shields.io/badge/Points-2435.09-brightgreen.svg
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-2450.09-brightgreen.svg
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
