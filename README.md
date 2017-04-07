@@ -211,6 +211,7 @@
 |   | [Counting Sort 3](https://www.hackerrank.com/challenges/countingsort3)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Counting%20Sort%203/Solution.java) | _O(n+k)_ | _O(k)_ | Easy | 30| ||
 |   | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/The%20Full%20Counting%20Sort/Solution.java) | _O(n+k)_ | _O(k)_ | Medium | 40| ||
 |   | [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Marc's%20Cakewalk/Solution.java) | _O(n + k)_ | _O(k)_ | Easy | 15| ||
+|   | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Minimum%20Absolute%20Difference%20in%20an%20Array/Solution.java) | _O(n log n)_ | _O(1)_ | Easy | 15| ||
 |   | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)| Java |  | | Easy | 35| ||
 |   | [Find the Median](https://www.hackerrank.com/challenges/find-the-median)| Java |  | | Easy | 35| ||
 |   | [Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort)| Java |  | | Advanced | 50| ||
