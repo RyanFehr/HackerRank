@@ -326,3 +326,5 @@
 
 [JavaRank]:https://img.shields.io/badge/Rank-20998-yellow.svg
 [JavaPoints]:https://img.shields.io/badge/Points-163.00-yellow.svg
+
+[CopyrightLicense]:https://github.com/RyanFehr/HackerRank/blob/master/license.md
