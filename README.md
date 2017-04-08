@@ -169,7 +169,7 @@
 |   | [Anagram](https://www.hackerrank.com/challenges/anagram)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Anagram/Solution.java) | _O(n)_ | _O(1)_ | Easy | 25| ||
 |   | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Making%20Anagrams/Solution.java) |  | | Easy | 30| ||
 |   | [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Game%20of%20Thrones-I/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
-|   | [Two Strings](https://www.hackerrank.com/challenges/two-strings)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Two%20Strings/Solution.java) | _O(|a| + |b|)_ | _O(1)_ | Easy | 25| ||
+|   | [Two Strings](https://www.hackerrank.com/challenges/two-strings)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Two%20Strings/Solution.java) | _O(&#124;a&#124; + &#124;b&#124;)_ | _O(1)_ | Easy | 25| ||
 |   | [String Construction](https://www.hackerrank.com/challenges/string-construction)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/String%20Construction/Solution.java) |   |  | Easy | 25| ||
 |   | [Sherlock and Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Sherlock%20and%20Valid%20String/Solution.java) | _O(n)_ | _O(n)_ | Hard | 100| ||
 |   | [Richie Rich](https://www.hackerrank.com/challenges/richie-rich)| Java |  | | Medium | 30| ||
