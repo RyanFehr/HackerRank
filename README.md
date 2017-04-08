@@ -11,7 +11,7 @@
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-122-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-124-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
 </p>
@@ -88,6 +88,7 @@
 |   | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Kangaroo/Solution.java) |  | | Easy| 10| ||
 |   | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Between%20Two%20Sets/Solution.java) |  | | Easy| 10| ||
 |   | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Divisible%20Sum%20Pairs/Solution.java) |  | | Easy| 10| ||
+|   | [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Birthday%20Chocolate/Solution.java) | _O(n)_ | __O(1) | Easy| 10| ||
 |   | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Breaking%20the%20Records/Solution.java) | _O(n)_ | _O(1)_ | Easy| 10| ||
 |   | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Migratory%20Birds/Solution.java) |  | | Easy| 10| ||
 |   | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Bon%20Appetit/Solution.java) |  | | Easy| 10| ||
@@ -306,7 +307,7 @@
 
 [HackerRank]:http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg
 
-[Problems Solved]:https://img.shields.io/badge/Problems%20Solved-121-brightgreen.svg
+[Problems Solved]:https://img.shields.io/badge/Problems%20Solved-124-brightgreen.svg
 [Language]:https://img.shields.io/badge/Language-Java/Python/C++-orange.svg
 [UpToDate]:https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg
 
@@ -315,7 +316,7 @@
 [FunctionalLanguagesPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 
 [AlgorithmsRank]:https://img.shields.io/badge/Rank-4392-brightgreen.svg
-[AlgorithmsPoints]:https://img.shields.io/badge/Points-2450.09-brightgreen.svg
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-2515.09-brightgreen.svg
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
