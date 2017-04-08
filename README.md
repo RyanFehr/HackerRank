@@ -1,3 +1,4 @@
+[CopyrightLicense]:https://github.com/RyanFehr/HackerRank/blob/master/license.md
 <p align="center">
 	<a href="https://www.hackerrank.com/ryanfehr18"><img src="http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg" ></a>
 </p>
@@ -326,5 +327,3 @@
 
 [JavaRank]:https://img.shields.io/badge/Rank-20998-yellow.svg
 [JavaPoints]:https://img.shields.io/badge/Points-163.00-yellow.svg
-
-[CopyrightLicense]:https://github.com/RyanFehr/HackerRank/blob/master/license.md
