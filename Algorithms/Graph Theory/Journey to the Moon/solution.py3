@@ -1,6 +1,22 @@
+'''
+Problem: https://www.hackerrank.com/challenges/journey-to-the-moon
+Python 3
+
+Thoughts: Using Quick Find approach to build 
+Connected componenets. Basically each Connected 
+Componenet is a Country. Number of nodes in each component
+is number of people in each country. 
+Using a counts array and an iteration over connected components
+array to get count of people in each country.
+Simple Mathematics to get total possibilities.
+
+Time Complexity:  O(N*P)
+Space Complexity: O(N)
+'''
+
 N,P = list(map(int,input().strip().split(' ')))
 connections = [-1] * N
-'''Solution for https://www.hackerrank.com/challenges/journey-to-the-moon'''
+
 
 '''Basic way of storing connected components for quick find.'''
 def connect_quick_find(connections, u, v):
