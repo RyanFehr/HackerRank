@@ -247,7 +247,7 @@
 ### Graph Theory
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-
+|   | [Journey To The Moon](https://www.hackerrank.com/challenges/journey-to-the-moon)| [Python 3](https://github.com/capitan-jack/HackerRank/blob/patch-1/Algorithms/Graph%20Theory/Journey%20to%20the%20Moon/solution.py3) |O(N*P)  |O(n) | Medium | 50 | ||
 
 ### Dynamic Programming
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
