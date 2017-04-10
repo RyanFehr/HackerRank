@@ -312,6 +312,7 @@
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |   | [Class vs. Instance](https://www.hackerrank.com/challenges/class-vs-instance)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Java/Class%20vs.%20Instance/Solution.java) | _N/A_ | _N/A_ | Easy | 30| ||
 |   | [Inheritance](https://www.hackerrank.com/challenges/inheritance)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Java/Inheritance/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30 | ||
+|   | [Abstract Classes](https://www.hackerrank.com/challenges/abstract-classes)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Java/Abstract%20Classes/Solution.java) | _N/A_ | _N/A_ | Easy | 30| ||
 
 [HackerRank]:http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg
 
