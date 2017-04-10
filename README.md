@@ -310,7 +310,7 @@
 ### Object Oriented Programming
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Inheritance](https://www.hackerrank.com/challenges/inheritance)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Java/Inheritance/Solution.java) | _O(n)_ | _O(1)_ | Expert | 100 | ||
+|   | [Inheritance](https://www.hackerrank.com/challenges/inheritance)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Java/Inheritance/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30 | ||
 
 [HackerRank]:http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg
 
