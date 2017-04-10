@@ -305,8 +305,12 @@
 |   | [Walking the Approximate Longest Path](https://www.hackerrank.com/challenges/walking-the-approximate-longest-path)| Java |  | | Hard | 70 | ||
 |   | [Sam's Puzzle (Approximate)](https://www.hackerrank.com/challenges/sams-puzzle)| Java |  | | Advanced | 85 | ||
 |   | [Spies, Revised](https://www.hackerrank.com/challenges/spies-revised)| Java |  | | Expert | 100 | ||
-|   | [TBS Problem](https://www.hackerrank.com/challenges/tbsp)| Java |  | | Expert | 100 | ||
+|   | [TBS Problem](https://www.hackerrank.com/challenges/inheritance)| Java |  | | Expert | 100 | ||
 
+### Object Oriented Programming
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|   | [Inheritance](https://www.hackerrank.com/challenges/inheritance)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Java/Inheritance/Solution.java) | _O(n)_ | _O(1)_ | Expert | 100 | ||
 
 [HackerRank]:http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg
 
