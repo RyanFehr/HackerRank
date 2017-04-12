@@ -172,7 +172,7 @@
 |   | [Two Strings](https://www.hackerrank.com/challenges/two-strings)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Two%20Strings/Solution.java) | _O(&#124;a&#124; + &#124;b&#124;)_ | _O(1)_ | Easy | 25| ||
 |   | [String Construction](https://www.hackerrank.com/challenges/string-construction)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/String%20Construction/Solution.java) |   |  | Easy | 25| ||
 |   | [Sherlock and Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Sherlock%20and%20Valid%20String/Solution.java) | _O(n)_ | _O(n)_ | Hard | 100| ||
-|   | [Richie Rich](https://www.hackerrank.com/challenges/richie-rich)| Java |  | | Medium | 30| ||
+|   | [Richie Rich](https://www.hackerrank.com/challenges/richie-rich)| Java [Python 3](./Algorithms/Strings/Richie%20Rich/solution.py)| _O(n)_  | _O(n)_ | Medium | 30| ||
 |   | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams)| Java |  | | Medium | 50| ||
 |   | [Common Child](https://www.hackerrank.com/challenges/common-child)| Java |  | | Hard | 60| ||
 |   | [Bear and Steady Gene](https://www.hackerrank.com/challenges/bear-and-steady-gene)| Java |  | | Medium | 50| ||
