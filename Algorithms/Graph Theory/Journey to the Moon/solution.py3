@@ -10,7 +10,7 @@ Using a counts array and an iteration over connected components
 array to get count of people in each country.
 Simple Mathematics to get total possibilities.
 
-Time Complexity:  O(N*P)
+Time Complexity:  O(N + I)
 Space Complexity: O(N)
 '''
 
