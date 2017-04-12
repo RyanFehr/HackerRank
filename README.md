@@ -1,3 +1,4 @@
+[CopyrightLicense]:https://github.com/RyanFehr/HackerRank/blob/master/license.md
 <p align="center">
 	<a href="https://www.hackerrank.com/ryanfehr18"><img src="http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg" ></a>
 </p>
@@ -11,7 +12,7 @@
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-122-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-125-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
 </p>
@@ -88,6 +89,7 @@
 |   | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Kangaroo/Solution.java) |  | | Easy| 10| ||
 |   | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Between%20Two%20Sets/Solution.java) |  | | Easy| 10| ||
 |   | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Divisible%20Sum%20Pairs/Solution.java) |  | | Easy| 10| ||
+|   | [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Birthday%20Chocolate/Solution.java) | _O(n)_ | _O(1)_ | Easy| 10| ||
 |   | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Breaking%20the%20Records/Solution.java) | _O(n)_ | _O(1)_ | Easy| 10| ||
 |   | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Migratory%20Birds/Solution.java) |  | | Easy| 10| ||
 |   | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Bon%20Appetit/Solution.java) |  | | Easy| 10| ||
@@ -95,6 +97,7 @@
 |   | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Drawing%20Book/Solution.java) |  | | Easy| 10| ||
 |   | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Counting%20Valleys/Solution.java) | _O(n)_ | _O(1)_ | Easy| 15| ||
 |   | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Cats%20and%20a%20Mouse/Solution.java) | _O(1)_ | _O(1)_ | Easy| 15| ||
+|   | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Electronics%20Shop/Solution.java) | _O(n log (n))_ | _O(1)_ | Easy| 15| n = m+n||
 |   | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Picking%20Numbers/Solution.java) | _O(n)_ | _O(n)_ | Easy| 20| ||
 |   | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Climbing%20the%20Leaderboard/Solution.java) | _O(n+m)_ | _(n)_ | Easy| 20| ||
 |   | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/The%20Hurdle%20Race/Solution.java) | _O(n)_ | _O(1)_ | Easy| 15| ||
@@ -166,7 +169,7 @@
 |   | [Anagram](https://www.hackerrank.com/challenges/anagram)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Anagram/Solution.java) | _O(n)_ | _O(1)_ | Easy | 25| ||
 |   | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Making%20Anagrams/Solution.java) |  | | Easy | 30| ||
 |   | [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Game%20of%20Thrones-I/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
-|   | [Two Strings](https://www.hackerrank.com/challenges/two-strings)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Two%20Strings/Solution.java) | _O(|a| + |b|)_ | _O(1)_ | Easy | 25| ||
+|   | [Two Strings](https://www.hackerrank.com/challenges/two-strings)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Two%20Strings/Solution.java) | _O(&#124;a&#124; + &#124;b&#124;)_ | _O(1)_ | Easy | 25| ||
 |   | [String Construction](https://www.hackerrank.com/challenges/string-construction)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/String%20Construction/Solution.java) |   |  | Easy | 25| ||
 |   | [Sherlock and Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Sherlock%20and%20Valid%20String/Solution.java) | _O(n)_ | _O(n)_ | Hard | 100| ||
 |   | [Richie Rich](https://www.hackerrank.com/challenges/richie-rich)| Java |  | | Medium | 30| ||
@@ -211,6 +214,8 @@
 |   | [Counting Sort 3](https://www.hackerrank.com/challenges/countingsort3)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Counting%20Sort%203/Solution.java) | _O(n+k)_ | _O(k)_ | Easy | 30| ||
 |   | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/The%20Full%20Counting%20Sort/Solution.java) | _O(n+k)_ | _O(k)_ | Medium | 40| ||
 |   | [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Marc's%20Cakewalk/Solution.java) | _O(n + k)_ | _O(k)_ | Easy | 15| ||
+|   | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Minimum%20Absolute%20Difference%20in%20an%20Array/Solution.java) | _O(n log(n))_ | _O(1)_ | Easy | 15| ||
+|   | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Luck%20Balance/Solution.java) | _O(n log(n))_ | _O(1)_ | Easy | 20| ||
 |   | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)| Java |  | | Easy | 35| ||
 |   | [Find the Median](https://www.hackerrank.com/challenges/find-the-median)| Java |  | | Easy | 35| ||
 |   | [Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort)| Java |  | | Advanced | 50| ||
@@ -222,6 +227,7 @@
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |   | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters)| Java |  | | Easy | 15 | ||
 |   | [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Search/Ice%20Cream%20Parlor/Solution.java) | _O(n)_ | _O(n)_ | Easy | 30 | ||
+|   | [Binary Search: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Search/Binary%20Search%20Ice%20Cream%20Parlor/Solution.java) | _O(n)_ | _O(n)_ | Easy | 35 | ||
 |   | [Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro)| Java |  | | Medium | 25 | ||
 |   | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)| Java |  | | Easy | 45 | ||
 |   | [KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard)| Java |  | | Medium | 35 | ||
@@ -247,7 +253,7 @@
 ### Graph Theory
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-
+|  |[Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Graph%20Theory/Journey%20to%20the%20Moon/Solution.java) | _O(n + i)_ | _O(n)_| Medium | 50 | ||
 
 ### Dynamic Programming
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
@@ -300,21 +306,27 @@
 |   | [Walking the Approximate Longest Path](https://www.hackerrank.com/challenges/walking-the-approximate-longest-path)| Java |  | | Hard | 70 | ||
 |   | [Sam's Puzzle (Approximate)](https://www.hackerrank.com/challenges/sams-puzzle)| Java |  | | Advanced | 85 | ||
 |   | [Spies, Revised](https://www.hackerrank.com/challenges/spies-revised)| Java |  | | Expert | 100 | ||
-|   | [TBS Problem](https://www.hackerrank.com/challenges/tbsp)| Java |  | | Expert | 100 | ||
+|   | [TBS Problem](https://www.hackerrank.com/challenges/inheritance)| Java |  | | Expert | 100 | ||
 
+### Object Oriented Programming
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|   | [Class vs. Instance](https://www.hackerrank.com/challenges/class-vs-instance)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Java/Class%20vs.%20Instance/Solution.java) | _N/A_ | _N/A_ | Easy | 30| ||
+|   | [Inheritance](https://www.hackerrank.com/challenges/inheritance)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Java/Inheritance/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30 | ||
+|   | [Abstract Classes](https://www.hackerrank.com/challenges/abstract-classes)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Java/Abstract%20Classes/Solution.java) | _N/A_ | _N/A_ | Easy | 30| ||
 
 [HackerRank]:http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg
 
-[Problems Solved]:https://img.shields.io/badge/Problems%20Solved-121-brightgreen.svg
+[Problems Solved]:https://img.shields.io/badge/Problems%20Solved-124-brightgreen.svg
 [Language]:https://img.shields.io/badge/Language-Java/Python/C++-orange.svg
 [UpToDate]:https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg
 
-[AlgorithmsPercentile]:https://img.shields.io/badge/Percentile-89th-brightgreen.svg
+[AlgorithmsPercentile]:https://img.shields.io/badge/Percentile-90th-brightgreen.svg
 [MachineLearningPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 [FunctionalLanguagesPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 
 [AlgorithmsRank]:https://img.shields.io/badge/Rank-4392-brightgreen.svg
-[AlgorithmsPoints]:https://img.shields.io/badge/Points-2450.09-brightgreen.svg
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-2530.09-brightgreen.svg
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
