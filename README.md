@@ -261,7 +261,7 @@
 ### Dynamic Programming
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|  |[The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change)|  [Python 3](./Algorithms/Dynamic%Programming/The%20Coin%20Change%20Problem/solution.py) | _O(N*M)_ | _O(N)_| Hard | 60 | ||
+|  |[The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change)|  [Python 3](./Algorithms/Dynamic%20Programming/The%20Coin%20Change%20Problem/solution.py) | _O(N*M)_ | _O(N)_| Hard | 60 | ||
 
 ### Constructive Algorithms
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
