@@ -12,7 +12,7 @@
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-125-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-132-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
 </p>
@@ -146,6 +146,9 @@
 |   | [Larry's Array](https://www.hackerrank.com/challenges/larrys-array)| Java |  | | Medium | 40| ||
 |   | [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted)| Java |  | | Medium | 50| ||
 |   | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo)| Java |  | | Hard | 80| ||
+|   | [Consecutive 1s in Binary Numbers](https://www.hackerrank.com/challenges/linkedin-practice-binary-numbers)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Consecutive%201s%20in%20Binary%20Numbers/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
+|   | [Nested Logic](https://www.hackerrank.com/challenges/linkedin-practice-nested-logic)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Nested%20Logic/Solution.java) | _O(1)_ | _O(1)_ | Easy | 40| ||
+
 
 ### Strings
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
@@ -317,7 +320,7 @@
 
 [HackerRank]:http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg
 
-[Problems Solved]:https://img.shields.io/badge/Problems%20Solved-124-brightgreen.svg
+[Problems Solved]:https://img.shields.io/badge/Problems%20Solved-132-brightgreen.svg
 [Language]:https://img.shields.io/badge/Language-Java/Python/C++-orange.svg
 [UpToDate]:https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg
 
@@ -326,7 +329,7 @@
 [FunctionalLanguagesPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 
 [AlgorithmsRank]:https://img.shields.io/badge/Rank-4392-brightgreen.svg
-[AlgorithmsPoints]:https://img.shields.io/badge/Points-2530.09-brightgreen.svg
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-2767.95-brightgreen.svg
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
