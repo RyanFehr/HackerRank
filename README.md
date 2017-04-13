@@ -146,7 +146,7 @@
 |   | [Larry's Array](https://www.hackerrank.com/challenges/larrys-array)| Java |  | | Medium | 40| ||
 |   | [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted)| Java |  | | Medium | 50| ||
 |   | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo)| Java |  | | Hard | 80| ||
-|   | [Consecutive 1s in Binary Numbers](https://www.hackerrank.com/challenges/matrix-rotation-algo)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Consecutive%201s%20in%20Binary%20Numbers/Solution.java) | _-O(n) | _O(1)_ | Easy | 30| ||
+|   | [Consecutive 1s in Binary Numbers](https://www.hackerrank.com/challenges/linkedin-practice-binary-numbers)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Consecutive%201s%20in%20Binary%20Numbers/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
 
 ### Strings
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
