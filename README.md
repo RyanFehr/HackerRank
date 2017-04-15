@@ -12,7 +12,7 @@
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-132-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-135-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
 </p>
@@ -149,7 +149,7 @@
 |   | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo)| Java |  | | Hard | 80| ||
 |   | [Consecutive 1s in Binary Numbers](https://www.hackerrank.com/challenges/linkedin-practice-binary-numbers)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Consecutive%201s%20in%20Binary%20Numbers/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
 |   | [Nested Logic](https://www.hackerrank.com/challenges/linkedin-practice-nested-logic)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Nested%20Logic/Solution.java) | _O(1)_ | _O(1)_ | Easy | 40| ||
-
+|   | [Bitwise AND](https://www.hackerrank.com/challenges/linkedin-practice-bitwise-and)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Bitwise%20AND/Solution.java) | _O(1)_ | _O(1)_ | Easy | 20| ||
 
 ### Strings
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
