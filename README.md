@@ -180,7 +180,7 @@
 |   | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams)| Java |  | | Medium | 50| ||
 |   | [Common Child](https://www.hackerrank.com/challenges/common-child)| Java |  | | Hard | 60| ||
 |   | [Bear and Steady Gene](https://www.hackerrank.com/challenges/bear-and-steady-gene)| Java |  | | Medium | 50| ||
-|   | [Morgan and a String](https://www.hackerrank.com/challenges/morgan-and-a-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Morgan%20and%20a%20String/Solution.java) | _O(&#124;a&#124;+&#124;b&#124;^2)_ | _O(&#124;a&#124; + &#124;b&#124;)_ | Expert | 100| ||
+|   | [Morgan and a String](https://www.hackerrank.com/challenges/morgan-and-a-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Morgan%20and%20a%20String/Solution.java) | _O((&#124;a&#124;+&#124;b&#124;)^2)_ | _O(&#124;a&#124; + &#124;b&#124;)_ | Expert | 100| ||
 |   | [Count Strings](https://www.hackerrank.com/challenges/count-strings)| Java |  | | Hard | 80| ||
 |   | [String Function Calculation](https://www.hackerrank.com/challenges/string-function-calculation)| Java |  | | Advanced | 80| ||
 |   | [Build a Palindrome](https://www.hackerrank.com/challenges/challenging-palindromes)| Java |  | | Advanced | 80| ||
