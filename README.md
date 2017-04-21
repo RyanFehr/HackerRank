@@ -12,7 +12,7 @@
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-139-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-140-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
 </p>
@@ -220,7 +220,7 @@
 |   | [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Marc's%20Cakewalk/Solution.java) | _O(n + k)_ | _O(k)_ | Easy | 15| ||
 |   | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Minimum%20Absolute%20Difference%20in%20an%20Array/Solution.java) | _O(n log(n))_ | _O(1)_ | Easy | 15| ||
 |   | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Luck%20Balance/Solution.java) | _O(n log(n))_ | _O(1)_ | Easy | 20| ||
-|   | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)| Java |  | | Easy | 35| ||
+|   | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Closest%20Numbers/Solution.java) | _O(n log(n))_ | _O(n)_ | Easy | 35| ||
 |   | [Find the Median](https://www.hackerrank.com/challenges/find-the-median)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Find%20the%20Median/Solution.java) | _O(n log(n))_ | _O(n)_ | Easy | 35| ||
 |   | [Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort)| Java |  | | Advanced | 50| ||
 |   | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications)| Java |  | | Medium | 40| ||
@@ -331,7 +331,7 @@
 [FunctionalLanguagesPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 
 [AlgorithmsRank]:https://img.shields.io/badge/Rank-4392-brightgreen.svg
-[AlgorithmsPoints]:https://img.shields.io/badge/Points-2955-brightgreen.svg
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-2990-brightgreen.svg
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
