@@ -12,7 +12,7 @@
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-140-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-141-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
 </p>
@@ -258,7 +258,13 @@
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |  |[Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Graph%20Theory/Journey%20to%20the%20Moon/Solution.java) [Python 3](./Algorithms/Graph%20Theory/Journey%20to%20the%20Moon/solution.py3) | _O(n + i)_ | _O(n)_| Medium | 50 | ||
-|  |[Rust & Murderer](https://www.hackerrank.com/challenges/rust-murderer)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Graph%20Theory/Rust%20&%20Murderer/Solution.java)| _O(n+m)_ | _O(n)_| Medium | 70 | ||
+|  |[Rust & Murderer](https://www.hackerrank.com/challenges/mark-and-toys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Graph%20Theory/Rust%20&%20Murderer/Solution.java)| _O(n+m)_ | _O(n)_| Medium | 70 | ||
+
+### Greedy
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|  |[Chief Hopper](https://www.hackerrank.com/challenges/rust-murderer)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Chief%20Hopper/Solution.java)| _O(n)_ | _O(n)_| Hard | 65 | ||
+|  |[Mark and Toys](https://www.hackerrank.com/challenges/rust-murderer)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Mark%20and%20Toys/Solution.java)| _O(n log(n))_ | _O(n)_| Easy | 35 | ||
 
 ### Dynamic Programming
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
