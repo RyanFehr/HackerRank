@@ -225,6 +225,7 @@
 |   | [Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort)| Java |  | | Advanced | 50| ||
 |   | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications)| Java |  | | Medium | 40| ||
 |   | [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework)| Java |  | | Medium | 40| ||
+|   | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Big%20Sorting/Solution.java) | _O(n log(n))_ | _O(n)_ | Easy | 20| ||
 
 ### Search
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
