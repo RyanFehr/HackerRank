@@ -30,6 +30,7 @@
 - [Sorting](https://github.com/RyanFehr/HackerRank#sorting)
 - [Search](https://github.com/RyanFehr/HackerRank#search)
 - [Graph Theory](https://github.com/RyanFehr/HackerRank#graph-theory)
+- [Greedy](https://github.com/RyanFehr/HackerRank#greedy)
 - [Dynamic Programming](https://github.com/RyanFehr/HackerRank#dynamic-programming)
 - [Constructive Algorithms](https://github.com/RyanFehr/HackerRank#constructive-algorithms)
 - [Bit Manipulation](https://github.com/RyanFehr/HackerRank#bit-manipulation)
