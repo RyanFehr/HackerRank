@@ -330,7 +330,7 @@
 |   | [Inheritance](https://www.hackerrank.com/challenges/inheritance)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Java/Inheritance/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30 | ||
 |   | [Abstract Classes](https://www.hackerrank.com/challenges/abstract-classes)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Java/Abstract%20Classes/Solution.java) | _N/A_ | _N/A_ | Easy | 30| ||
 
-[HackerRank]:http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg
+[HackerRank]:https://cloud.githubusercontent.com/assets/19765741/25342064/d17a563c-28d8-11e7-83fc-763d4ab4820a.jpg
 
 [Problems Solved]:https://img.shields.io/badge/Problems%20Solved-132-brightgreen.svg
 [Language]:https://img.shields.io/badge/Language-Java/Python/C++-orange.svg
