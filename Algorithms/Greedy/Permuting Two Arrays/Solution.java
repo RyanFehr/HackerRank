@@ -4,7 +4,7 @@
 Initial Thoughts: We can sort array A ascending and sort
                   array B descending, and then because they
                   are sorted we know that we are matching 
-                  thehighest possible from B with the lowest 
+                  the highest possible from B with the lowest 
                   possible from A each time and if 1 of 
                   those fails then we know  it is not 
                   possible. The reason we know this is true 
