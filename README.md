@@ -12,8 +12,13 @@
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
+<<<<<<< HEAD
 	<img src="https://img.shields.io/badge/Problems%20Solved-150-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
+=======
+	<img src="https://img.shields.io/badge/Problems%20Solved-145-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
+>>>>>>> 6380e13... Completed a Greedy apgorithm problem called Jim and the Orders
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
 </p>
 
@@ -274,8 +279,11 @@
 |  |[Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Maximum%20Perimeter%20Triangle/Solution.java)| _O(n log (n))_ | _O(n)_| Easy | 20 | ||
 |  |[Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Permuting%20Two%20Arrays/Solution.java)| _O(n log (n))_ | _O(n)_| Easy | 40 | ||
 |  |[Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Jim%20and%20the%20Orders/Solution.java)| _O(n log (n))_ | _O(n)_| Easy | 40 | ||
+<<<<<<< HEAD
 |  |[Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Equal%20Stacks/Solution.java)| _O(n)_ | _O(n)_| Easy | 25 | ||
 |  |[Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Sherlock%20and%20The%20Beast/Solution.java)| _O(n)_ | _O(n)_| Easy | 30 | ||
+=======
+>>>>>>> 6380e13... Completed a Greedy apgorithm problem called Jim and the Orders
 
 
 ### Dynamic Programming
@@ -349,7 +357,11 @@
 [FunctionalLanguagesPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 
 [AlgorithmsRank]:https://img.shields.io/badge/Rank-4392-brightgreen.svg
+<<<<<<< HEAD
 [AlgorithmsPoints]:https://img.shields.io/badge/Points-3345-brightgreen.svg
+=======
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-3165-brightgreen.svg
+>>>>>>> 6380e13... Completed a Greedy apgorithm problem called Jim and the Orders
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
