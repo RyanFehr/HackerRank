@@ -142,10 +142,14 @@
 |   | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Beautiful%20Triplets/Solution.java) |  | | Easy | 20| ||
 |   | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Minimum%20Distances/Solution.java) |  | | Easy | 20| ||
 <<<<<<< HEAD
+<<<<<<< HEAD
 |   | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Strings%20Making%20Anagrams/Solution.java) | _O(&#124;a&#124;+&#124;b&#124;)_ | _O(1)_ | Easy | 30| ||
 =======
 |   | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Strings:%20Making%20Anagrams/Solution.java) | _O(&#124;a&#124;+&#124;b&#124;)_ | _O(1)_ | Easy | 30| ||
 >>>>>>> 6fb8df3... Completed an Implementation algorithm called Strings: Making Anagrams
+=======
+|   | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Strings%20Making%20Anagrams/Solution.java) | _O(&#124;a&#124;+&#124;b&#124;)_ | _O(1)_ | Easy | 30| ||
+>>>>>>> 1c08de9... Updated the link for Strings Making Anagrams
 |   | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/The%20Time%20in%20Words/Solution.java) |  | | Medium | 25| ||
 |   | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Chocolate%20Feast/Solution.java) |  | | Easy | 25| ||
 |   | [Service Lane](https://www.hackerrank.com/challenges/service-lane)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Service%20Lane/Solution.java) |  | | Easy | 20| ||
