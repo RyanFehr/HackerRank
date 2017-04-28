@@ -13,10 +13,14 @@
 </p>
 <p align="center">
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<img src="https://img.shields.io/badge/Problems%20Solved-150-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
 =======
 	<img src="https://img.shields.io/badge/Problems%20Solved-145-brightgreen.svg">
+=======
+	<img src="https://img.shields.io/badge/Problems%20Solved-146-brightgreen.svg">
+>>>>>>> 6fb8df3... Completed an Implementation algorithm called Strings: Making Anagrams
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
 >>>>>>> 6380e13... Completed a Greedy apgorithm problem called Jim and the Orders
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
@@ -137,7 +141,11 @@
 |   | [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Modified%20Kaprekar%20Numbers/Solution.java) |  | | Easy | 30| ||
 |   | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Beautiful%20Triplets/Solution.java) |  | | Easy | 20| ||
 |   | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Minimum%20Distances/Solution.java) |  | | Easy | 20| ||
+<<<<<<< HEAD
 |   | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Strings%20Making%20Anagrams/Solution.java) | _O(&#124;a&#124;+&#124;b&#124;)_ | _O(1)_ | Easy | 30| ||
+=======
+|   | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Strings:%20Making%20Anagrams/Solution.java) | _O(&#124;a&#124;+&#124;b&#124;)_ | _O(1)_ | Easy | 30| ||
+>>>>>>> 6fb8df3... Completed an Implementation algorithm called Strings: Making Anagrams
 |   | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/The%20Time%20in%20Words/Solution.java) |  | | Medium | 25| ||
 |   | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Chocolate%20Feast/Solution.java) |  | | Easy | 25| ||
 |   | [Service Lane](https://www.hackerrank.com/challenges/service-lane)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Service%20Lane/Solution.java) |  | | Easy | 20| ||
@@ -358,10 +366,14 @@
 
 [AlgorithmsRank]:https://img.shields.io/badge/Rank-4392-brightgreen.svg
 <<<<<<< HEAD
+<<<<<<< HEAD
 [AlgorithmsPoints]:https://img.shields.io/badge/Points-3345-brightgreen.svg
 =======
 [AlgorithmsPoints]:https://img.shields.io/badge/Points-3165-brightgreen.svg
 >>>>>>> 6380e13... Completed a Greedy apgorithm problem called Jim and the Orders
+=======
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-3190-brightgreen.svg
+>>>>>>> 6fb8df3... Completed an Implementation algorithm called Strings: Making Anagrams
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
