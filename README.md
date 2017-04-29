@@ -64,7 +64,7 @@
 - Strings
 - BigNumber
 - Data Structures
-- Object Oriented Programming
+- [Object Oriented Programming](https://github.com/RyanFehr/HackerRank#object-oriented-programming)
 - Exception Handling
 - Advanced
 
