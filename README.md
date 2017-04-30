@@ -85,7 +85,7 @@
 ### Implementation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Grading Students](https://www.hackerrank.com/challenges/grading)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Grading%20Students/Solution.java) | _O(n)_ | _O(1)_ | Easy| 10| ||
+|   | [Grading Students](https://www.hackerrank.com/challenges/grading)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Grading%20Students/Solution.java) [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Grading%20Students/Solution.js) | _O(n)_ | _O(1)_ | Easy| 10| ||
 |   | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Apple%20and%20Orange/Solution.java) |  | | Easy| 10| ||
 |   | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Kangaroo/Solution.java) |  | | Easy| 10| ||
 |   | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Between%20Two%20Sets/Solution.java) |  | | Easy| 10| ||
