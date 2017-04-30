@@ -11,6 +11,7 @@ Time Complexity: O(n) //the number of grades
 Space Complexity: O(1)  //Invrement grades in place
 
 */
+
 process.stdin.resume();
 process.stdin.setEncoding('ascii');
 
@@ -34,10 +35,9 @@ function readLine() {
 /////////////// ignore above this line ////////////////////
 
 function solve(grades){
-    grades.forEach(function(grade, index, grades)  {
-        grades[index] += (grade >= 38 && grade % 5 >= 3) ? 5 - (grade % 5) : 0;
+    return grades.map(function(grade)  {
+        return (grade >= 38 && grade % 5 >= 3) ? grade + 5 - (grade % 5) : grade;
     });
-    return grades;
 }
 
 function main() {
