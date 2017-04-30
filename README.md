@@ -97,7 +97,7 @@
 |   | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Bon%20Appetit/Solution.java) |  | | Easy| 10| ||
 |   | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Sock%20Merchant/Solution.java) |  | | Easy| 10| ||
 |   | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Drawing%20Book/Solution.java) |  | | Easy| 10| ||
-|   | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Counting%20Valleys/Solution.java) | _O(n)_ | _O(1)_ | Easy| 15| ||
+|   | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Counting%20Valleys/Solution.java) [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Counting%20Valleys/Solution.js) | _O(n)_ | _O(1)_ | Easy| 15| ||
 |   | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Cats%20and%20a%20Mouse/Solution.java) | _O(1)_ | _O(1)_ | Easy| 15| ||
 |   | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Electronics%20Shop/Solution.java) | _O(n log (n))_ | _O(1)_ | Easy| 15| n = m+n||
 |   | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Picking%20Numbers/Solution.java) | _O(n)_ | _O(n)_ | Easy| 20| ||
@@ -232,7 +232,7 @@
 ### Search
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters)| Java |  | | Easy | 15 | ||
+|   | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters)| [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Search/Hackerland%20Radio%20Transmitters/Solution.js) | _O(n log(n))_ | _O(1)_ | Easy | 15 | ||
 |   | [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Search/Ice%20Cream%20Parlor/Solution.java) | _O(n)_ | _O(n)_ | Easy | 30 | ||
 |   | [Binary Search: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Search/Binary%20Search%20Ice%20Cream%20Parlor/Solution.java) | _O(n)_ | _O(n)_ | Easy | 35 | ||
 |   | [Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro)| Java |  | | Medium | 25 | ||

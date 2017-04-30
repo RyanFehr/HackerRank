@@ -9,7 +9,7 @@ at the house furthest to the right possible to cover
 the range.
     
     
-Time complexity: O(n log n) //Finding the furthest transmitter range
+Time complexity: O(n log(n)) //Finding the furthest transmitter range
 Space complexity: O(1)      //No additional space was used
 */
 
