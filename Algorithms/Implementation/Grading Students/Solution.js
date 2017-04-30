@@ -8,7 +8,7 @@ just check our conditions and
 return the proper grade
 
 Time Complexity: O(n) //the number of grades
-Space Complexity: O(1)  //Invrement grades in place
+Space Complexity: O(1)  //increment grades in place
 
 */
 
