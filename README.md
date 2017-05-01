@@ -12,7 +12,7 @@
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-146-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-147-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
 </p>
@@ -226,7 +226,7 @@
 |   | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Closest%20Numbers/Solution.java) | _O(n log(n))_ | _O(n)_ | Easy | 35| ||
 |   | [Find the Median](https://www.hackerrank.com/challenges/find-the-median)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Find%20the%20Median/Solution.java) | _O(n log(n))_ | _O(n)_ | Easy | 35| ||
 |   | [Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort)| Java |  | | Advanced | 50| ||
-|   | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications)| Java |  | | Medium | 40| ||
+|   | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Fraudulent%20Activity%20Notifications/Solution.java) | _O(n^2)_ | _O(n)_ | Medium | 40| ||
 |   | [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework)| Java |  | | Medium | 40| ||
 |   | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Big%20Sorting/Solution.java) | _O(n log(n))_ | _O(n)_ | Easy | 20| ||
 
@@ -346,7 +346,7 @@
 [FunctionalLanguagesPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 
 [AlgorithmsRank]:https://img.shields.io/badge/Rank-4392-brightgreen.svg
-[AlgorithmsPoints]:https://img.shields.io/badge/Points-3190-brightgreen.svg
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-3250-brightgreen.svg
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
