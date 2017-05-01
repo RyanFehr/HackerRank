@@ -14,6 +14,7 @@
 <p align="center">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<img src="https://img.shields.io/badge/Problems%20Solved-150-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
 =======
@@ -21,6 +22,9 @@
 =======
 	<img src="https://img.shields.io/badge/Problems%20Solved-146-brightgreen.svg">
 >>>>>>> 6fb8df3... Completed an Implementation algorithm called Strings: Making Anagrams
+=======
+	<img src="https://img.shields.io/badge/Problems%20Solved-147-brightgreen.svg">
+>>>>>>> 40b81c1... Completed sorting algorithm called Fraudulent Activity Notifications
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
 >>>>>>> 6380e13... Completed a Greedy apgorithm problem called Jim and the Orders
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
@@ -371,6 +375,7 @@
 [AlgorithmsRank]:https://img.shields.io/badge/Rank-4392-brightgreen.svg
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [AlgorithmsPoints]:https://img.shields.io/badge/Points-3345-brightgreen.svg
 =======
 [AlgorithmsPoints]:https://img.shields.io/badge/Points-3165-brightgreen.svg
@@ -378,6 +383,9 @@
 =======
 [AlgorithmsPoints]:https://img.shields.io/badge/Points-3190-brightgreen.svg
 >>>>>>> 6fb8df3... Completed an Implementation algorithm called Strings: Making Anagrams
+=======
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-3250-brightgreen.svg
+>>>>>>> 40b81c1... Completed sorting algorithm called Fraudulent Activity Notifications
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
