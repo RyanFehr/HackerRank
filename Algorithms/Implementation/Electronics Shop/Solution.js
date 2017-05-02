@@ -2,9 +2,9 @@
 //JavaScript
 /*
 Initial Thoughts: 
-We can compare all pairs and if they are > max and <= s
-then we set it as the new max and return after checking
-all pairs
+We can sort and compare all pairs. If a pair is > max and <= s
+then we set it as the new max. Then we eturn  max after 
+checking all pairs.
 
 Time Complexity: O(n * m) //Iterate over both arrays  
 Space Complexity: O(1) //No additional memory used
