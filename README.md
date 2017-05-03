@@ -12,7 +12,7 @@
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-148-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-149-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
 </p>
@@ -274,6 +274,7 @@
 |  |[Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Maximum%20Perimeter%20Triangle/Solution.java)| _O(n log (n))_ | _O(n)_| Easy | 20 | ||
 |  |[Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Permuting%20Two%20Arrays/Solution.java)| _O(n log (n))_ | _O(n)_| Easy | 40 | ||
 |  |[Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Jim%20and%20the%20Orders/Solution.java)| _O(n log (n))_ | _O(n)_| Easy | 40 | ||
+|  |[Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Equal%29Stacks/Solution.java)| _O(n)_ | _O(n)_| Easy | 25 | ||
 
 
 ### Dynamic Programming
@@ -347,7 +348,7 @@
 [FunctionalLanguagesPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 
 [AlgorithmsRank]:https://img.shields.io/badge/Rank-4392-brightgreen.svg
-[AlgorithmsPoints]:https://img.shields.io/badge/Points-3290-brightgreen.svg
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-3315-brightgreen.svg
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
