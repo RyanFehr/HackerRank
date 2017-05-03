@@ -274,7 +274,7 @@
 |  |[Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Maximum%20Perimeter%20Triangle/Solution.java)| _O(n log (n))_ | _O(n)_| Easy | 20 | ||
 |  |[Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Permuting%20Two%20Arrays/Solution.java)| _O(n log (n))_ | _O(n)_| Easy | 40 | ||
 |  |[Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Jim%20and%20the%20Orders/Solution.java)| _O(n log (n))_ | _O(n)_| Easy | 40 | ||
-|  |[Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Equal%29Stacks/Solution.java)| _O(n)_ | _O(n)_| Easy | 25 | ||
+|  |[Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Equal%20Stacks/Solution.java)| _O(n)_ | _O(n)_| Easy | 25 | ||
 
 
 ### Dynamic Programming
