@@ -12,8 +12,8 @@
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-147-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-148-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
 </p>
 
@@ -160,7 +160,8 @@
 |   | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Super%20Reduced%20String/Solution.java) |  | | Easy | 10| ||
 |   | [camelCase](https://www.hackerrank.com/challenges/camelcase)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/camelCase/Solution.java) |  | | Easy | 15| ||
 |   | [Two Characters](https://www.hackerrank.com/challenges/two-characters)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Two%20Characters/Solution.java) | _O(n)_ | _O(1)_ | Easy| 15| ||
-|   | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Caesar%20Cipher/Solution.java) |  | | Easy | 15| ||
+|   | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Caesar%20Cipher/Solution.java) | _O(n)_ | _O(n)_ | Easy | 15| ||
+|   | [Caesar Cipher: Encryption](https://www.hackerrank.com/challenges/linkedin-practice-caesar-cipher)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Caesar%20Cipher%20Encryption/Solution.java) | _O(n)_ | _O(n)_ | Easy | 40 | ||
 |   | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Mars%20Exploration/Solution.java) |  | | Easy | 15| ||
 |   | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/HackerRank%20in%20a20String!/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
 |   | [Pangrams](https://www.hackerrank.com/challenges/pangrams)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Pangrams/Solution.java) |  | | Easy | 20| ||
@@ -346,7 +347,7 @@
 [FunctionalLanguagesPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 
 [AlgorithmsRank]:https://img.shields.io/badge/Rank-4392-brightgreen.svg
-[AlgorithmsPoints]:https://img.shields.io/badge/Points-3250-brightgreen.svg
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-3290-brightgreen.svg
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
