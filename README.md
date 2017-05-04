@@ -17,6 +17,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<img src="https://img.shields.io/badge/Problems%20Solved-150-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
 =======
@@ -34,6 +35,9 @@
 =======
 	<img src="https://img.shields.io/badge/Problems%20Solved-149-brightgreen.svg">
 >>>>>>> 2e6375f... Completed a Greedy Algorithm called Equal Stacks
+=======
+	<img src="https://img.shields.io/badge/Problems%20Solved-150-brightgreen.svg">
+>>>>>>> 106cdb9... Completed a Greedy Algorithm called Sherlock and The Beast
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
 >>>>>>> d2326c2... Completed the LinkedIn practice problem Caesar Cipher Encryption
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
@@ -316,7 +320,11 @@
 >>>>>>> 2e6375f... Completed a Greedy Algorithm called Equal Stacks
 =======
 |  |[Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Equal%20Stacks/Solution.java)| _O(n)_ | _O(n)_| Easy | 25 | ||
+<<<<<<< HEAD
 >>>>>>> 478fe29... Updated problem link for Equal Stacks
+=======
+|  |[Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Sherlock%20and%20The%20Beast/Solution.java)| _O(n)_ | _O(n)_| Easy | 30 | ||
+>>>>>>> 106cdb9... Completed a Greedy Algorithm called Sherlock and The Beast
 
 
 ### Dynamic Programming
@@ -395,6 +403,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [AlgorithmsPoints]:https://img.shields.io/badge/Points-3345-brightgreen.svg
 =======
 [AlgorithmsPoints]:https://img.shields.io/badge/Points-3165-brightgreen.svg
@@ -411,6 +420,9 @@
 =======
 [AlgorithmsPoints]:https://img.shields.io/badge/Points-3315-brightgreen.svg
 >>>>>>> 2e6375f... Completed a Greedy Algorithm called Equal Stacks
+=======
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-3345-brightgreen.svg
+>>>>>>> 106cdb9... Completed a Greedy Algorithm called Sherlock and The Beast
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
