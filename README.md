@@ -12,7 +12,7 @@
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-152-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
 </p>
@@ -303,6 +303,7 @@
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |   | [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Bit%20Manipulation/Lonely%20Integer/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20 | ||
+|   | [Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Bit%20Manipulation/Sum%20vs%20XOR/Solution.java) | _O(n log(n))_ | _O(1)_ | Easy | 20 | ||
 
 ### Recursion
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
@@ -349,7 +350,7 @@
 [FunctionalLanguagesPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 
 [AlgorithmsRank]:https://img.shields.io/badge/Rank-4392-brightgreen.svg
-[AlgorithmsPoints]:https://img.shields.io/badge/Points-3420-brightgreen.svg
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-3445-brightgreen.svg
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
