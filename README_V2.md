@@ -31,7 +31,7 @@
 ### Algorithms
 - [Sorting](https://github.com/RyanFehr/HackerRank/blob/master/README_V2.md#sorting)
 - [Search](https://github.com/RyanFehr/HackerRank/blob/master/README_V2.md#search)
-- [Greedy Algorithms](https://github.com/RyanFehr/HackerRank/blob/master/README_V2.md#search)
+- [Greedy Algorithms](https://github.com/RyanFehr/HackerRank/blob/master/README_V2.md#greedy-algorithms)
 - [Graph Theory](https://github.com/RyanFehr/HackerRank/blob/master/README_V2.md#graph-theory)
 - [Strings](https://github.com/RyanFehr/HackerRank/blob/master/README_V2.md#strings)
 - [Dynamic Programming](https://github.com/RyanFehr/HackerRank/blob/master/README_V2.md#dynamic-programming)
