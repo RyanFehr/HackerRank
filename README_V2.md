@@ -25,22 +25,22 @@
 
 ## Core CS ![AlgorithmsPoints]
 ### General Programming
-- [Basic Programming](https://github.com/RyanFehr/HackerRank#basic-brogramming)
-- [Object-Oriented Programming](https://github.com/RyanFehr/HackerRank#object-oriented-programming)
-- [RegEx](https://github.com/RyanFehr/HackerRank#regex)
+- [Basic Programming](https://github.com/RyanFehr/HackerRank/blob/master/README_V2.md#basic-programming)
+- [Object-Oriented Programming](https://github.com/RyanFehr/HackerRank/blob/master/README_V2.md#object-oriented-programming)
+- [RegEx](https://github.com/RyanFehr/HackerRank/blob/master/README_V2.md#regex)
 ### Algorithms
-- [Sorting](https://github.com/RyanFehr/HackerRank#sorting)
-- [Search](https://github.com/RyanFehr/HackerRank#search)
-- [Greedy Algorithms](https://github.com/RyanFehr/HackerRank#search)
-- [Graph Theory](https://github.com/RyanFehr/HackerRank#graph-theory)
-- [Strings](https://github.com/RyanFehr/HackerRank#strings)
-- [Dynamic Programming](https://github.com/RyanFehr/HackerRank#dynamic-programming)
-- [Bit Manipulation](https://github.com/RyanFehr/HackerRank#bit-manipulation)
-- [Recursion](https://github.com/RyanFehr/HackerRank#recursion)
+- [Sorting](https://github.com/RyanFehr/HackerRank/blob/master/README_V2.md#sorting)
+- [Search](https://github.com/RyanFehr/HackerRank/blob/master/README_V2.md#search)
+- [Greedy Algorithms](https://github.com/RyanFehr/HackerRank/blob/master/README_V2.md#search)
+- [Graph Theory](https://github.com/RyanFehr/HackerRank/blob/master/README_V2.md#graph-theory)
+- [Strings](https://github.com/RyanFehr/HackerRank/blob/master/README_V2.md#strings)
+- [Dynamic Programming]https://github.com/RyanFehr/HackerRank/blob/master/README_V2.md#dynamic-programming)
+- [Bit Manipulation](https://github.com/RyanFehr/HackerRank/blob/master/README_V2.md#bit-manipulation)
+- [Recursion](https://github.com/RyanFehr/HackerRank/blob/master/README_V2.md#recursion)
 ### Implementation
-- [Brute-Force](https://github.com/RyanFehr/HackerRank#brute-force)
+- [Brute-Force](https://github.com/RyanFehr/HackerRank/blob/master/README_V2.md#brute-force)
 ### Debugging
-- [Missing Lines](https://github.com/RyanFehr/HackerRank#missing-lines)
+- [Missing Lines](https://github.com/RyanFehr/HackerRank/blob/master/README_V2.md#missing-lines)
 
 ### DataStructures
 - Arrays
