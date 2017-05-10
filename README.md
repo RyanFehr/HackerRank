@@ -6,7 +6,7 @@
     Solutions to problems on HackerRank.
 </p>
 <p align="center">
-	Updating to HackerRank's new format soon!
+	Check out HackerRank's new format <a href="https://github.com/RyanFehr/HackerRank/blob/master/README_V2.md">here</a>
 </p>
 <p align="center">
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
@@ -269,7 +269,7 @@
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |  |[Chief Hopper](https://www.hackerrank.com/challenges/rust-murderer)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Chief%20Hopper/Solution.java)| _O(n)_ | _O(n)_| Hard | 65 | ||
-|  |[Mark and Toys](https://www.hackerrank.com/challenges/rust-murderer)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Mark%20and%20Toys/Solution.java)| _O(n log(n))_ | _O(n)_| Easy | 35 | ||
+|  |[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Mark%20and%20Toys/Solution.java)| _O(n log(n))_ | _O(n)_| Easy | 35 | ||
 |  |[Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Grid%20Challenge/Solution.java)| _O(n*(n log (n)))_ | _O(n^2)_| Easy | 20 | ||
 |  |[Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Maximum%20Perimeter%20Triangle/Solution.java)| _O(n log (n))_ | _O(n)_| Easy | 20 | ||
 |  |[Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Permuting%20Two%20Arrays/Solution.java)| _O(n log (n))_ | _O(n)_| Easy | 40 | ||
