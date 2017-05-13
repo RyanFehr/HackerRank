@@ -277,6 +277,7 @@
 |  |[Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Equal%20Stacks/Solution.java)| _O(n)_ | _O(n)_| Easy | 25 | ||
 |  |[Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Sherlock%20and%20The%20Beast/Solution.java)| _O(n)_ | _O(n)_| Easy | 30 | ||
 |  |[Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Priyanka%20and%20Toys/Solution.java) [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Priyanka%20and%20Toys/Solution.js)| _O(n log(n))_ | _O(n)_| Easy | 30 | ||
+|  |[Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation)| [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Largest%20Permutation/Solution.js)| _O(n)_ | _O(n)_| Easy | 30 | ||
 
 ### Dynamic Programming
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
