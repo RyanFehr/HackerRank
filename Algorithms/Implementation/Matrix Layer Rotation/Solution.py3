@@ -1,6 +1,6 @@
 '''
 Problem: https://www.hackerrank.com/challenges/matrix-rotation-algo
-Python Version#
+Python Version: 3
 
 Thoughts:
 We imagine that every layer of the Matrix is a snake that we need to unroll and then roll up back to the matrix.
