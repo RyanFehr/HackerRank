@@ -272,11 +272,12 @@
 |  |[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Mark%20and%20Toys/Solution.java)| _O(n log(n))_ | _O(n)_| Easy | 35 | ||
 |  |[Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Grid%20Challenge/Solution.java)| _O(n*(n log (n)))_ | _O(n^2)_| Easy | 20 | ||
 |  |[Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Maximum%20Perimeter%20Triangle/Solution.java)| _O(n log (n))_ | _O(n)_| Easy | 20 | ||
-|  |[Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Permuting%20Two%20Arrays/Solution.java)| _O(n log (n))_ | _O(n)_| Easy | 40 | ||
+|  |[Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Permuting%20Two%20Arrays/Solution.java) [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Permuting%20Two%20Arrays/Solution.js)| _O(n log (n))_ | _O(n)_| Easy | 40 | ||
 |  |[Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Jim%20and%20the%20Orders/Solution.java)| _O(n log (n))_ | _O(n)_| Easy | 40 | ||
 |  |[Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Equal%20Stacks/Solution.java)| _O(n)_ | _O(n)_| Easy | 25 | ||
 |  |[Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Sherlock%20and%20The%20Beast/Solution.java)| _O(n)_ | _O(n)_| Easy | 30 | ||
-|  |[Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Priyanka%20and%20Toys/Solution.java)| _O(n log(n))_ | _O(n)_| Easy | 30 | ||
+|  |[Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Priyanka%20and%20Toys/Solution.java) [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Priyanka%20and%20Toys/Solution.js)| _O(n log(n))_ | _O(n)_| Easy | 30 | ||
+|  |[Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation)| [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Largest%20Permutation/Solution.js) | _O(n)_ | _O(n)_ | Easy | 30| ||
 
 ### Dynamic Programming
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
