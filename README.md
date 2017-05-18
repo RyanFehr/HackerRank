@@ -149,7 +149,7 @@
 |   | [Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses)| Java |  | | Medium | 40| ||
 |   | [Larry's Array](https://www.hackerrank.com/challenges/larrys-array)| Java |  | | Medium | 40| ||
 |   | [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted)| Java |  | | Medium | 50| ||
-|   | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo)| [Python3](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Matrix%20Layer%20Rotation/Solution.py3) |  | | Hard | 80| ||
+|   | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo)| [Python3](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Matrix%20Layer%20Rotation/Solution.py3) | _O(n*m)_ | _O(n*m)_ | Hard | 80| ||
 |   | [Consecutive 1s in Binary Numbers](https://www.hackerrank.com/challenges/linkedin-practice-binary-numbers)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Consecutive%201s%20in%20Binary%20Numbers/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
 |   | [Nested Logic](https://www.hackerrank.com/challenges/linkedin-practice-nested-logic)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Nested%20Logic/Solution.java) | _O(1)_ | _O(1)_ | Easy | 40| ||
 |   | [Bitwise AND](https://www.hackerrank.com/challenges/linkedin-practice-bitwise-and)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Bitwise%20AND/Solution.java) | _O(1)_ | _O(1)_ | Easy | 20| ||
