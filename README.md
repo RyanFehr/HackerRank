@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-05/18/2017-brightgreen.svg">
 </p>
 
 
