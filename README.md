@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-05/18/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-05/22/2017-brightgreen.svg">
 </p>
 
 
@@ -117,12 +117,12 @@
 |   | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Extra%20Long%20Factorials/Solution.java) | _O(n)_ | _O(1)_ | Medium | 20| ||
 |   | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Append%20and%20Delete/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
 |   | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Sherlock%20and%20Squares/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
-|   | [Library Fine](https://www.hackerrank.com/challenges/library-fine)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Library%20Fine/Solution.java) |  | | Easy| 15| ||
-|   | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Cut%20the%20sticks/Solution.java) |  | | Easy | 25| ||
-|   | [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Non-Divisible%20Subset/Solution.java) |  | | Medium | 20| ||
-|   | [Repeated String](https://www.hackerrank.com/challenges/repeated-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Repeated%20String/Solution.java) |  | | Easy | 20| ||
-|   | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Jumping%20on%20the%20Clouds/Solution.java) |  | | Easy | 20| ||
-|   | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Equalize%20the%20Array/Solution.java) |  | | Easy | 20| ||
+|   | [Library Fine](https://www.hackerrank.com/challenges/library-fine)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Library%20Fine/Solution.java) | _O(1)_ | _O(1)_ | Easy| 15| ||
+|   | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Cut%20the%20sticks/Solution.java) | _O(n)_ | _O(n)_ | Easy | 25| ||
+|   | [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Non-Divisible%20Subset/Solution.java) | _O(n)_ | _O(n)_ | Medium | 20| ||
+|   | [Repeated String](https://www.hackerrank.com/challenges/repeated-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Repeated%20String/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
+|   | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Jumping%20on%20the%20Clouds/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
+|   | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Equalize%20the%20Array/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Queen's%20Attack%20II/Solution.java) | _O(k)_ | _O(1)_ | Medium | 30| ||
 |   | [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/ACM%20ICPC%20Team/Solution.java) |  | | Easy | 25| ||
 |   | [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Taum%20and%20B'day/Solution.java) |  | | Easy | 25| ||
