@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-05/22/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-05/23/2017-brightgreen.svg">
 </p>
 
 
@@ -124,14 +124,14 @@
 |   | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Jumping%20on%20the%20Clouds/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Equalize%20the%20Array/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Queen's%20Attack%20II/Solution.java) | _O(k)_ | _O(1)_ | Medium | 30| ||
-|   | [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/ACM%20ICPC%20Team/Solution.java) |  | | Easy | 25| ||
-|   | [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Taum%20and%20B'day/Solution.java) |  | | Easy | 25| ||
+|   | [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/ACM%20ICPC%20Team/Solution.java) | _O(n^3)_ | _O(n)_ | Easy | 25| ||
+|   | [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Taum%20and%20B'day/Solution.java) | _O(1)_ | _O(1)_ | Easy | 25| ||
 |   | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Organizing%20Containers%20of%20Balls/Solution.java) | _O(n^2)_ | _O(n^2)_ | Medium | 30| ||
-|   | [Enryption](https://www.hackerrank.com/challenges/encryption)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Encyrption/Solution.java) |  | | Medium | 30| ||
-|   | [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Bigger%20is%20Greater/Solution.java) |  | | Medium | 35| ||
-|   | [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Modified%20Kaprekar%20Numbers/Solution.java) |  | | Easy | 30| ||
-|   | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Beautiful%20Triplets/Solution.java) |  | | Easy | 20| ||
-|   | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Minimum%20Distances/Solution.java) |  | | Easy | 20| ||
+|   | [Enryption](https://www.hackerrank.com/challenges/encryption)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Encyrption/Solution.java) | _O(n)_ | _O(n)_ | Medium | 30| ||
+|   | [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Bigger%20is%20Greater/Solution.java) | _O(n)_ | _O(n)_ | Medium | 35| ||
+|   | [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Modified%20Kaprekar%20Numbers/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
+|   | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Beautiful%20Triplets/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
+|   | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Minimum%20Distances/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Strings%20Making%20Anagrams/Solution.java) | _O(&#124;a&#124;+&#124;b&#124;)_ | _O(1)_ | Easy | 30| ||
 |   | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/The%20Time%20in%20Words/Solution.java) |  | | Medium | 25| ||
 |   | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Chocolate%20Feast/Solution.java) |  | | Easy | 25| ||
