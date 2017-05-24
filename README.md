@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-05/23/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-05/24/2017-brightgreen.svg">
 </p>
 
 
@@ -133,10 +133,10 @@
 |   | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Beautiful%20Triplets/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Minimum%20Distances/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Strings%20Making%20Anagrams/Solution.java) | _O(&#124;a&#124;+&#124;b&#124;)_ | _O(1)_ | Easy | 30| ||
-|   | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/The%20Time%20in%20Words/Solution.java) |  | | Medium | 25| ||
-|   | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Chocolate%20Feast/Solution.java) |  | | Easy | 25| ||
-|   | [Service Lane](https://www.hackerrank.com/challenges/service-lane)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Service%20Lane/Solution.java) |  | | Easy | 20| ||
-|   | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Lisa's%20Workbook/Solution.java) |  | | Easy | 25| ||
+|   | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/The%20Time%20in%20Words/Solution.java) | _O(1)_ | _O(1)_ | Medium | 25| ||
+|   | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Chocolate%20Feast/Solution.java) | _O(n)_ | _O(1)_ | Easy | 25| ||
+|   | [Service Lane](https://www.hackerrank.com/challenges/service-lane)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Service%20Lane/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
+|   | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Lisa's%20Workbook/Solution.java) | _O(n)_ | _O(1)_ | Easy | 25| ||
 |   | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Flatland%20Space%20Stations/Solution.java) |  | | Easy | 25| ||
 |   | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Fair%20Rations/Solution.java) |  | | Easy | 25| ||
 |   | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Cavity%20Map/Solution.java) |  | | Easy | 30| ||
