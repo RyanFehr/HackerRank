@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-05/24/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-05/25/2017-brightgreen.svg">
 </p>
 
 
@@ -137,10 +137,10 @@
 |   | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Chocolate%20Feast/Solution.java) | _O(n)_ | _O(1)_ | Easy | 25| ||
 |   | [Service Lane](https://www.hackerrank.com/challenges/service-lane)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Service%20Lane/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Lisa's%20Workbook/Solution.java) | _O(n)_ | _O(1)_ | Easy | 25| ||
-|   | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Flatland%20Space%20Stations/Solution.java) |  | | Easy | 25| ||
-|   | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Fair%20Rations/Solution.java) |  | | Easy | 25| ||
-|   | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Cavity%20Map/Solution.java) |  | | Easy | 30| ||
-|   | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Manasa%20and%20Stones/Solution.java) |  | | Easy | 30| ||
+|   | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Flatland%20Space%20Stations/Solution.java) | _O(n)_ | _O(n)_ | Easy | 25| ||
+|   | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Fair%20Rations/Solution.java) | _O(n)_ | _O(n)_ | Easy | 25| ||
+|   | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Cavity%20Map/Solution.java) | _O(n^2)_ | _O(n^2)_ | Easy | 30| ||
+|   | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Manasa%20and%20Stones/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
 |   | [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/The%20Grid%20Search/Solution.java) |  | | Medium | 30| ||
 |   | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Happy%20Ladybugs/Solution.java) |  | | Easy | 30| ||
 |   | [Strange Counter](https://www.hackerrank.com/challenges/strange-code)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Strange%20Counter/Solution.java) |  | | Easy | 30| ||
