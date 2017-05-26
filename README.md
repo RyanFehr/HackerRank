@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-05/25/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-05/26/2017-brightgreen.svg">
 </p>
 
 
@@ -141,10 +141,10 @@
 |   | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Fair%20Rations/Solution.java) | _O(n)_ | _O(n)_ | Easy | 25| ||
 |   | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Cavity%20Map/Solution.java) | _O(n^2)_ | _O(n^2)_ | Easy | 30| ||
 |   | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Manasa%20and%20Stones/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
-|   | [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/The%20Grid%20Search/Solution.java) |  | | Medium | 30| ||
-|   | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Happy%20Ladybugs/Solution.java) |  | | Easy | 30| ||
-|   | [Strange Counter](https://www.hackerrank.com/challenges/strange-code)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Strange%20Counter/Solution.java) |  | | Easy | 30| ||
-|   | [Absolute Permuation](https://www.hackerrank.com/challenges/absolute-permutation)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Absolute%20Permuation/Solution.java) |  | | Medium | 40| ||
+|   | [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/The%20Grid%20Search/Solution.java) | _O(n)_ | _O(n)_ | Medium | 30| n = len(word)||
+|   | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Happy%20Ladybugs/Solution.java) | _O(n)_ | _O(n)_ | Easy | 30| ||
+|   | [Strange Counter](https://www.hackerrank.com/challenges/strange-code)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Strange%20Counter/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| n = t ||
+|   | [Absolute Permuation](https://www.hackerrank.com/challenges/absolute-permutation)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Absolute%20Permuation/Solution.java) | _O(n)_ | _O(n)_ | Medium | 40| ||
 |   | [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/The%20Bomberman%20Game/Solution.java) | _O(n*m)_ | _O(n*m)_ | Medium | 40| ||
 |   | [Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses)| Java |  | | Medium | 40| ||
 |   | [Larry's Array](https://www.hackerrank.com/challenges/larrys-array)| Java |  | | Medium | 40| ||
