@@ -157,8 +157,8 @@
 ### Strings
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Super%20Reduced%20String/Solution.java) |  | | Easy | 10| ||
-|   | [camelCase](https://www.hackerrank.com/challenges/camelcase)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/camelCase/Solution.java) |  | | Easy | 15| ||
+|   | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Super%20Reduced%20String/Solution.java) | _O(n)_ | _O(n)_ | Easy | 10| ||
+|   | [camelCase](https://www.hackerrank.com/challenges/camelcase)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/camelCase/Solution.java) | _O(n)_ | _O(1)_ | Easy | 15| ||
 |   | [Two Characters](https://www.hackerrank.com/challenges/two-characters)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Two%20Characters/Solution.java) | _O(n)_ | _O(1)_ | Easy| 15| ||
 |   | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Caesar%20Cipher/Solution.java) | _O(n)_ | _O(n)_ | Easy | 15| ||
 |   | [Caesar Cipher: Encryption](https://www.hackerrank.com/challenges/linkedin-practice-caesar-cipher)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Caesar%20Cipher%20Encryption/Solution.java) | _O(n)_ | _O(n)_ | Easy | 40 | ||
