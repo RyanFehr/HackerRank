@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-05/26/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-05/29/2017-brightgreen.svg">
 </p>
 
 
@@ -162,10 +162,10 @@
 |   | [Two Characters](https://www.hackerrank.com/challenges/two-characters)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Two%20Characters/Solution.java) | _O(n)_ | _O(1)_ | Easy| 15| ||
 |   | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Caesar%20Cipher/Solution.java) | _O(n)_ | _O(n)_ | Easy | 15| ||
 |   | [Caesar Cipher: Encryption](https://www.hackerrank.com/challenges/linkedin-practice-caesar-cipher)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Caesar%20Cipher%20Encryption/Solution.java) | _O(n)_ | _O(n)_ | Easy | 40 | ||
-|   | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Mars%20Exploration/Solution.java) |  | | Easy | 15| ||
+|   | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Mars%20Exploration/Solution.java) | _O(n)_ | _O(1)_ | Easy | 15| ||
 |   | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/HackerRank%20in%20a20String!/Solution.java) [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/HackerRank%20in%20a20String!/Solution.js) | _O(n)_ | _O(1)_ | Easy | 20| ||
-|   | [Pangrams](https://www.hackerrank.com/challenges/pangrams)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Pangrams/Solution.java) |  | | Easy | 20| ||
-|   | [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Weighted%20Uniform%20Strings/Solution.java) |  | | Easy | 20| ||
+|   | [Pangrams](https://www.hackerrank.com/challenges/pangrams)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Pangrams/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
+|   | [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Weighted%20Uniform%20Strings/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers)| Java |  | | Easy | 20| ||
 |   | [Funny String](https://www.hackerrank.com/challenges/funny-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Funny%20String/Solution.java) |  | | Easy | 25| ||
 |   | [Gemstones](https://www.hackerrank.com/challenges/gem-stones)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Gemstones/Solution.java) |  | | Easy | 20| ||
