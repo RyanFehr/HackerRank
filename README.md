@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-05/29/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-05/30/2017-brightgreen.svg">
 </p>
 
 
@@ -167,18 +167,18 @@
 |   | [Pangrams](https://www.hackerrank.com/challenges/pangrams)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Pangrams/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
 |   | [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Weighted%20Uniform%20Strings/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers)| Java |  | | Easy | 20| ||
-|   | [Funny String](https://www.hackerrank.com/challenges/funny-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Funny%20String/Solution.java) |  | | Easy | 25| ||
-|   | [Gemstones](https://www.hackerrank.com/challenges/gem-stones)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Gemstones/Solution.java) |  | | Easy | 20| ||
-|   | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Alternating%20Characters/Solution.java) |  | | Easy | 20| ||
-|   | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Beautiful%20Binary%20String/Solution.java) |  | | Easy | 20| ||
+|   | [Funny String](https://www.hackerrank.com/challenges/funny-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Funny%20String/Solution.java) | _O(n)_ | _O(1)_ | Easy | 25| ||
+|   | [Gemstones](https://www.hackerrank.com/challenges/gem-stones)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Gemstones/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
+|   | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Alternating%20Characters/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
+|   | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Beautiful%20Binary%20String/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
 |   | [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/The%20Love-Letter%20Mystery/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
 |   | [Determining DNA Health](https://www.hackerrank.com/challenges/determining-dna-health)| Java |  | | Hard | 50| ||
-|   | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Palindrome%20Index/Solution.java) |  | | Easy | 25| ||
+|   | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Palindrome%20Index/Solution.java) | _O(n)_ | _O(1)_ | Easy | 25| ||
 |   | [Anagram](https://www.hackerrank.com/challenges/anagram)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Anagram/Solution.java) | _O(n)_ | _O(1)_ | Easy | 25| ||
 |   | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Making%20Anagrams/Solution.java) |  | | Easy | 30| ||
 |   | [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Game%20of%20Thrones-I/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
 |   | [Two Strings](https://www.hackerrank.com/challenges/two-strings)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Two%20Strings/Solution.java) | _O(&#124;a&#124; + &#124;b&#124;)_ | _O(1)_ | Easy | 25| ||
-|   | [String Construction](https://www.hackerrank.com/challenges/string-construction)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/String%20Construction/Solution.java) |   |  | Easy | 25| ||
+|   | [String Construction](https://www.hackerrank.com/challenges/string-construction)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/String%20Construction/Solution.java) | _O(n)_ | _O(n)_ | Easy | 25| ||
 |   | [Sherlock and Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Sherlock%20and%20Valid%20String/Solution.java) | _O(n)_ | _O(n)_ | Hard | 100| ||
 |   | [Richie Rich](https://www.hackerrank.com/challenges/richie-rich)| Java [Python 3](./Algorithms/Strings/Richie%20Rich/solution.py)| _O(n)_  | _O(n)_ | Medium | 30| ||
 |   | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams)| Java |  | | Medium | 50| ||
