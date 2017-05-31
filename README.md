@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-05/30/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-05/31/2017-brightgreen.svg">
 </p>
 
 
@@ -278,7 +278,25 @@
 |  |[Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Sherlock%20and%20The%20Beast/Solution.java)| _O(n)_ | _O(n)_| Easy | 30 | ||
 |  |[Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Priyanka%20and%20Toys/Solution.java) [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Priyanka%20and%20Toys/Solution.js)| _O(n log(n))_ | _O(n)_| Easy | 30 | ||
 |  |[Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation)| [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Largest%20Permutation/Solution.js) | _O(n)_ | _O(n)_ | Easy | 30| ||
-|  |[Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/editorial)| [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Greedy%20Florist/Solution.js)| _O(n log (n))_ | _O(n)_| Medium | 35 | ||
+|   | [Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs)| Java |  | | Easy | 30| ||
+|   | [Yet Another Minimax Problem](https://www.hackerrank.com/challenges/yet-another-minimax-problem)| Java |  | | Medium | 20| ||
+|   | [Flipping the Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Constructve%20Algorithms/Flipping%20Matrix/Solution.java) | _O(n^2)_ | _O(n^2)_ | Medium | 30 | ||
+|   | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development)| Java |  | | Medium | 30| ||
+|  |[Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist)| [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Greedy%20Florist/Solution.js)| _O(n log (n))_ | _O(n)_| Medium | 35 | ||
+|  |[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Mark%20and%20Toys/Solution.java)| _O(n log(n))_ | _O(n)_| Easy | 35 | ||
+|   | [Max Min](https://www.hackerrank.com/challenges/angry-children)| Java |  | | Medium | 35| ||
+|   | [Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays)| Java |  | | Easy | 40| ||
+|   | [Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders)| Java |  | | Easy | 40| ||
+|   | [Goodland Electricity](https://www.hackerrank.com/challenges/pylons)| Java |  | | Medium | 40| ||
+|   | [Fun Game](https://www.hackerrank.com/challenges/fun-game-1)| Java |  | | Medium | 40| ||
+|   | [Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge)| Java |  | | Advanced | 50| ||
+|   | [Cutting Boards](https://www.hackerrank.com/challenges/board-cutting)| Java |  | | Hard | 60| ||
+|   | [Algorithmic Crush](https://www.hackerrank.com/challenges/crush)| Java |  | | Hard | 60| ||
+|   | [Prim's (MST): Special Subtree](https://www.hackerrank.com/challenges/primsmstsub)| Java |  | | Medium | 60| ||
+|   | [Accessory Collection](https://www.hackerrank.com/challenges/accessory-collection)| Java |  | | Hard | 60| ||
+|  |[Chief Hopper](https://www.hackerrank.com/challenges/rust-murderer)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Chief%20Hopper/Solution.java)| _O(n)_ | _O(n)_| Hard | 65 | ||
+|   | [Sherlock and MiniMax](https://www.hackerrank.com/challenges/sherlock-and-minimax)| Java |  | | Hard | 70| ||
+|   | [Team Formation](https://www.hackerrank.com/challenges/team-formation)| Java |  | | Advanced | 70| ||
 
 ### Dynamic Programming
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
