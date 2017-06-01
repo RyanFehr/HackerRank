@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-05/31/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/01/2017-brightgreen.svg">
 </p>
 
 
@@ -284,7 +284,7 @@
 |   | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development)| Java |  | | Medium | 30| ||
 |  |[Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist)| [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Greedy%20Florist/Solution.js)| _O(n log (n))_ | _O(n)_| Medium | 35 | ||
 |  |[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Mark%20and%20Toys/Solution.java)| _O(n log(n))_ | _O(n)_| Easy | 35 | ||
-|   | [Max Min](https://www.hackerrank.com/challenges/angry-children)| Java |  | | Medium | 35| ||
+|   | [Max Min](https://www.hackerrank.com/challenges/angry-children)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Max%20Min/Solution.java) | _O(n log(n))_ | _O(1)_ | Medium | 35| ||
 |   | [Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays)| Java |  | | Easy | 40| ||
 |   | [Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders)| Java |  | | Easy | 40| ||
 |   | [Goodland Electricity](https://www.hackerrank.com/challenges/pylons)| Java |  | | Medium | 40| ||
@@ -370,7 +370,7 @@
 [FunctionalLanguagesPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 
 [AlgorithmsRank]:https://img.shields.io/badge/Rank-4392-brightgreen.svg
-[AlgorithmsPoints]:https://img.shields.io/badge/Points-3445-brightgreen.svg
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-3480-brightgreen.svg
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
