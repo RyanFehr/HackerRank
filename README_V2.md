@@ -318,6 +318,16 @@
 ### Graph Theory
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|   | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development)| Java |  | | Medium | 30| ||
+|   | [Synchronous Shopping](https://www.hackerrank.com/challenges/synchronous-shopping)| Java |  | | Medium | 40| ||
+|   | [Crab Graphs](https://www.hackerrank.com/challenges/crab-graphs)| Java |  | | Medium | 50| ||
+|   | [Even Tree](https://www.hackerrank.com/challenges/even-tree)| Java |  | | Medium | 50| ||
+|   | [Snakes and Ladders: THe Quickest Way Up](https://www.hackerrank.com/challenges/the-quickest-way-up)| Java |  | | Medium | 50| ||
+|   | [Subset Component](https://www.hackerrank.com/challenges/subset-component)| Java |  | | Hard | 50| ||
+|  |[Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Graph%20Theory/Journey%20to%20the%20Moon/Solution.java) [Python 3](./Algorithms/Graph%20Theory/Journey%20to%20the%20Moon/solution.py3) | _O(n + i)_ | _O(n)_| Medium | 50 | ||
+|   | [Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub)| Java |  | | Hard | 50| ||
+|   | [Minimum Penalty Path](https://www.hackerrank.com/challenges/beautiful-path)| Java |  | | Medium | 50| ||
+|   | [Demanding Money](https://www.hackerrank.com/challenges/borrowing-money)| Java |  | | Hard | 50| ||
 
 ### Strings
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
