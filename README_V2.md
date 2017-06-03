@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/02/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/03/2017-brightgreen.svg">
 </p>
 
 
@@ -250,7 +250,7 @@
 |   | [Find the Median](https://www.hackerrank.com/challenges/find-the-median)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Find%20the%20Median/Solution.java) | _O(n log(n))_ | _O(n)_ | Easy | 35| ||
 |   | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Sorting/Closest%20Numbers/Solution.java) | _O(n log(n))_ | _O(n)_ | Easy | 35| ||
 |   | [Binary Search: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Search/Binary%20Search%20Ice%20Cream%20Parlor/Solution.java) | _O(n)_ | _O(n)_ | Easy | 35 | ||
-|   | [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss)| Java |  | | Medium | 35| ||
+|   | [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Search/Minimum%20Loss/Solution.java) | _O(n log(n))_ | _O(n)_ | Medium | 35| ||
 |   | [KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard)| Java |  | | Medium | 35 | ||
 |   | [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array)| Java |  | | Easy | 40 | ||
 |   | [Short Palindrome](https://www.hackerrank.com/challenges/short-palindrome)| Java |  | | Medium | 40 | ||
@@ -531,12 +531,12 @@
 [Language]:https://img.shields.io/badge/Language-Java/Python/C++-orange.svg
 [UpToDate]:https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg
 
-[AlgorithmsPercentile]:https://img.shields.io/badge/Percentile-90th-brightgreen.svg
+[AlgorithmsPercentile]:https://img.shields.io/badge/Percentile-94th-brightgreen.svg
 [MachineLearningPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 [FunctionalLanguagesPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 
 [AlgorithmsRank]:https://img.shields.io/badge/Rank-4392-brightgreen.svg
-[AlgorithmsPoints]:https://img.shields.io/badge/Points-3445.09-brightgreen.svg
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-3450.00-brightgreen.svg
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
