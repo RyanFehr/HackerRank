@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/04/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/05/2017-brightgreen.svg">
 </p>
 
 
@@ -268,7 +268,12 @@
 |   | [Crab Graphs](https://www.hackerrank.com/challenges/crab-graphs)| Java |  | | Medium | 50 | ||
 |   | [Even Tree](https://www.hackerrank.com/challenges/even-tree)| Java |  | | Medium | 50 | ||
 |   | [Snakes and Ladders: The Quickest Way Up](https://www.hackerrank.com/challenges/the-quickest-way-up)| Java |  | | Medium | 50 | ||
+|   | [Subset Component](https://www.hackerrank.com/challenges/subset-component)| Java |  | | Hard | 50 | ||
 |  |[Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Graph%20Theory/Journey%20to%20the%20Moon/Solution.java) [Python 3](./Algorithms/Graph%20Theory/Journey%20to%20the%20Moon/solution.py3) | _O(n + i)_ | _O(n)_| Medium | 50 | ||
+|   | [Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub)| Java |  | | Hard | 50 | ||
+|   | [Minimum Penalty Path](https://www.hackerrank.com/challenges/beautiful-path)| Java |  | | Medium | 50 | ||
+|   | [Demanding Money](https://www.hackerrank.com/challenges/borrowing-money)| Java |  | | Hard | 50 | ||
+|   | [The Story of a Tree](https://www.hackerrank.com/challenges/the-story-of-a-tree)| Java |  | | Medium | 50 | ||
 |  |[Rust & Murderer](https://www.hackerrank.com/challenges/mark-and-toys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Graph%20Theory/Rust%20&%20Murderer/Solution.java)| _O(n+m)_ | _O(n)_| Medium | 70 | ||
 
 ### Greedy
