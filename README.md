@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/05/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/06/2017-brightgreen.svg">
 </p>
 
 
@@ -274,6 +274,12 @@
 |   | [Minimum Penalty Path](https://www.hackerrank.com/challenges/beautiful-path)| Java |  | | Medium | 50 | ||
 |   | [Demanding Money](https://www.hackerrank.com/challenges/borrowing-money)| Java |  | | Hard | 50 | ||
 |   | [The Story of a Tree](https://www.hackerrank.com/challenges/the-story-of-a-tree)| Java |  | | Medium | 50 | ||
+|   | [Breadth First Search: Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach)| Java |  | | Medium | 55 | ||
+|   | [The Value of Friendship](https://www.hackerrank.com/challenges/value-of-friendship)| Java |  | | Hard | 55 | ||
+|   | [Clique](https://www.hackerrank.com/challenges/clique)| Java |  | | Medium | 60 | ||
+|   | [Dijkstra: Shortest Reach 2](https://www.hackerrank.com/challenges/dijkstrashortreach)| Java |  | | Hard | 60 | ||
+|   | [Prim's (MST) : Special Subtree](https://www.hackerrank.com/challenges/primsmstsub)| Java |  | | Medium | 60 | ||
+
 |  |[Rust & Murderer](https://www.hackerrank.com/challenges/mark-and-toys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Graph%20Theory/Rust%20&%20Murderer/Solution.java)| _O(n+m)_ | _O(n)_| Medium | 70 | ||
 
 ### Greedy
