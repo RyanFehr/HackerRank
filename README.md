@@ -279,8 +279,7 @@
 |   | [Clique](https://www.hackerrank.com/challenges/clique)| Java |  | | Medium | 60 | ||
 |   | [Dijkstra: Shortest Reach 2](https://www.hackerrank.com/challenges/dijkstrashortreach)| Java |  | | Hard | 60 | ||
 |   | [Prim's (MST) : Special Subtree](https://www.hackerrank.com/challenges/primsmstsub)| Java |  | | Medium | 60 | ||
-
-|  |[Rust & Murderer](https://www.hackerrank.com/challenges/mark-and-toys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Graph%20Theory/Rust%20&%20Murderer/Solution.java)| _O(n+m)_ | _O(n)_| Medium | 70 | ||
+|   | [Rust & Murderer](https://www.hackerrank.com/challenges/mark-and-toys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Graph%20Theory/Rust%20&%20Murderer/Solution.java)| _O(n+m)_ | _O(n)_| Medium | 70 | ||
 
 ### Greedy
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
