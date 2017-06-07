@@ -324,7 +324,38 @@
 ### Game Theory
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-
+|   | [Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1)| Java |  | | Easy | 15 | ||
+|   | [Tower Breakers](https://www.hackerrank.com/challenges/tower-breakers-1)| Java |  | | Easy | 15 | ||
+|   | [A Chessboard Game](https://www.hackerrank.com/challenges/a-chessboard-game-1)| Java |  | | Easy | 15 | ||
+|   | [Introduction to Nim Game](https://www.hackerrank.com/challenges/nim-game-1)| Java |  | | Easy | 15 | ||
+|   | [Misère Nim](https://www.hackerrank.com/challenges/misere-nim-1)| Java |  | | Easy | 20 | ||
+|   | [Nimble Game](https://www.hackerrank.com/challenges/nimble-game-1)| Java |  | | Easy | 20 | ||
+|   | [Alice and Bob's Silly Game](https://www.hackerrank.com/challenges/alice-and-bobs-silly-game)| Java |  | | Medium | 30 | ||
+|   | [Poker Nim](https://www.hackerrank.com/challenges/poker-nim-1)| Java |  | | Easy | 20 | ||
+|   | [Tower Breakers, Revisited!](https://www.hackerrank.com/challenges/tower-breakers-revisited-1)| Java |  | | Medium | 25 | ||
+|   | [Tower Breakers, Again!](https://www.hackerrank.com/challenges/tower-breakers-again-1)| Java |  | | Medium | 30 | ||
+|   | [Zero-Move Nim](https://www.hackerrank.com/challenges/zero-move-nim)| Java |  | | Medium | 50 | ||
+|   | [Chessboard Game, Again!](https://www.hackerrank.com/challenges/chessboard-game-again-1)| Java |  | | Medium | 30 | ||
+|   | [Digits Square Board](https://www.hackerrank.com/challenges/digits-square-board-1)| Java |  | | Medium | 35 | ||
+|   | [Fun Game](https://www.hackerrank.com/challenges/fun-game-1)| Java |  | | Medium | 40 | ||
+|   | [Stone Division](https://www.hackerrank.com/challenges/stone-division)| Java |  | | Hard | 50 | ||
+|   | [Chocolate in Box](https://www.hackerrank.com/challenges/chocolate-in-box)| Java |  | | Medium | 70 | ||
+|   | [Kitty and Katty](https://www.hackerrank.com/challenges/kitty-and-katty)| Java |  | | Medium | 80 | ||
+|   | [Powers Game](https://www.hackerrank.com/challenges/powers-game-1)| Java |  | | Medium | 50 | ||
+|   | [Deforestation](https://www.hackerrank.com/challenges/deforestation-1)| Java |  | | Medium | 50 | ||
+|   | [Bob and Ben](https://www.hackerrank.com/challenges/bob-and-ben)| Java |  | | Medium | 50 | ||
+|   | [Tower Breakers - The Final Battle](https://www.hackerrank.com/challenges/tower-breakers-the-final-battle-1)| Java |  | | Medium | 50 | ||
+|   | [Simple Game](https://www.hackerrank.com/challenges/simple-game)| Java |  | | Hard | 60 | ||
+|   | [Permutation game](https://www.hackerrank.com/challenges/permutation-game)| Java |  | | Medium | 70 | ||
+|   | [Move the Coins](https://www.hackerrank.com/challenges/move-the-coins)| Java |  | | Hard | 60 | ||
+|   | [Play on benders](https://www.hackerrank.com/challenges/benders-play)| Java |  | | Medium | 70 | ||
+|   | [New Year Game](https://www.hackerrank.com/challenges/newyear-game)| Java |  | | Medium | 60 | ||
+|   | [Stone Piles](https://www.hackerrank.com/challenges/stone-piles)| Java |  | | Hard | 80 | ||
+|   | [Chocolate Game](https://www.hackerrank.com/challenges/chocolate-game)| Java |  | | Hard | 90 | ||
+|   | [Manasa and Prime game](https://www.hackerrank.com/challenges/manasa-and-prime-game)| Java |  | | Hard | 90 | ||
+|   | [Vertical Rooks](https://www.hackerrank.com/challenges/vertical-rooks)| Java |  | | Medium | 90 | ||
+|   | [A stones game](https://www.hackerrank.com/challenges/half)| Java |  | | Medium | 90 | ||
+|   | [Tastes Like Winning](https://www.hackerrank.com/challenges/taste-of-win)| Java |  | | Expert | 100 | ||
 
 ### NP Complete
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
