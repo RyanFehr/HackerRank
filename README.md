@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/06/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/08/2017-brightgreen.svg">
 </p>
 
 
@@ -279,6 +279,11 @@
 |   | [Clique](https://www.hackerrank.com/challenges/clique)| Java |  | | Medium | 60 | ||
 |   | [Dijkstra: Shortest Reach 2](https://www.hackerrank.com/challenges/dijkstrashortreach)| Java |  | | Hard | 60 | ||
 |   | [Prim's (MST) : Special Subtree](https://www.hackerrank.com/challenges/primsmstsub)| Java |  | | Medium | 60 | ||
+|   | [Roads in Hackerland](https://www.hackerrank.com/challenges/johnland)| Java |  | | Medium | 60 | ||
+|   | [Toll Cost Digits](https://www.hackerrank.com/challenges/toll-cost-digits)| Java |  | | Hard | 60 | ||
+|   | [Real Estate Broker](https://www.hackerrank.com/challenges/real-estate-broker)| Java |  | | Hard | 60 | ||
+|   | [Matrix](https://www.hackerrank.com/challenges/matrix)| Java |  | | Hard | 70 | ||
+|   | [Bead Ornaments](https://www.hackerrank.com/challenges/beadornaments)| Java |  | | Advanced | 70 | ||
 |   | [Rust & Murderer](https://www.hackerrank.com/challenges/mark-and-toys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Graph%20Theory/Rust%20&%20Murderer/Solution.java)| _O(n+m)_ | _O(n)_| Medium | 70 | ||
 
 ### Greedy
