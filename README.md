@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/08/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/09/2017-brightgreen.svg">
 </p>
 
 
@@ -285,6 +285,11 @@
 |   | [Matrix](https://www.hackerrank.com/challenges/matrix)| Java |  | | Hard | 70 | ||
 |   | [Bead Ornaments](https://www.hackerrank.com/challenges/beadornaments)| Java |  | | Advanced | 70 | ||
 |   | [Rust & Murderer](https://www.hackerrank.com/challenges/mark-and-toys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Graph%20Theory/Rust%20&%20Murderer/Solution.java)| _O(n+m)_ | _O(n)_| Medium | 70 | ||
+|   | [Recording Episodes](https://www.hackerrank.com/challenges/episode-recording)| Java |  | | Hard | 70 | ||
+|   | [Kingdom Connectivity](https://www.hackerrank.com/challenges/kingdom-connectivity)| Java |  | | Hard | 75 | ||
+|   | [Journey Scheduling](https://www.hackerrank.com/challenges/journey-scheduling)| Java |  | | Hard | 75 | ||
+|   | [Floyd : City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights)| Java |  | | Hard | 75 | ||
+|   | [Find the Path](https://www.hackerrank.com/challenges/shortest-path)| Java |  | | Hard | 75 | ||
 
 ### Greedy
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
