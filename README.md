@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/09/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/10/2017-brightgreen.svg">
 </p>
 
 
@@ -290,6 +290,12 @@
 |   | [Journey Scheduling](https://www.hackerrank.com/challenges/journey-scheduling)| Java |  | | Hard | 75 | ||
 |   | [Floyd : City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights)| Java |  | | Hard | 75 | ||
 |   | [Find the Path](https://www.hackerrank.com/challenges/shortest-path)| Java |  | | Hard | 75 | ||
+|   | [Repair Roads](https://www.hackerrank.com/challenges/repair-roads)| Java |  | | Hard | 80 | ||
+|   | [Problem solving](https://www.hackerrank.com/challenges/problem-solving)| Java |  | | Hard | 80 | ||
+|   | [Computer Game](https://www.hackerrank.com/challenges/computer-game)| Java |  | | Hard | 80 | ||
+|   | [Jack goes to Rapture](https://www.hackerrank.com/challenges/jack-goes-to-rapture)| Java |  | | Medium | 80 | ||
+|   | [Jim and his LAN Party](https://www.hackerrank.com/challenges/jim-and-his-lan-party)| Java |  | | Hard | 80 | ||
+
 
 ### Greedy
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
