@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/10/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/11/2017-brightgreen.svg">
 </p>
 
 
@@ -295,7 +295,11 @@
 |   | [Computer Game](https://www.hackerrank.com/challenges/computer-game)| Java |  | | Hard | 80 | ||
 |   | [Jack goes to Rapture](https://www.hackerrank.com/challenges/jack-goes-to-rapture)| Java |  | | Medium | 80 | ||
 |   | [Jim and his LAN Party](https://www.hackerrank.com/challenges/jim-and-his-lan-party)| Java |  | | Hard | 80 | ||
-
+|   | [Jeanie's Route](https://www.hackerrank.com/challenges/jeanies-route)| Java |  | | Medium | 80 | ||
+|   | [Travel in HackerLand](https://www.hackerrank.com/challenges/travel-in-hackerland)| Java |  | | Hard | 80 | ||
+|   | [Jogging Cats](https://www.hackerrank.com/challenges/cat-jogging)| Java |  | | Advanced | 80 | ||
+|   | [Tree Flow](https://www.hackerrank.com/challenges/tree-flow)| Java |  | | Hard | 80 | ||
+|   | [Tripartite Matching](https://www.hackerrank.com/challenges/tripartite-matching)| Java |  | | Hard | 80 | ||
 
 ### Greedy
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
