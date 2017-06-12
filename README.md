@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/11/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/12/2017-brightgreen.svg">
 </p>
 
 
@@ -300,6 +300,12 @@
 |   | [Jogging Cats](https://www.hackerrank.com/challenges/cat-jogging)| Java |  | | Advanced | 80 | ||
 |   | [Tree Flow](https://www.hackerrank.com/challenges/tree-flow)| Java |  | | Hard | 80 | ||
 |   | [Tripartite Matching](https://www.hackerrank.com/challenges/tripartite-matching)| Java |  | | Hard | 80 | ||
+|   | [Jumping Rooks](https://www.hackerrank.com/challenges/jumping-rooks)| Java |  | | Advanced | 80 | ||
+|   | [Minimum MST Graph](https://www.hackerrank.com/challenges/minimum-mst-graph)| Java |  | | Expert | 80 | ||
+|   | [Coprime Paths](https://www.hackerrank.com/challenges/coprime-paths)| Java |  | | Expert | 80 | ||
+|   | [DAG Queries](https://www.hackerrank.com/challenges/dag-queries)| Java |  | | Expert | 80 | ||
+|   | [Liars](https://www.hackerrank.com/challenges/liars)| Java |  | | Advanced | 85 | ||
+
 
 ### Greedy
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
