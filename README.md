@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/12/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/13/2017-brightgreen.svg">
 </p>
 
 
@@ -305,6 +305,11 @@
 |   | [Coprime Paths](https://www.hackerrank.com/challenges/coprime-paths)| Java |  | | Expert | 80 | ||
 |   | [DAG Queries](https://www.hackerrank.com/challenges/dag-queries)| Java |  | | Expert | 80 | ||
 |   | [Liars](https://www.hackerrank.com/challenges/liars)| Java |  | | Advanced | 85 | ||
+|   | [ByteLandianTours](https://www.hackerrank.com/challenges/bytelandian-tours)| Java |  | | Hard | 90 | ||
+|   | [Kth Ancestor](https://www.hackerrank.com/challenges/kth-ancestor)| Java |  | | Hard | 90 | ||
+|   | [Drive](https://www.hackerrank.com/challenges/drive)| Java |  | | Expert | 90 | ||
+|   | [Road Network](https://www.hackerrank.com/challenges/road-network)| Java |  | | Expert | 90 | ||
+|   | [Savita And Friends](https://www.hackerrank.com/challenges/savita-and-friends)| Java |  | | Hard | 90 | ||
 
 
 ### Greedy
