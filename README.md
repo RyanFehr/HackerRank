@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/13/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/14/2017-brightgreen.svg">
 </p>
 
 
@@ -310,6 +310,9 @@
 |   | [Drive](https://www.hackerrank.com/challenges/drive)| Java |  | | Expert | 90 | ||
 |   | [Road Network](https://www.hackerrank.com/challenges/road-network)| Java |  | | Expert | 90 | ||
 |   | [Savita And Friends](https://www.hackerrank.com/challenges/savita-and-friends)| Java |  | | Hard | 90 | ||
+|   | [Favorite sequence](https://www.hackerrank.com/challenges/favourite-sequence)| Java |  | | Advanced | 95 | ||
+|   | [Quadrant Queries](https://www.hackerrank.com/challenges/quadrant-queries)| Java |  | | Advanced | 100 | ||
+|   | [Going to the Office](https://www.hackerrank.com/challenges/going-office)| Java |  | | Expert | 100 | ||
 
 
 ### Greedy
