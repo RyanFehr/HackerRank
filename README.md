@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/14/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/15/2017-brightgreen.svg">
 </p>
 
 
@@ -313,7 +313,11 @@
 |   | [Favorite sequence](https://www.hackerrank.com/challenges/favourite-sequence)| Java |  | | Advanced | 95 | ||
 |   | [Quadrant Queries](https://www.hackerrank.com/challenges/quadrant-queries)| Java |  | | Advanced | 100 | ||
 |   | [Going to the Office](https://www.hackerrank.com/challenges/going-office)| Java |  | | Expert | 100 | ||
-
+|   | [Ticket](https://www.hackerrank.com/challenges/ticket)| Java |  | | Expert | 100 | ||
+|   | [HackerX](https://www.hackerrank.com/challenges/missile-defend)| Java |  | | Hard | 100 | ||
+|   | [Hacker Country](https://www.hackerrank.com/challenges/hacker-country)| Java |  | | Hard | 100 | ||
+|   | [Travelling Salesman in a Grid](https://www.hackerrank.com/challenges/tsp-grid)| Java |  | | Expert | 100 | ||
+|   | [Huarongdao](https://www.hackerrank.com/challenges/huarongdao)| Java |  | | Expert | 100 | ||
 
 ### Greedy
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
