@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/15/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/16/2017-brightgreen.svg">
 </p>
 
 
@@ -318,6 +318,11 @@
 |   | [Hacker Country](https://www.hackerrank.com/challenges/hacker-country)| Java |  | | Hard | 100 | ||
 |   | [Travelling Salesman in a Grid](https://www.hackerrank.com/challenges/tsp-grid)| Java |  | | Expert | 100 | ||
 |   | [Huarongdao](https://www.hackerrank.com/challenges/huarongdao)| Java |  | | Expert | 100 | ||
+|   | [Vertical Paths](https://www.hackerrank.com/challenges/vertical-paths)| Java |  | | Expert | 100 | ||
+|   | [DFS Edges](https://www.hackerrank.com/challenges/dfs-edges)| Java |  | | Expert | 100 | ||
+|   | [Tree Splitting](https://www.hackerrank.com/challenges/tree-splitting)| Java |  | | Advanced | 100 | ||
+|   | [Definite Random Walks](https://www.hackerrank.com/challenges/definite-random-walks)| Java |  | | Expert | 100 | ||
+|   | [Diameter Minimization](https://www.hackerrank.com/challenges/diameter-minimization)| Java |  | | Expert | 100 | ||
 
 ### Greedy
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
