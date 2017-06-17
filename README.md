@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/16/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/17/2017-brightgreen.svg">
 </p>
 
 
@@ -323,6 +323,8 @@
 |   | [Tree Splitting](https://www.hackerrank.com/challenges/tree-splitting)| Java |  | | Advanced | 100 | ||
 |   | [Definite Random Walks](https://www.hackerrank.com/challenges/definite-random-walks)| Java |  | | Expert | 100 | ||
 |   | [Diameter Minimization](https://www.hackerrank.com/challenges/diameter-minimization)| Java |  | | Expert | 100 | ||
+|   | [Training the army](https://www.hackerrank.com/challenges/training-the-army)| Java |  | | Hard | 120 | ||
+|   | [Alex vs Fedor](https://www.hackerrank.com/challenges/alex-vs-fedor)| Java |  | | Expert | 150 | ||
 
 ### Greedy
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
