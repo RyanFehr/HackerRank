@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-n/a-lightgrey.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/17/2017-brightgreen.svg">
 </p>
 
 
@@ -94,62 +94,62 @@
 |   | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Breaking%20the%20Records/Solution.java) | _O(n)_ | _O(1)_ | Easy| 10| ||
 |   | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Migratory%20Birds/Solution.java) [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Migratory%20Birds/Solution.js) | _O(n)_ | _O(1)_ | Easy| 10| ||
 |   | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Day%20Of%20The%20Programmer/Solution.java) | _O(1)_ | _O(1)_ | Easy| 15| ||
-|   | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Bon%20Appetit/Solution.java) |  | | Easy| 10| ||
-|   | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Sock%20Merchant/Solution.java) |  | | Easy| 10| ||
-|   | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Drawing%20Book/Solution.java) |  | | Easy| 10| ||
+|   | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Bon%20Appetit/Solution.java) | _O(n)_ | _O(n)_ | Easy| 10| ||
+|   | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Sock%20Merchant/Solution.java) | _O(n)_ | _O(n)_ | Easy| 10| ||
+|   | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Drawing%20Book/Solution.java) | _O(1)_ | _O(1)_ | Easy| 10| ||
 |   | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Counting%20Valleys/Solution.java) [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Counting%20Valleys/Solution.js) | _O(n)_ | _O(1)_ | Easy| 15| ||
 |   | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Cats%20and%20a%20Mouse/Solution.java) | _O(1)_ | _O(1)_ | Easy| 15| ||
-|   | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Electronics%20Shop/Solution.java) [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Electronics%20Shop/Solution.js) | _O(n log (n))_ | _O(1)_ | Easy| 15| n = m+n||
+|   | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Electronics%20Shop/Solution.java) [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Electronics%20Shop/Solution.js) | _O(n log (n))_ | _O(1)_ | Easy| 15| n = m+n||	
 |   | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Picking%20Numbers/Solution.java) | _O(n)_ | _O(n)_ | Easy| 20| ||
 |   | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Climbing%20the%20Leaderboard/Solution.java) [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Climbing%20the%20Leaderboard/Solution.js) | _O(n+m)_ | _(n)_ | Easy| 20| ||
 |   | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/The%20Hurdle%20Race/Solution.java) | _O(n)_ | _O(1)_ | Easy| 15| ||
-|   | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Designer%20PDF%20Viewer/Solution.java) |  | | Easy| 20| ||
+|   | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Designer%20PDF%20Viewer/Solution.java) | _O(n)_ | _O(n)_ | Easy| 20| ||
 |   | [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Forming%20a%20Magic%20Square/Solution.java) | _O(1)_ | _O(1)_ | Easy| 20| ||
-|   | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Utopian%20Tree/Solution.java) |  | | Easy | 20| ||
-|   | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Angry%20Professor/Solution.java) |  | | Easy | 20| ||
-|   | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Beautiful%20Days%20at%20the%20Movies/Solution.java) |  | | Easy | 15| ||
-|   | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Viral%20Advertising/Solution.java) |  | | Easy | 15| ||
-|   | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Save%20the%20Prisoner!/Solution.java) |  | | Easy | 15| ||
-|   | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Circular%20Array%20Rotation/Solution.java) |  | | Easy | 20| ||
+|   | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Utopian%20Tree/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
+|   | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Angry%20Professor/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
+|   | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Beautiful%20Days%20at%20the%20Movies/Solution.java) | _O(n)_ | _O(1)_ | Easy | 15| ||
+|   | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Viral%20Advertising/Solution.java) | _O(n)_ | _O(1)_ | Easy | 15| ||
+|   | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Save%20the%20Prisoner!/Solution.java) | _O(1)_ | _O(1)_ | Easy | 15| ||
+|   | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Circular%20Array%20Rotation/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
 |   | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Sequence%20Equation/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
-|   | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Jumping%20on%20the%20Clouds-%20Revisited/Solution.java) |  | | Easy | 15| ||
-|   | [Find Digits](https://www.hackerrank.com/challenges/find-digits)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Find%20Digits/Solution.java) |  | | Easy | 25| ||
-|   | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Extra%20Long%20Factorials/Solution.java) |  | | Medium | 20| ||
-|   | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Append%20and%20Delete/Solution.java) |  | | Easy | 20| ||
-|   | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Sherlock%20and%20Squares/Solution.java) |  | | Easy | 20| ||
-|   | [Library Fine](https://www.hackerrank.com/challenges/library-fine)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Library%20Fine/Solution.java) |  | | Easy| 15| ||
-|   | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Cut%20the%20sticks/Solution.java) |  | | Easy | 25| ||
-|   | [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Non-Divisible%20Subset/Solution.java) |  | | Medium | 20| ||
-|   | [Repeated String](https://www.hackerrank.com/challenges/repeated-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Repeated%20String/Solution.java) |  | | Easy | 20| ||
-|   | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Jumping%20on%20the%20Clouds/Solution.java) |  | | Easy | 20| ||
-|   | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Equalize%20the%20Array/Solution.java) |  | | Easy | 20| ||
+|   | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Jumping%20on%20the%20Clouds-%20Revisited/Solution.java) | _O(n)_ | _O(n)_ | Easy | 15| ||
+|   | [Find Digits](https://www.hackerrank.com/challenges/find-digits)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Find%20Digits/Solution.java) | _O(n)_ | _O(1)_ | Easy | 25| ||
+|   | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Extra%20Long%20Factorials/Solution.java) | _O(n)_ | _O(1)_ | Medium | 20| ||
+|   | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Append%20and%20Delete/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
+|   | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Sherlock%20and%20Squares/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
+|   | [Library Fine](https://www.hackerrank.com/challenges/library-fine)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Library%20Fine/Solution.java) | _O(1)_ | _O(1)_ | Easy| 15| ||
+|   | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Cut%20the%20sticks/Solution.java) | _O(n)_ | _O(n)_ | Easy | 25| ||
+|   | [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Non-Divisible%20Subset/Solution.java) | _O(n)_ | _O(n)_ | Medium | 20| ||
+|   | [Repeated String](https://www.hackerrank.com/challenges/repeated-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Repeated%20String/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
+|   | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Jumping%20on%20the%20Clouds/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
+|   | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Equalize%20the%20Array/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Queen's%20Attack%20II/Solution.java) | _O(k)_ | _O(1)_ | Medium | 30| ||
-|   | [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/ACM%20ICPC%20Team/Solution.java) |  | | Easy | 25| ||
-|   | [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Taum%20and%20B'day/Solution.java) |  | | Easy | 25| ||
+|   | [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/ACM%20ICPC%20Team/Solution.java) | _O(n^3)_ | _O(n)_ | Easy | 25| ||
+|   | [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Taum%20and%20B'day/Solution.java) | _O(1)_ | _O(1)_ | Easy | 25| ||
 |   | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Organizing%20Containers%20of%20Balls/Solution.java) | _O(n^2)_ | _O(n^2)_ | Medium | 30| ||
-|   | [Enryption](https://www.hackerrank.com/challenges/encryption)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Encyrption/Solution.java) |  | | Medium | 30| ||
-|   | [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Bigger%20is%20Greater/Solution.java) |  | | Medium | 35| ||
-|   | [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Modified%20Kaprekar%20Numbers/Solution.java) |  | | Easy | 30| ||
-|   | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Beautiful%20Triplets/Solution.java) |  | | Easy | 20| ||
-|   | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Minimum%20Distances/Solution.java) |  | | Easy | 20| ||
+|   | [Enryption](https://www.hackerrank.com/challenges/encryption)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Encyrption/Solution.java) | _O(n)_ | _O(n)_ | Medium | 30| ||
+|   | [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Bigger%20is%20Greater/Solution.java) | _O(n)_ | _O(n)_ | Medium | 35| ||
+|   | [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Modified%20Kaprekar%20Numbers/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
+|   | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Beautiful%20Triplets/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
+|   | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Minimum%20Distances/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Strings%20Making%20Anagrams/Solution.java) | _O(&#124;a&#124;+&#124;b&#124;)_ | _O(1)_ | Easy | 30| ||
-|   | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/The%20Time%20in%20Words/Solution.java) |  | | Medium | 25| ||
-|   | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Chocolate%20Feast/Solution.java) |  | | Easy | 25| ||
-|   | [Service Lane](https://www.hackerrank.com/challenges/service-lane)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Service%20Lane/Solution.java) |  | | Easy | 20| ||
-|   | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Lisa's%20Workbook/Solution.java) |  | | Easy | 25| ||
-|   | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Flatland%20Space%20Stations/Solution.java) |  | | Easy | 25| ||
-|   | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Fair%20Rations/Solution.java) |  | | Easy | 25| ||
-|   | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Cavity%20Map/Solution.java) |  | | Easy | 30| ||
-|   | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Manasa%20and%20Stones/Solution.java) |  | | Easy | 30| ||
-|   | [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/The%20Grid%20Search/Solution.java) |  | | Medium | 30| ||
-|   | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Happy%20Ladybugs/Solution.java) |  | | Easy | 30| ||
-|   | [Strange Counter](https://www.hackerrank.com/challenges/strange-code)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Strange%20Counter/Solution.java) |  | | Easy | 30| ||
-|   | [Absolute Permuation](https://www.hackerrank.com/challenges/absolute-permutation)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Absolute%20Permuation/Solution.java) |  | | Medium | 40| ||
+|   | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/The%20Time%20in%20Words/Solution.java) | _O(1)_ | _O(1)_ | Medium | 25| ||
+|   | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Chocolate%20Feast/Solution.java) | _O(n)_ | _O(1)_ | Easy | 25| ||
+|   | [Service Lane](https://www.hackerrank.com/challenges/service-lane)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Service%20Lane/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
+|   | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Lisa's%20Workbook/Solution.java) | _O(n)_ | _O(1)_ | Easy | 25| ||
+|   | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Flatland%20Space%20Stations/Solution.java) | _O(n)_ | _O(n)_ | Easy | 25| ||
+|   | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Fair%20Rations/Solution.java) | _O(n)_ | _O(n)_ | Easy | 25| ||
+|   | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Cavity%20Map/Solution.java) | _O(n^2)_ | _O(n^2)_ | Easy | 30| ||
+|   | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Manasa%20and%20Stones/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
+|   | [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/The%20Grid%20Search/Solution.java) | _O(n)_ | _O(n)_ | Medium | 30| n = len(word)||
+|   | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Happy%20Ladybugs/Solution.java) | _O(n)_ | _O(n)_ | Easy | 30| ||
+|   | [Strange Counter](https://www.hackerrank.com/challenges/strange-code)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Strange%20Counter/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| n = t ||
+|   | [Absolute Permuation](https://www.hackerrank.com/challenges/absolute-permutation)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Absolute%20Permuation/Solution.java) | _O(n)_ | _O(n)_ | Medium | 40| ||
 |   | [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/The%20Bomberman%20Game/Solution.java) | _O(n*m)_ | _O(n*m)_ | Medium | 40| ||
 |   | [Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses)| Java |  | | Medium | 40| ||
 |   | [Larry's Array](https://www.hackerrank.com/challenges/larrys-array)| Java |  | | Medium | 40| ||
 |   | [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted)| Java |  | | Medium | 50| ||
-|   | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo)| Java |  | | Hard | 80| ||
+|   | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo)| [Python3](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Matrix%20Layer%20Rotation/Solution.py3) | _O(n*m)_ | _O(n*m)_ | Hard | 80| ||
 |   | [Consecutive 1s in Binary Numbers](https://www.hackerrank.com/challenges/linkedin-practice-binary-numbers)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Consecutive%201s%20in%20Binary%20Numbers/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
 |   | [Nested Logic](https://www.hackerrank.com/challenges/linkedin-practice-nested-logic)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Nested%20Logic/Solution.java) | _O(1)_ | _O(1)_ | Easy | 40| ||
 |   | [Bitwise AND](https://www.hackerrank.com/challenges/linkedin-practice-bitwise-and)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Bitwise%20AND/Solution.java) | _O(1)_ | _O(1)_ | Easy | 20| ||
@@ -157,28 +157,28 @@
 ### Strings
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Super%20Reduced%20String/Solution.java) |  | | Easy | 10| ||
-|   | [camelCase](https://www.hackerrank.com/challenges/camelcase)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/camelCase/Solution.java) |  | | Easy | 15| ||
+|   | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Super%20Reduced%20String/Solution.java) | _O(n)_ | _O(n)_ | Easy | 10| ||
+|   | [camelCase](https://www.hackerrank.com/challenges/camelcase)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/camelCase/Solution.java) | _O(n)_ | _O(1)_ | Easy | 15| ||
 |   | [Two Characters](https://www.hackerrank.com/challenges/two-characters)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Two%20Characters/Solution.java) | _O(n)_ | _O(1)_ | Easy| 15| ||
 |   | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Caesar%20Cipher/Solution.java) | _O(n)_ | _O(n)_ | Easy | 15| ||
 |   | [Caesar Cipher: Encryption](https://www.hackerrank.com/challenges/linkedin-practice-caesar-cipher)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Caesar%20Cipher%20Encryption/Solution.java) | _O(n)_ | _O(n)_ | Easy | 40 | ||
-|   | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Mars%20Exploration/Solution.java) |  | | Easy | 15| ||
+|   | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Mars%20Exploration/Solution.java) | _O(n)_ | _O(1)_ | Easy | 15| ||
 |   | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/HackerRank%20in%20a20String!/Solution.java) [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/HackerRank%20in%20a20String!/Solution.js) | _O(n)_ | _O(1)_ | Easy | 20| ||
-|   | [Pangrams](https://www.hackerrank.com/challenges/pangrams)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Pangrams/Solution.java) |  | | Easy | 20| ||
-|   | [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Weighted%20Uniform%20Strings/Solution.java) |  | | Easy | 20| ||
+|   | [Pangrams](https://www.hackerrank.com/challenges/pangrams)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Pangrams/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
+|   | [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Weighted%20Uniform%20Strings/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers)| Java |  | | Easy | 20| ||
-|   | [Funny String](https://www.hackerrank.com/challenges/funny-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Funny%20String/Solution.java) |  | | Easy | 25| ||
-|   | [Gemstones](https://www.hackerrank.com/challenges/gem-stones)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Gemstones/Solution.java) |  | | Easy | 20| ||
-|   | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Alternating%20Characters/Solution.java) |  | | Easy | 20| ||
-|   | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Beautiful%20Binary%20String/Solution.java) |  | | Easy | 20| ||
+|   | [Funny String](https://www.hackerrank.com/challenges/funny-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Funny%20String/Solution.java) | _O(n)_ | _O(1)_ | Easy | 25| ||
+|   | [Gemstones](https://www.hackerrank.com/challenges/gem-stones)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Gemstones/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
+|   | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Alternating%20Characters/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
+|   | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Beautiful%20Binary%20String/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
 |   | [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/The%20Love-Letter%20Mystery/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
 |   | [Determining DNA Health](https://www.hackerrank.com/challenges/determining-dna-health)| Java |  | | Hard | 50| ||
-|   | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Palindrome%20Index/Solution.java) |  | | Easy | 25| ||
+|   | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Palindrome%20Index/Solution.java) | _O(n)_ | _O(1)_ | Easy | 25| ||
 |   | [Anagram](https://www.hackerrank.com/challenges/anagram)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Anagram/Solution.java) | _O(n)_ | _O(1)_ | Easy | 25| ||
-|   | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Making%20Anagrams/Solution.java) |  | | Easy | 30| ||
+|   | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Making%20Anagrams/Solution.java) | _O(n)_ | _O(n)_ | Easy | 30| ||
 |   | [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Game%20of%20Thrones-I/Solution.java) | _O(n)_ | _O(1)_ | Easy | 30| ||
 |   | [Two Strings](https://www.hackerrank.com/challenges/two-strings)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Two%20Strings/Solution.java) | _O(&#124;a&#124; + &#124;b&#124;)_ | _O(1)_ | Easy | 25| ||
-|   | [String Construction](https://www.hackerrank.com/challenges/string-construction)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/String%20Construction/Solution.java) |   |  | Easy | 25| ||
+|   | [String Construction](https://www.hackerrank.com/challenges/string-construction)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/String%20Construction/Solution.java) | _O(n)_ | _O(n)_ | Easy | 25| ||
 |   | [Sherlock and Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Strings/Sherlock%20and%20Valid%20String/Solution.java) | _O(n)_ | _O(n)_ | Hard | 100| ||
 |   | [Richie Rich](https://www.hackerrank.com/challenges/richie-rich)| Java [Python 3](./Algorithms/Strings/Richie%20Rich/solution.py)| _O(n)_  | _O(n)_ | Medium | 30| ||
 |   | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams)| Java |  | | Medium | 50| ||
@@ -239,6 +239,7 @@
 |   | [Binary Search: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Search/Binary%20Search%20Ice%20Cream%20Parlor/Solution.java) | _O(n)_ | _O(n)_ | Easy | 35 | ||
 |   | [Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro)| Java |  | | Medium | 25 | ||
 |   | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)| Java |  | | Easy | 45 | ||
+|   | [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Search/Minimum%20Loss/Solution.java) | _O(n log(n))_ | _O(n)_ | Medium | 35| ||
 |   | [KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard)| Java |  | | Medium | 35 | ||
 |   | [Pairs](https://www.hackerrank.com/challenges/pairs)| Java |  | | Medium | 50 | ||
 |   | [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array)| Java |  | | Easy | 40 | ||
@@ -262,8 +263,68 @@
 ### Graph Theory
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|   | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development)| Java |  | | Medium | 30| ||
+|   | [Synchronous Shopping](https://www.hackerrank.com/challenges/synchronous-shopping)| Java |  | | Medium | 40 | ||
+|   | [Crab Graphs](https://www.hackerrank.com/challenges/crab-graphs)| Java |  | | Medium | 50 | ||
+|   | [Even Tree](https://www.hackerrank.com/challenges/even-tree)| Java |  | | Medium | 50 | ||
+|   | [Snakes and Ladders: The Quickest Way Up](https://www.hackerrank.com/challenges/the-quickest-way-up)| Java |  | | Medium | 50 | ||
+|   | [Subset Component](https://www.hackerrank.com/challenges/subset-component)| Java |  | | Hard | 50 | ||
 |  |[Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Graph%20Theory/Journey%20to%20the%20Moon/Solution.java) [Python 3](./Algorithms/Graph%20Theory/Journey%20to%20the%20Moon/solution.py3) | _O(n + i)_ | _O(n)_| Medium | 50 | ||
-|  |[Rust & Murderer](https://www.hackerrank.com/challenges/mark-and-toys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Graph%20Theory/Rust%20&%20Murderer/Solution.java)| _O(n+m)_ | _O(n)_| Medium | 70 | ||
+|   | [Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub)| Java |  | | Hard | 50 | ||
+|   | [Minimum Penalty Path](https://www.hackerrank.com/challenges/beautiful-path)| Java |  | | Medium | 50 | ||
+|   | [Demanding Money](https://www.hackerrank.com/challenges/borrowing-money)| Java |  | | Hard | 50 | ||
+|   | [The Story of a Tree](https://www.hackerrank.com/challenges/the-story-of-a-tree)| Java |  | | Medium | 50 | ||
+|   | [Breadth First Search: Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach)| Java |  | | Medium | 55 | ||
+|   | [The Value of Friendship](https://www.hackerrank.com/challenges/value-of-friendship)| Java |  | | Hard | 55 | ||
+|   | [Clique](https://www.hackerrank.com/challenges/clique)| Java |  | | Medium | 60 | ||
+|   | [Dijkstra: Shortest Reach 2](https://www.hackerrank.com/challenges/dijkstrashortreach)| Java |  | | Hard | 60 | ||
+|   | [Prim's (MST) : Special Subtree](https://www.hackerrank.com/challenges/primsmstsub)| Java |  | | Medium | 60 | ||
+|   | [Roads in Hackerland](https://www.hackerrank.com/challenges/johnland)| Java |  | | Medium | 60 | ||
+|   | [Toll Cost Digits](https://www.hackerrank.com/challenges/toll-cost-digits)| Java |  | | Hard | 60 | ||
+|   | [Real Estate Broker](https://www.hackerrank.com/challenges/real-estate-broker)| Java |  | | Hard | 60 | ||
+|   | [Matrix](https://www.hackerrank.com/challenges/matrix)| Java |  | | Hard | 70 | ||
+|   | [Bead Ornaments](https://www.hackerrank.com/challenges/beadornaments)| Java |  | | Advanced | 70 | ||
+|   | [Rust & Murderer](https://www.hackerrank.com/challenges/mark-and-toys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Graph%20Theory/Rust%20&%20Murderer/Solution.java)| _O(n+m)_ | _O(n)_| Medium | 70 | ||
+|   | [Recording Episodes](https://www.hackerrank.com/challenges/episode-recording)| Java |  | | Hard | 70 | ||
+|   | [Kingdom Connectivity](https://www.hackerrank.com/challenges/kingdom-connectivity)| Java |  | | Hard | 75 | ||
+|   | [Journey Scheduling](https://www.hackerrank.com/challenges/journey-scheduling)| Java |  | | Hard | 75 | ||
+|   | [Floyd : City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights)| Java |  | | Hard | 75 | ||
+|   | [Find the Path](https://www.hackerrank.com/challenges/shortest-path)| Java |  | | Hard | 75 | ||
+|   | [Repair Roads](https://www.hackerrank.com/challenges/repair-roads)| Java |  | | Hard | 80 | ||
+|   | [Problem solving](https://www.hackerrank.com/challenges/problem-solving)| Java |  | | Hard | 80 | ||
+|   | [Computer Game](https://www.hackerrank.com/challenges/computer-game)| Java |  | | Hard | 80 | ||
+|   | [Jack goes to Rapture](https://www.hackerrank.com/challenges/jack-goes-to-rapture)| Java |  | | Medium | 80 | ||
+|   | [Jim and his LAN Party](https://www.hackerrank.com/challenges/jim-and-his-lan-party)| Java |  | | Hard | 80 | ||
+|   | [Jeanie's Route](https://www.hackerrank.com/challenges/jeanies-route)| Java |  | | Medium | 80 | ||
+|   | [Travel in HackerLand](https://www.hackerrank.com/challenges/travel-in-hackerland)| Java |  | | Hard | 80 | ||
+|   | [Jogging Cats](https://www.hackerrank.com/challenges/cat-jogging)| Java |  | | Advanced | 80 | ||
+|   | [Tree Flow](https://www.hackerrank.com/challenges/tree-flow)| Java |  | | Hard | 80 | ||
+|   | [Tripartite Matching](https://www.hackerrank.com/challenges/tripartite-matching)| Java |  | | Hard | 80 | ||
+|   | [Jumping Rooks](https://www.hackerrank.com/challenges/jumping-rooks)| Java |  | | Advanced | 80 | ||
+|   | [Minimum MST Graph](https://www.hackerrank.com/challenges/minimum-mst-graph)| Java |  | | Expert | 80 | ||
+|   | [Coprime Paths](https://www.hackerrank.com/challenges/coprime-paths)| Java |  | | Expert | 80 | ||
+|   | [DAG Queries](https://www.hackerrank.com/challenges/dag-queries)| Java |  | | Expert | 80 | ||
+|   | [Liars](https://www.hackerrank.com/challenges/liars)| Java |  | | Advanced | 85 | ||
+|   | [ByteLandianTours](https://www.hackerrank.com/challenges/bytelandian-tours)| Java |  | | Hard | 90 | ||
+|   | [Kth Ancestor](https://www.hackerrank.com/challenges/kth-ancestor)| Java |  | | Hard | 90 | ||
+|   | [Drive](https://www.hackerrank.com/challenges/drive)| Java |  | | Expert | 90 | ||
+|   | [Road Network](https://www.hackerrank.com/challenges/road-network)| Java |  | | Expert | 90 | ||
+|   | [Savita And Friends](https://www.hackerrank.com/challenges/savita-and-friends)| Java |  | | Hard | 90 | ||
+|   | [Favorite sequence](https://www.hackerrank.com/challenges/favourite-sequence)| Java |  | | Advanced | 95 | ||
+|   | [Quadrant Queries](https://www.hackerrank.com/challenges/quadrant-queries)| Java |  | | Advanced | 100 | ||
+|   | [Going to the Office](https://www.hackerrank.com/challenges/going-office)| Java |  | | Expert | 100 | ||
+|   | [Ticket](https://www.hackerrank.com/challenges/ticket)| Java |  | | Expert | 100 | ||
+|   | [HackerX](https://www.hackerrank.com/challenges/missile-defend)| Java |  | | Hard | 100 | ||
+|   | [Hacker Country](https://www.hackerrank.com/challenges/hacker-country)| Java |  | | Hard | 100 | ||
+|   | [Travelling Salesman in a Grid](https://www.hackerrank.com/challenges/tsp-grid)| Java |  | | Expert | 100 | ||
+|   | [Huarongdao](https://www.hackerrank.com/challenges/huarongdao)| Java |  | | Expert | 100 | ||
+|   | [Vertical Paths](https://www.hackerrank.com/challenges/vertical-paths)| Java |  | | Expert | 100 | ||
+|   | [DFS Edges](https://www.hackerrank.com/challenges/dfs-edges)| Java |  | | Expert | 100 | ||
+|   | [Tree Splitting](https://www.hackerrank.com/challenges/tree-splitting)| Java |  | | Advanced | 100 | ||
+|   | [Definite Random Walks](https://www.hackerrank.com/challenges/definite-random-walks)| Java |  | | Expert | 100 | ||
+|   | [Diameter Minimization](https://www.hackerrank.com/challenges/diameter-minimization)| Java |  | | Expert | 100 | ||
+|   | [Training the army](https://www.hackerrank.com/challenges/training-the-army)| Java |  | | Hard | 120 | ||
+|   | [Alex vs Fedor](https://www.hackerrank.com/challenges/alex-vs-fedor)| Java |  | | Expert | 150 | ||
 
 ### Greedy
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
@@ -278,7 +339,25 @@
 |  |[Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Sherlock%20and%20The%20Beast/Solution.java)| _O(n)_ | _O(n)_| Easy | 30 | ||
 |  |[Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Priyanka%20and%20Toys/Solution.java) [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Priyanka%20and%20Toys/Solution.js)| _O(n log(n))_ | _O(n)_| Easy | 30 | ||
 |  |[Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation)| [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Largest%20Permutation/Solution.js) | _O(n)_ | _O(n)_ | Easy | 30| ||
-|  |[Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/editorial)| [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Greedy%20Florist/Solution.js)| _O(n log (n))_ | _O(n)_| Medium | 35 | ||
+|   | [Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs)| Java |  | | Easy | 30| ||
+|   | [Yet Another Minimax Problem](https://www.hackerrank.com/challenges/yet-another-minimax-problem)| Java |  | | Medium | 20| ||
+|   | [Flipping the Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Constructve%20Algorithms/Flipping%20Matrix/Solution.java) | _O(n^2)_ | _O(n^2)_ | Medium | 30 | ||
+|   | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development)| Java |  | | Medium | 30| ||
+|  |[Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist)| [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Greedy%20Florist/Solution.js)| _O(n log (n))_ | _O(n)_| Medium | 35 | ||
+|  |[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Mark%20and%20Toys/Solution.java)| _O(n log(n))_ | _O(n)_| Easy | 35 | ||
+|   | [Max Min](https://www.hackerrank.com/challenges/angry-children)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Max%20Min/Solution.java) | _O(n log(n))_ | _O(1)_ | Medium | 35| ||
+|   | [Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays)| Java |  | | Easy | 40| ||
+|   | [Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders)| Java |  | | Easy | 40| ||
+|   | [Goodland Electricity](https://www.hackerrank.com/challenges/pylons)| Java |  | | Medium | 40| ||
+|   | [Fun Game](https://www.hackerrank.com/challenges/fun-game-1)| Java |  | | Medium | 40| ||
+|   | [Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge)| Java |  | | Advanced | 50| ||
+|   | [Cutting Boards](https://www.hackerrank.com/challenges/board-cutting)| Java |  | | Hard | 60| ||
+|   | [Algorithmic Crush](https://www.hackerrank.com/challenges/crush)| Java |  | | Hard | 60| ||
+|   | [Prim's (MST): Special Subtree](https://www.hackerrank.com/challenges/primsmstsub)| Java |  | | Medium | 60| ||
+|   | [Accessory Collection](https://www.hackerrank.com/challenges/accessory-collection)| Java |  | | Hard | 60| ||
+|  |[Chief Hopper](https://www.hackerrank.com/challenges/rust-murderer)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Chief%20Hopper/Solution.java)| _O(n)_ | _O(n)_| Hard | 65 | ||
+|   | [Sherlock and MiniMax](https://www.hackerrank.com/challenges/sherlock-and-minimax)| Java |  | | Hard | 70| ||
+|   | [Team Formation](https://www.hackerrank.com/challenges/team-formation)| Java |  | | Advanced | 70| ||
 
 ### Dynamic Programming
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
@@ -383,7 +462,7 @@
 [FunctionalLanguagesPercentile]:https://img.shields.io/badge/Percentile-n/a-lightgrey.svg
 
 [AlgorithmsRank]:https://img.shields.io/badge/Rank-4392-brightgreen.svg
-[AlgorithmsPoints]:https://img.shields.io/badge/Points-3445-brightgreen.svg
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-3450-brightgreen.svg
 
 [DataStructuresRank]:https://img.shields.io/badge/Rank-114680-red.svg
 [DataStructuresPoints]:https://img.shields.io/badge/Points-25.00-red.svg
