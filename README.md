@@ -403,7 +403,7 @@
 ### Game Theory
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1)| [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Climbing%20the%20Leaderboard/Solution.js) | _O(n)_ | _O(1)_ | Easy | 15 | ||
+|   | [Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1)| [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Game%20Theory/Game%20of%20Stones/Solution.js) | _O(n)_ | _O(1)_ | Easy | 15 | ||
 |   | [Tower Breakers](https://www.hackerrank.com/challenges/tower-breakers-1)| Java |  | | Easy | 15 | ||
 |   | [A Chessboard Game](https://www.hackerrank.com/challenges/a-chessboard-game-1)| Java |  | | Easy | 15 | ||
 |   | [Introduction to Nim Game](https://www.hackerrank.com/challenges/nim-game-1)| Java |  | | Easy | 15 | ||
