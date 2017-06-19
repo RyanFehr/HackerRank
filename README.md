@@ -238,11 +238,11 @@
 |   | [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Search/Ice%20Cream%20Parlor/Solution.java) | _O(n)_ | _O(n)_ | Easy | 30 | ||
 |   | [Binary Search: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Search/Binary%20Search%20Ice%20Cream%20Parlor/Solution.java) | _O(n)_ | _O(n)_ | Easy | 35 | ||
 |   | [Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro)| Java |  | | Medium | 25 | ||
-|   | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)| Java |  | | Easy | 45 | ||
+|   | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)| C++ | _O(n)_ | _O(n)_ | Easy | 45 | ||
 |   | [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Search/Minimum%20Loss/Solution.java) | _O(n log(n))_ | _O(n)_ | Medium | 35| ||
 |   | [KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard)| Java |  | | Medium | 35 | ||
-|   | [Pairs](https://www.hackerrank.com/challenges/pairs)| Java |  | | Medium | 50 | ||
-|   | [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array)| Java |  | | Easy | 40 | ||
+|   | [Pairs](https://www.hackerrank.com/challenges/pairs)| C++ | _O(n log(n))_ | _O(n)_ | Medium | 50 | ||
+|   | [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array)| C++ | _O(n)_ | _O(n)_ | Easy | 40 | ||
 |   | [Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum)| Java |  | | Hard | 65 | ||
 |   | [Connected Cells in a grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid)| Java |  | | Medium | 50 | ||
 |   | [Short Palindrome](https://www.hackerrank.com/challenges/short-palindrome)| Java |  | | Medium | 40 | ||
