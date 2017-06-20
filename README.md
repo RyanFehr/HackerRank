@@ -101,7 +101,7 @@
 |   | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Cats%20and%20a%20Mouse/Solution.java) | _O(1)_ | _O(1)_ | Easy| 15| ||
 |   | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Electronics%20Shop/Solution.java) [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Electronics%20Shop/Solution.js) | _O(n log (n))_ | _O(1)_ | Easy| 15| n = m+n||	
 |   | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Picking%20Numbers/Solution.java) | _O(n)_ | _O(n)_ | Easy| 20| ||
-|   | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Climbing%20the%20Leaderboard/Solution.java) | _O(n+m)_ | _(n)_ | Easy| 20| ||
+|   | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Climbing%20the%20Leaderboard/Solution.java) [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Climbing%20the%20Leaderboard/Solution.js) | _O(n+m)_ | _(n)_ | Easy| 20| ||
 |   | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/The%20Hurdle%20Race/Solution.java) | _O(n)_ | _O(1)_ | Easy| 15| ||
 |   | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Designer%20PDF%20Viewer/Solution.java) | _O(n)_ | _O(n)_ | Easy| 20| ||
 |   | [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Forming%20a%20Magic%20Square/Solution.java) | _O(1)_ | _O(1)_ | Easy| 20| ||
@@ -384,7 +384,31 @@
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |   | [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Bit%20Manipulation/Lonely%20Integer/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20 | ||
+|   | [Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor)| Java |  |  | Easy | 30 | ||
+|   | [Counter game](https://www.hackerrank.com/challenges/counter-game)| Java |  |  | Medium | 30 | ||
+|   | [Xor-sequence](https://www.hackerrank.com/challenges/xor-se)| Java |  |  | Medium | 40 | ||
 |   | [Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Bit%20Manipulation/Sum%20vs%20XOR/Solution.java) | _O(n log(n))_ | _O(1)_ | Easy | 20 | ||
+|   | [The Great XOR](https://www.hackerrank.com/challenges/the-great-xor)| Java |  |  | Medium | 25 | ||
+|   | [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits)| Java |  |  | Easy | 40 | ||
+|   | [Yet Another Minimax Problem](https://www.hackerrank.com/challenges/yet-another-minimax-problem)| Java |  |  | Medium | 30 | ||
+|   | [Sansa and XOR](https://www.hackerrank.com/challenges/sansa-and-xor)| Java |  |  | Medium | 30 | ||
+|   | [AND Product](https://www.hackerrank.com/challenges/and-product)| Java |  |  | Medium | 40 | ||
+|   | [Xoring Ninja](https://www.hackerrank.com/challenges/xoring-ninja)| Java |  |  | Hard | 55 | ||
+|   | [Cipher](https://www.hackerrank.com/challenges/cipher)| Java |  |  | Medium | 50 | ||
+|   | [XOR Matrix](https://www.hackerrank.com/challenges/xor-matrix)| Java |  |  | Hard | 50 | ||
+|   | [What's Next?](https://www.hackerrank.com/challenges/whats-next)| Java |  |  | Medium | 50 | ||
+|   | [String Transmission](https://www.hackerrank.com/challenges/string-transmission)| Java |  |  | Hard | 60 | ||
+|   | [A or B](https://www.hackerrank.com/challenges/aorb)| Java |  |  | Medium | 50 | ||
+|   | [Manipulative Numbers](https://www.hackerrank.com/challenges/manipulative-numbers)| Java |  |  | Hard | 55 | ||
+|   | [Stone game](https://www.hackerrank.com/challenges/stonegame)| Java |  |  | Hard | 70 | ||
+|   | [2's complement](https://www.hackerrank.com/challenges/2s-complement)| Java |  |  | Advanced | 70 | ||
+|   | [Changing Bits](https://www.hackerrank.com/challenges/changing-bits)| Java |  |  | Advanced | 70 | ||
+|   | [XOR key](https://www.hackerrank.com/challenges/xor-key)| Java |  |  | Advanced | 80 | ||
+|   | [Maximizing the Function](https://www.hackerrank.com/challenges/maximizing-the-function)| Java |  |  | Hard | 70 | ||
+|   | [XOR Subsequences](https://www.hackerrank.com/challenges/xor-subsequence)| Java |  |  | Advanced | 80 | ||
+|   | [Iterate It](https://www.hackerrank.com/challenges/iterate-it)| Java |  |  | Expert | 90 | ||
+|   | [Hamming Distance](https://www.hackerrank.com/challenges/hamming-distance)| Java |  |  | Expert | 150 | ||
+|   | [Mixing proteins](https://www.hackerrank.com/challenges/pmix)| Java |  |  | Hard | 80 | ||
 
 ### Recursion
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
@@ -403,7 +427,7 @@
 ### Game Theory
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1)| Java |  | | Easy | 15 | ||
+|   | [Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1)| [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Game%20Theory/Game%20of%20Stones/Solution.js) | _O(n)_ | _O(1)_ | Easy | 15 | ||
 |   | [Tower Breakers](https://www.hackerrank.com/challenges/tower-breakers-1)| Java |  | | Easy | 15 | ||
 |   | [A Chessboard Game](https://www.hackerrank.com/challenges/a-chessboard-game-1)| Java |  | | Easy | 15 | ||
 |   | [Introduction to Nim Game](https://www.hackerrank.com/challenges/nim-game-1)| Java |  | | Easy | 15 | ||
