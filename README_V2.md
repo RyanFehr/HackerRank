@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/03/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/20/2017-brightgreen.svg">
 </p>
 
 
@@ -378,6 +378,13 @@
 ### Dynamic Programming
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|   | [Equal](https://www.hackerrank.com/challenges/equal)| Java |  | | Medium | 30 | ||
+|   | [Cut Tree](https://www.hackerrank.com/challenges/cuttree)| Java |  | | Medium | 40 | ||
+|   | [Mr K marsh](https://www.hackerrank.com/challenges/mr-k-marsh)| Java |  | | Medium | 40 | ||
+|   | [Sam and sub-strings](https://www.hackerrank.com/challenges/sam-and-substrings)| Java |  | | Medium | 40 | ||
+|   | [Summing Pieces](https://www.hackerrank.com/challenges/summing-pieces)| Java |  | | Medium | 40 | ||
+
+
 
 ### Bit Manipulation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
