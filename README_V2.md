@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/20/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/21/2017-brightgreen.svg">
 </p>
 
 
@@ -383,7 +383,11 @@
 |   | [Mr K marsh](https://www.hackerrank.com/challenges/mr-k-marsh)| Java |  | | Medium | 40 | ||
 |   | [Sam and sub-strings](https://www.hackerrank.com/challenges/sam-and-substrings)| Java |  | | Medium | 40 | ||
 |   | [Summing Pieces](https://www.hackerrank.com/challenges/summing-pieces)| Java |  | | Medium | 40 | ||
-
+|   | [Short Palindrome](https://www.hackerrank.com/challenges/short-palindrome)| Java |  | | Medium | 40 | ||
+|   | [Abbreviation](https://www.hackerrank.com/challenges/abbr)| Java |  | | Medium | 40 | ||
+|   | [Fair Cut](https://www.hackerrank.com/challenges/fair-cut)| Java |  | | Medium | 40 | ||
+|   | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Dynamic%20Programming/Modified%20Fibonacci/Solution.java) |  | | Medium | 45 | ||
+|   | [Lego Blocks](https://www.hackerrank.com/challenges/lego-blocks)| Java |  | | Medium | 50 | ||
 
 
 ### Bit Manipulation
