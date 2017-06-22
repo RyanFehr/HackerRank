@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/21/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/22/2017-brightgreen.svg">
 </p>
 
 
@@ -388,6 +388,11 @@
 |   | [Fair Cut](https://www.hackerrank.com/challenges/fair-cut)| Java |  | | Medium | 40 | ||
 |   | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Dynamic%20Programming/Modified%20Fibonacci/Solution.java) |  | | Medium | 45 | ||
 |   | [Lego Blocks](https://www.hackerrank.com/challenges/lego-blocks)| Java |  | | Medium | 50 | ||
+|   | [Candies](https://www.hackerrank.com/challenges/candies)| Java |  | | Medium | 50 | ||
+|   | [Stock Maximize](https://www.hackerrank.com/challenges/stockmax)| Java |  | | Medium | 50 | ||
+|   | [Angry Childtren 2](https://www.hackerrank.com/challenges/angry-children-2)| Java |  | | Hard | 50 | ||
+|   | [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray)| Java |  | | Medium | 50 | ||
+|   | [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost)| Java |  | | Medium | 50 | ||
 
 
 ### Bit Manipulation
