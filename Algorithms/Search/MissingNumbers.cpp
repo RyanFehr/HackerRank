@@ -1,5 +1,6 @@
 /*
-	Link to the problem : https://www.hackerrank.com/challenges/missing-numbers
+	Problem : https://www.hackerrank.com/challenges/missing-numbers
+	C++ Version#
 	Approach : 
 		We start by inputing the arrays a and b. The idea is to find the minimum
 		element of both the arrays, and use the indexing with this element. We maintain 
@@ -7,12 +8,12 @@
 		fa[i] = frequency of the element i + min(min(a), min(b)).
 		Having done that, we print the numbers that had a smaller frequency in a.
 		
-		Time Complexity : O(n)
-		Space Complexity : O( 2*n + constant space for the frequency arrays) 
-				   ~ O(n) 
+	Time Complexity : O(n)
+	Space Complexity : O( 2*n + constant space for the frequency arrays) 
+		          ~ O(n) 
 	
-		NOTE : The idea of using the indexing with referance to the minimum number is only 
-		to avoid making a very large array for frequencies.
+	NOTE : The idea of using the indexing with referance to the minimum number is only 
+	to avoid making a very large array for frequencies.
 */
 #include <iostream>
 #include <string>
