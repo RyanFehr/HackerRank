@@ -238,11 +238,11 @@
 |   | [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Search/Ice%20Cream%20Parlor/Solution.java) | _O(n)_ | _O(n)_ | Easy | 30 | ||
 |   | [Binary Search: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Search/Binary%20Search%20Ice%20Cream%20Parlor/Solution.java) | _O(n)_ | _O(n)_ | Easy | 35 | ||
 |   | [Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro)| Java |  | | Medium | 25 | ||
-|   | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)| [C++](https://github.com/AayushChaturvedi/HackerRank-1/blob/2aae0d15208333d13968c12f35d5a8b2d18f741c/Algorithms/Search/Missing%20Numbers) | _O(n)_ | _O(n)_ | Easy | 45 | ||
+|   | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)| [C++](https://github.com/AayushChaturvedi/HackerRank-1/blob/d439e55763a3c7ae676f0bb53c8caf60554c6e48/Algorithms/Search/MissingNumbers.cpp) | _O(n)_ | _O(n)_ | Easy | 45 | ||
 |   | [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Search/Minimum%20Loss/Solution.java) | _O(n log(n))_ | _O(n)_ | Medium | 35| ||
 |   | [KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard)| Java |  | | Medium | 35 | ||
-|   | [Pairs](https://www.hackerrank.com/challenges/pairs)| [C++](https://github.com/AayushChaturvedi/HackerRank-1/blob/121e9a3cbdf7a70c411c6366d2ec6a0fc28a712f/Algorithms/Search/Pairs) | _O(n log(n))_ | _O(n)_ | Medium | 50 | ||
-|   | [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array)| [C++](https://github.com/AayushChaturvedi/HackerRank-1/blob/f184952c7d54c4a60f9e25a64d3e184c3e3239df/Algorithms/Search/Sherlock%20and%20Array) | _O(n)_ | _O(n)_ | Easy | 40 | ||
+|   | [Pairs](https://www.hackerrank.com/challenges/pairs)| [C++](https://github.com/AayushChaturvedi/HackerRank-1/blob/2c309f6f23a6ee3e184d09f6fb3f546f1f87c437/Algorithms/Search/Pairs.cpp) | _O(n log(n))_ | _O(n)_ | Medium | 50 | ||
+|   | [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array)| [C++](https://github.com/AayushChaturvedi/HackerRank-1/blob/4fc7a4f5be03cc2262166044c2407ae6bb6c29e1/Algorithms/Search/SherlockandArray.cpp) | _O(n)_ | _O(n)_ | Easy | 40 | ||
 |   | [Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum)| Java |  | | Hard | 65 | ||
 |   | [Connected Cells in a grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid)| Java |  | | Medium | 50 | ||
 |   | [Short Palindrome](https://www.hackerrank.com/challenges/short-palindrome)| Java |  | | Medium | 40 | ||
