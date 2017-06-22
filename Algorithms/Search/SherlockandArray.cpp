@@ -1,5 +1,6 @@
 /*
-    Link to the problem: https://www.hackerrank.com/challenges/sherlock-and-array
+    Problem : https://www.hackerrank.com/challenges/sherlock-and-array
+    C++ Version#
     Approach : 
         This is quite a straight forward problem. All elements of the input array is
         set to the sum of all the elements upto that point of the input array, i.e.
@@ -7,9 +8,9 @@
         Then in an other loop we compare arr[i] and arr[n-1] - arr[i] , which will 
         turn the answer to be YES, otherwise it is NO. 
         
-        Time Complexity : O( n ) for each test case. 
-        Overall Time Complexity : O( t*n ) for entire input file.
-        Space Complextiy : O( n ) for entire input file.
+    Time Complexity : O( n ) for each test case. 
+    Overall Time Complexity : O( t*n ) for entire input file.
+    Space Complextiy : O( n ) for entire input file.
 */
 #include <cmath>
 #include <cstdio>
