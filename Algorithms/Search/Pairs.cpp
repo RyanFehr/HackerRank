@@ -1,10 +1,11 @@
 /*
-    Link to the problem : https://www.hackerrank.com/challenges/pairs/problem
-    
-    We simply need to translate the problem statement into code efficiently, i.e.
-    Given N integers, count the number of pairs of integers whose difference is K.
-    We use binary search for the purpose. A linear search will run in O(n) time which 
-    will not be sufficient to pass all the test cases.
+    Problem : https://www.hackerrank.com/challenges/pairs/problem
+    C++ Version#
+    Approach : 
+        We simply need to translate the problem statement into code efficiently, i.e.
+        Given N integers, count the number of pairs of integers whose difference is K.
+        We use binary search for the purpose. A linear search will run in O(n) time which 
+        will not be sufficient to pass all the test cases.
     
     Time Complexity : O( n*log(n) )
     Space Complexity : O( n )
@@ -30,7 +31,6 @@ bool b_search(int l, int r, long long x){
   return false; 
 }
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
     int n;
     long long k, ans=0;
     cin>>n>>k;
