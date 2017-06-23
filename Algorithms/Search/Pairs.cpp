@@ -1,6 +1,6 @@
 /*
     Problem : https://www.hackerrank.com/challenges/pairs/problem
-    C++ Version#
+    C++ 14
     Approach : 
         We simply need to translate the problem statement into code efficiently, i.e.
         Given N integers, count the number of pairs of integers whose difference is K.
