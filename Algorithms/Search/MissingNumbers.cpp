@@ -1,6 +1,6 @@
 /*
 	Problem : https://www.hackerrank.com/challenges/missing-numbers
-	C++ Version#
+	C++ 14
 	Approach : 
 		We start by inputing the arrays a and b. The idea is to find the minimum
 		element of both the arrays, and use the indexing with this element. We maintain 
