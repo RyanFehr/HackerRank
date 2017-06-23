@@ -1,6 +1,6 @@
 /*
     Problem : https://www.hackerrank.com/challenges/sherlock-and-array
-    C++ Version#
+    C++ 14
     Approach : 
         This is quite a straight forward problem. All elements of the input array is
         set to the sum of all the elements upto that point of the input array, i.e.
