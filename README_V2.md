@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/03/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/24/2017-brightgreen.svg">
 </p>
 
 
@@ -252,7 +252,7 @@
 |   | [Binary Search: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Search/Binary%20Search%20Ice%20Cream%20Parlor/Solution.java) | _O(n)_ | _O(n)_ | Easy | 35 | ||
 |   | [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Search/Minimum%20Loss/Solution.java) | _O(n log(n))_ | _O(n)_ | Medium | 35| ||
 |   | [KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard)| Java |  | | Medium | 35 | ||
-|   | [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array)| Java |  | | Easy | 40 | ||
+|   | [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array)| Java [C++](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Search/SherlockandArray/Solution.cpp) | _O(n)_ | _O(n)_ | Easy | 40 | ||
 |   | [Short Palindrome](https://www.hackerrank.com/challenges/short-palindrome)| Java |  | | Medium | 40 | ||
 |   | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)| Java |  | | Easy | 45 | ||
 |   | [Making Candies](https://www.hackerrank.com/challenges/making-candies)| Java |  | | Hard | 45 | ||
@@ -378,6 +378,22 @@
 ### Dynamic Programming
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|   | [Equal](https://www.hackerrank.com/challenges/equal)| Java |  | | Medium | 30 | ||
+|   | [Cut Tree](https://www.hackerrank.com/challenges/cuttree)| Java |  | | Medium | 40 | ||
+|   | [Mr K marsh](https://www.hackerrank.com/challenges/mr-k-marsh)| Java |  | | Medium | 40 | ||
+|   | [Sam and sub-strings](https://www.hackerrank.com/challenges/sam-and-substrings)| Java |  | | Medium | 40 | ||
+|   | [Summing Pieces](https://www.hackerrank.com/challenges/summing-pieces)| Java |  | | Medium | 40 | ||
+|   | [Short Palindrome](https://www.hackerrank.com/challenges/short-palindrome)| Java |  | | Medium | 40 | ||
+|   | [Abbreviation](https://www.hackerrank.com/challenges/abbr)| Java |  | | Medium | 40 | ||
+|   | [Fair Cut](https://www.hackerrank.com/challenges/fair-cut)| Java |  | | Medium | 40 | ||
+|   | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Dynamic%20Programming/Modified%20Fibonacci/Solution.java) |  | | Medium | 45 | ||
+|   | [Lego Blocks](https://www.hackerrank.com/challenges/lego-blocks)| Java |  | | Medium | 50 | ||
+|   | [Candies](https://www.hackerrank.com/challenges/candies)| Java |  | | Medium | 50 | ||
+|   | [Stock Maximize](https://www.hackerrank.com/challenges/stockmax)| Java |  | | Medium | 50 | ||
+|   | [Angry Childtren 2](https://www.hackerrank.com/challenges/angry-children-2)| Java |  | | Hard | 50 | ||
+|   | [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray)| Java |  | | Medium | 50 | ||
+|   | [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost)| Java |  | | Medium | 50 | ||
+
 
 ### Bit Manipulation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
