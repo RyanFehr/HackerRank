@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/24/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/25/2017-brightgreen.svg">
 </p>
 
 
@@ -241,7 +241,7 @@
 |   | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)| Java [C++](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Search/Missing%20Numbers/Solution.java) |  | | Easy | 45 | ||
 |   | [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Search/Minimum%20Loss/Solution.java) | _O(n log(n))_ | _O(n)_ | Medium | 35| ||
 |   | [KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard)| Java |  | | Medium | 35 | ||
-|   | [Pairs](https://www.hackerrank.com/challenges/pairs)| Java |  | | Medium | 50 | ||
+|   | [Pairs](https://www.hackerrank.com/challenges/pairs)| Java [C++](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Search/Pairs/Solution.java) | _O(n log(n))_ | _O(n)_ | Medium | 50 | ||
 |   | [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array)| Java [C++](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Search/SherlockandArray/Solution.cpp) |  | | Easy | 40 | ||
 |   | [Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum)| Java |  | | Hard | 65 | ||
 |   | [Connected Cells in a grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid)| Java |  | | Medium | 50 | ||
