@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/24/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/26/2017-brightgreen.svg">
 </p>
 
 
@@ -393,7 +393,11 @@
 |   | [Angry Childtren 2](https://www.hackerrank.com/challenges/angry-children-2)| Java |  | | Hard | 50 | ||
 |   | [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray)| Java |  | | Medium | 50 | ||
 |   | [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost)| Java |  | | Medium | 50 | ||
-
+|   | [Xor and Sum](https://www.hackerrank.com/challenges/xor-and-sum)| Java |  | | Medium | 50 | ||
+|   | [Counting Special Sub-Cubes](https://www.hackerrank.com/challenges/counting-special-sub-cubes)| Java |  | | Medium | 50 | ||
+|   | [Two Robots](https://www.hackerrank.com/challenges/two-robots)| Java |  | | Medium | 50 | ||
+|   | [Kingdom Division](https://www.hackerrank.com/challenges/kingdom-division)| Java |  | | Medium | 50 | ||
+|   | [Prime XOR](https://www.hackerrank.com/challenges/prime-xor)| Java |  | | Medium | 50 | ||
 
 ### Bit Manipulation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
