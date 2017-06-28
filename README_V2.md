@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/26/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/28/2017-brightgreen.svg">
 </p>
 
 
@@ -398,6 +398,12 @@
 |   | [Two Robots](https://www.hackerrank.com/challenges/two-robots)| Java |  | | Medium | 50 | ||
 |   | [Kingdom Division](https://www.hackerrank.com/challenges/kingdom-division)| Java |  | | Medium | 50 | ||
 |   | [Prime XOR](https://www.hackerrank.com/challenges/prime-xor)| Java |  | | Medium | 50 | ||
+|   | [HackerRank City](https://www.hackerrank.com/challenges/hr-city)| Java |  | | Medium | 50 | ||
+|   | [Nikita and the Game](https://www.hackerrank.com/challenges/array-splitting)| Java |  | | Medium | 50 | ||
+|   | [Prime Digit Sums](https://www.hackerrank.com/challenges/prime-digit-sums)| Java |  | | Medium | 50 | ||
+|   | [Mandragora Forest](https://www.hackerrank.com/challenges/mandragora)| Java |  | | Medium | 50 | ||
+|   | [LCS Returns](https://www.hackerrank.com/challenges/tutzki-and-lcs)| Java |  | | Medium | 50 | ||
+
 
 ### Bit Manipulation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
