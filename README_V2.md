@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/28/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/29/2017-brightgreen.svg">
 </p>
 
 
@@ -403,7 +403,11 @@
 |   | [Prime Digit Sums](https://www.hackerrank.com/challenges/prime-digit-sums)| Java |  | | Medium | 50 | ||
 |   | [Mandragora Forest](https://www.hackerrank.com/challenges/mandragora)| Java |  | | Medium | 50 | ||
 |   | [LCS Returns](https://www.hackerrank.com/challenges/tutzki-and-lcs)| Java |  | | Medium | 50 | ||
-
+|   | [Grid Walking](https://www.hackerrank.com/challenges/grid-walking)| Java |  | | Medium | 55 | ||
+|   | [Bricks Game](https://www.hackerrank.com/challenges/play-game)| Java |  | | Medium | 55 | ||
+|   | [The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence)| Java |  | | Medium | 55 | ||
+|   | [Substring Diff](https://www.hackerrank.com/challenges/substring-diff)| Java |  | | Medium | 60 | ||
+|   | [Brick Tiling](https://www.hackerrank.com/challenges/brick-tiling)| Java |  | | Hard | 60 | ||
 
 ### Bit Manipulation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
