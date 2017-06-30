@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/29/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-06/30/2017-brightgreen.svg">
 </p>
 
 
@@ -408,6 +408,11 @@
 |   | [The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence)| Java |  | | Medium | 55 | ||
 |   | [Substring Diff](https://www.hackerrank.com/challenges/substring-diff)| Java |  | | Medium | 60 | ||
 |   | [Brick Tiling](https://www.hackerrank.com/challenges/brick-tiling)| Java |  | | Hard | 60 | ||
+|   | [Alien Languages](https://www.hackerrank.com/challenges/alien-languages)| Java |  | | Hard | 60 | ||
+|   | [The Longest Increasing Subsequence](https://www.hackerrank.com/challenges/longest-increasing-subsequent)| Java |  | | Advanced | 60 | ||
+|   | [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change)| Java |  | | Hard | 60 | ||
+|   | [Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack)| Java |  | | Medium | 60 | ||
+|   | [Sherlock's Array Merging Algorithm](https://www.hackerrank.com/challenges/sherlocks-array-merging-algorithm)| Java |  | | Hard | 60 | ||
 
 ### Bit Manipulation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
