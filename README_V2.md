@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/30/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-07/1/2017-brightgreen.svg">
 </p>
 
 
@@ -413,6 +413,11 @@
 |   | [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change)| Java |  | | Hard | 60 | ||
 |   | [Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack)| Java |  | | Medium | 60 | ||
 |   | [Sherlock's Array Merging Algorithm](https://www.hackerrank.com/challenges/sherlocks-array-merging-algorithm)| Java |  | | Hard | 60 | ||
+|   | [New Year Game](https://www.hackerrank.com/challenges/newyear-game)| Java |  | | Medium | 60 | ||
+|   | [Shashank and the Palindromic Strings](https://www.hackerrank.com/challenges/shashank-and-palindromic-strings)| Java |  | | Advanced | 60 | ||
+|   | [Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers)| Java |  | | Hard | 60 | ||
+|   | [Choosing White Balls](https://www.hackerrank.com/challenges/choosing-white-balls)| Java |  | | Hard | 60 | ||
+|   | [DP: Coin Change](https://www.hackerrank.com/challenges/ctci-coin-change)| Java |  | | Hard | 60 | ||
 
 ### Bit Manipulation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
