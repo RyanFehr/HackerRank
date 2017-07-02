@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-07/1/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-07/2/2017-brightgreen.svg">
 </p>
 
 
@@ -418,6 +418,11 @@
 |   | [Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers)| Java |  | | Hard | 60 | ||
 |   | [Choosing White Balls](https://www.hackerrank.com/challenges/choosing-white-balls)| Java |  | | Hard | 60 | ||
 |   | [DP: Coin Change](https://www.hackerrank.com/challenges/ctci-coin-change)| Java |  | | Hard | 60 | ||
+|   | [Clues on a Binary Path](https://www.hackerrank.com/challenges/clues-on-a-binary-path)| Java |  | | Hard | 60 | ||
+|   | [GCD Matrix](https://www.hackerrank.com/challenges/gcd-matrix)| Java |  | | Hard | 60 | ||
+|   | [Coin on the Table](https://www.hackerrank.com/challenges/coin-on-the-table)| Java |  | | Medium | 65 | ||
+|   | [Interval Selection](https://www.hackerrank.com/challenges/interval-selection)| Java |  | | Medium | 65 | ||
+|   | [Red John is Back](https://www.hackerrank.com/challenges/red-john-is-back)| Java |  | | Medium | 65 | ||
 
 ### Bit Manipulation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
