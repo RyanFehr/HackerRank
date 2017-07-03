@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-07/2/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-07/3/2017-brightgreen.svg">
 </p>
 
 
@@ -423,6 +423,11 @@
 |   | [Coin on the Table](https://www.hackerrank.com/challenges/coin-on-the-table)| Java |  | | Medium | 65 | ||
 |   | [Interval Selection](https://www.hackerrank.com/challenges/interval-selection)| Java |  | | Medium | 65 | ||
 |   | [Red John is Back](https://www.hackerrank.com/challenges/red-john-is-back)| Java |  | | Medium | 65 | ||
+|   | [Play with words](https://www.hackerrank.com/challenges/strplay)| Java |  | | Medium | 65 | ||
+|   | [Queens on Board](https://www.hackerrank.com/challenges/queens-on-board)| Java |  | | Hard | 70 | ||
+|   | [String Reduction](https://www.hackerrank.com/challenges/string-reduction)| Java |  | | Hard | 70 | ||
+|   | [Far Vertices](https://www.hackerrank.com/challenges/far-vertices)| Java |  | | Hard | 70 | ||
+|   | [The Indian Job](https://www.hackerrank.com/challenges/the-indian-job)| Java |  | | Medium | 70 | ||
 
 ### Bit Manipulation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
