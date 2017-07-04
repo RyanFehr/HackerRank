@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-07/3/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-07/04/2017-brightgreen.svg">
 </p>
 
 
@@ -428,6 +428,11 @@
 |   | [String Reduction](https://www.hackerrank.com/challenges/string-reduction)| Java |  | | Hard | 70 | ||
 |   | [Far Vertices](https://www.hackerrank.com/challenges/far-vertices)| Java |  | | Hard | 70 | ||
 |   | [The Indian Job](https://www.hackerrank.com/challenges/the-indian-job)| Java |  | | Medium | 70 | ||
+|   | [Hexagonal Grid](https://www.hackerrank.com/challenges/hexagonal-grid)| Java |  | | Hard | 70 | ||
+|   | [Longest Palindromic Subsequence](https://www.hackerrank.com/challenges/longest-palindromic-subsequence)| Java |  | | Hard | 70 | ||
+|   | [Turn Off the Lights](https://www.hackerrank.com/challenges/turn-off-the-lights)| Java |  | | Hard | 70 | ||
+|   | [Tara's Beautiful Permutations](https://www.hackerrank.com/challenges/taras-beautiful-permutations)| Java |  | | Hard | 70 | ||
+|   | [Two Subarrays](https://www.hackerrank.com/challenges/two-subarrays)| Java |  | | Expert | 70 | ||
 
 ### Bit Manipulation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
