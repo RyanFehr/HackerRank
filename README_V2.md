@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-07/04/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-07/05/2017-brightgreen.svg">
 </p>
 
 
@@ -433,6 +433,11 @@
 |   | [Turn Off the Lights](https://www.hackerrank.com/challenges/turn-off-the-lights)| Java |  | | Hard | 70 | ||
 |   | [Tara's Beautiful Permutations](https://www.hackerrank.com/challenges/taras-beautiful-permutations)| Java |  | | Hard | 70 | ||
 |   | [Two Subarrays](https://www.hackerrank.com/challenges/two-subarrays)| Java |  | | Expert | 70 | ||
+|   | [Mining](https://www.hackerrank.com/challenges/mining)| Java |  | | Advanced | 75 | ||
+|   | [The Longest Common Subsequence (LCS)](https://www.hackerrank.com/challenges/linkedin-practice-dynamic-programming-lcs)| Java |  | | Hard | 75 | ||
+|   | [Points in a Plane](https://www.hackerrank.com/challenges/points-in-a-plane)| Java |  | | Advanced | 80 | ||
+|   | [Fairy Chess](https://www.hackerrank.com/challenges/fairy-chess)| Java |  | | Advanced | 80 | ||
+|   | [Billboards](https://www.hackerrank.com/challenges/billboards)| Java |  | | Advanced | 80 | ||
 
 ### Bit Manipulation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
