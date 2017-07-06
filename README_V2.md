@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-07/05/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-07/06/2017-brightgreen.svg">
 </p>
 
 
@@ -438,6 +438,12 @@
 |   | [Points in a Plane](https://www.hackerrank.com/challenges/points-in-a-plane)| Java |  | | Advanced | 80 | ||
 |   | [Fairy Chess](https://www.hackerrank.com/challenges/fairy-chess)| Java |  | | Advanced | 80 | ||
 |   | [Billboards](https://www.hackerrank.com/challenges/billboards)| Java |  | | Advanced | 80 | ||
+|   | [Requirement](https://www.hackerrank.com/challenges/requirement)| Java |  | | Advanced | 80 | ||
+|   | [A Super Hero](https://www.hackerrank.com/challenges/a-super-hero)| Java |  | | Hard | 80 | ||
+|   | [Covering the stains](https://www.hackerrank.com/challenges/covering-the-stains)| Java |  | | Hard | 80 | ||
+|   | [Superman Celebrates Diwali](https://www.hackerrank.com/challenges/superman-celebrates-diwali)| Java |  | | Hard | 80 | ||
+|   | [Wet Shark and Two Subsequences](https://www.hackerrank.com/challenges/wet-shark-and-two-subsequences)| Java |  | | Medium | 80 | ||
+
 
 ### Bit Manipulation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
