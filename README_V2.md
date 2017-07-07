@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-07/06/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-07/07/2017-brightgreen.svg">
 </p>
 
 
@@ -443,7 +443,11 @@
 |   | [Covering the stains](https://www.hackerrank.com/challenges/covering-the-stains)| Java |  | | Hard | 80 | ||
 |   | [Superman Celebrates Diwali](https://www.hackerrank.com/challenges/superman-celebrates-diwali)| Java |  | | Hard | 80 | ||
 |   | [Wet Shark and Two Subsequences](https://www.hackerrank.com/challenges/wet-shark-and-two-subsequences)| Java |  | | Medium | 80 | ||
-
+|   | [Zurikela's Graph](https://www.hackerrank.com/challenges/zurikela)| Java |  | | Hard | 80 | ||
+|   | [New Year Present](https://www.hackerrank.com/challenges/newyear-present )| Java |  | | Hard | 80 | ||
+|   | [Suffix Rotation](https://www.hackerrank.com/challenges/suffix-rotation)| Java |  | | Expert | 80 | ||
+|   | [Black and White Tree](https://www.hackerrank.com/challenges/black-n-white-tree-1)| Java |  | | Hard | 80 | ||
+|   | [Beautiful Strings](https://www.hackerrank.com/challenges/beautiful-string)| Java |  | | Hard | 80 | ||
 
 ### Bit Manipulation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
