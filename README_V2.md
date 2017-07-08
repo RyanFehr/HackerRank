@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-07/07/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-07/08/2017-brightgreen.svg">
 </p>
 
 
@@ -448,6 +448,12 @@
 |   | [Suffix Rotation](https://www.hackerrank.com/challenges/suffix-rotation)| Java |  | | Expert | 80 | ||
 |   | [Black and White Tree](https://www.hackerrank.com/challenges/black-n-white-tree-1)| Java |  | | Hard | 80 | ||
 |   | [Beautiful Strings](https://www.hackerrank.com/challenges/beautiful-string)| Java |  | | Hard | 80 | ||
+|   | [Longest Mod Path](https://www.hackerrank.com/challenges/longest-mod-path)| Java |  | | Hard | 80 | ||
+|   | [Super Functional Strings](https://www.hackerrank.com/challenges/super-functional-strings)| Java |  | | Advanced | 80 | ||
+|   | [Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree)| Java |  | | Advanced | 80 | ||
+|   | [Liars](https://www.hackerrank.com/challenges/liars)| Java |  | | Advanced | 85 | ||
+|   | [Dorsey Thief](https://www.hackerrank.com/challenges/dorsey-thief)| Java |  | | Advanced | 85 | ||
+
 
 ### Bit Manipulation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
