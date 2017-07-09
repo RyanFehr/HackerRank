@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-07/08/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-07/09/2017-brightgreen.svg">
 </p>
 
 
@@ -453,7 +453,11 @@
 |   | [Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree)| Java |  | | Advanced | 80 | ||
 |   | [Liars](https://www.hackerrank.com/challenges/liars)| Java |  | | Advanced | 85 | ||
 |   | [Dorsey Thief](https://www.hackerrank.com/challenges/dorsey-thief)| Java |  | | Advanced | 85 | ||
-
+|   | [Swap Permutation](https://www.hackerrank.com/challenges/swappermutation)| Java |  | | Medium | 85 | ||
+|   | [Candles Counting](https://www.hackerrank.com/challenges/candles-2)| Java |  | | Medium | 85 | ||
+|   | [Square Subsequences](https://www.hackerrank.com/challenges/square-subsequences)| Java |  | | Hard | 90 | ||
+|   | [Hyper Strings](https://www.hackerrank.com/challenges/hyper-strings)| Java |  | | Advanced | 90 | ||
+|   | [Unique Divide And Conquer](https://www.hackerrank.com/challenges/unique-divide-and-conquer)| Java |  | | Advanced | 90 | ||
 
 ### Bit Manipulation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
