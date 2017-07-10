@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-07/09/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-07/10/2017-brightgreen.svg">
 </p>
 
 
@@ -458,6 +458,12 @@
 |   | [Square Subsequences](https://www.hackerrank.com/challenges/square-subsequences)| Java |  | | Hard | 90 | ||
 |   | [Hyper Strings](https://www.hackerrank.com/challenges/hyper-strings)| Java |  | | Advanced | 90 | ||
 |   | [Unique Divide And Conquer](https://www.hackerrank.com/challenges/unique-divide-and-conquer)| Java |  | | Advanced | 90 | ||
+|   | [Super Kth LIS](https://www.hackerrank.com/challenges/super-kth-lis)| Java |  | | Advanced | 90 | ||
+|   | [Counting Road Networks](https://www.hackerrank.com/challenges/counting-road-networks)| Java |  | | Expert | 90 | ||
+|   | [Lucky Numbers](https://www.hackerrank.com/challenges/lucky-numbers)| Java |  | | Expert | 100 | ||
+|   | [Count Scorecards](https://www.hackerrank.com/challenges/count-scorecards)| Java |  | | Expert | 100 | ||
+|   | [Unfair Game](https://www.hackerrank.com/challenges/unfair-game)| Java |  | | Advanced | 100 | ||
+
 
 ### Bit Manipulation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
