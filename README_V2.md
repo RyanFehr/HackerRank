@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-07/10/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-07/11/2017-brightgreen.svg">
 </p>
 
 
@@ -463,6 +463,11 @@
 |   | [Lucky Numbers](https://www.hackerrank.com/challenges/lucky-numbers)| Java |  | | Expert | 100 | ||
 |   | [Count Scorecards](https://www.hackerrank.com/challenges/count-scorecards)| Java |  | | Expert | 100 | ||
 |   | [Unfair Game](https://www.hackerrank.com/challenges/unfair-game)| Java |  | | Advanced | 100 | ||
+|   | [Oil Well](https://www.hackerrank.com/challenges/oil-well)| Java |  | | Hard | 100 | ||
+|   | [Modify The Sequence](https://www.hackerrank.com/challenges/modify-the-sequence)| Java |  | | Advanced | 100 | ||
+|   | [Divisible Numbers](https://www.hackerrank.com/challenges/divisible-numbers)| Java |  | | Expert | 100 | ||
+|   | [Ones and Twos](https://www.hackerrank.com/challenges/ones-and-twos)| Java |  | | Hard | 100 | ||
+|   | [Extremum Permutations](https://www.hackerrank.com/challenges/extremum-permutations)| Java |  | | Medium | 100 | ||
 
 
 ### Bit Manipulation
