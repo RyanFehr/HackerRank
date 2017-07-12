@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-07/11/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-07/12/2017-brightgreen.svg">
 </p>
 
 
@@ -468,7 +468,11 @@
 |   | [Divisible Numbers](https://www.hackerrank.com/challenges/divisible-numbers)| Java |  | | Expert | 100 | ||
 |   | [Ones and Twos](https://www.hackerrank.com/challenges/ones-and-twos)| Java |  | | Hard | 100 | ||
 |   | [Extremum Permutations](https://www.hackerrank.com/challenges/extremum-permutations)| Java |  | | Medium | 100 | ||
-
+|   | [Tree Pruning](https://www.hackerrank.com/challenges/tree-pruning)| Java |  | | Advanced | 100 | ||
+|   | [P-sequences](https://www.hackerrank.com/challenges/p-sequences)| Java |  | | Hard | 100 | ||
+|   | [Best spot](https://www.hackerrank.com/challenges/best-spot)| Java |  | | Advanced | 100 | ||
+|   | [Find the Seed](https://www.hackerrank.com/challenges/find-the-seed)| Java |  | | Advanced | 100 | ||
+|   | [The Blacklist](https://www.hackerrank.com/challenges/the-blacklist)| Java |  | | Advanced | 100 | ||
 
 ### Bit Manipulation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
