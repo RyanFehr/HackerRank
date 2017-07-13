@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-07/12/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-07/13/2017-brightgreen.svg">
 </p>
 
 
@@ -311,7 +311,7 @@
 |   | [Algorithmic Crush](https://www.hackerrank.com/challenges/crush)| Java |  | | Hard | 60| ||
 |   | [Prim's (MST): Special Subtree](https://www.hackerrank.com/challenges/primsmstsub)| Java |  | | Medium | 60| ||
 |   | [Accessory Collection](https://www.hackerrank.com/challenges/accessory-collection)| Java |  | | Hard | 60| ||
-|  |[Chief Hopper](https://www.hackerrank.com/challenges/rust-murderer)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Chief%20Hopper/Solution.java)| _O(n)_ | _O(n)_| Hard | 65 | ||
+|  |[Chief Hopper](https://www.hackerrank.com/challenges/chief-hopper)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Chief%20Hopper/Solution.java)| _O(n)_ | _O(n)_| Hard | 65 | ||
 |   | [Sherlock and MiniMax](https://www.hackerrank.com/challenges/sherlock-and-minimax)| Java |  | | Hard | 70| ||
 |   | [Team Formation](https://www.hackerrank.com/challenges/team-formation)| Java |  | | Advanced | 70| ||
 
