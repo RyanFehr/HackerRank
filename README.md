@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-06/25/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-07/14/2017-brightgreen.svg">
 </p>
 
 
@@ -329,7 +329,7 @@
 ### Greedy
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|  |[Chief Hopper](https://www.hackerrank.com/challenges/rust-murderer)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Chief%20Hopper/Solution.java)| _O(n)_ | _O(n)_| Hard | 65 | ||
+|  |[Chief Hopper](https://www.hackerrank.com/challenges/chief-hopper)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Chief%20Hopper/Solution.java)| _O(n)_ | _O(n)_| Hard | 65 | ||
 |  |[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Mark%20and%20Toys/Solution.java) [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Mark%20and%20Toys/Solution.js)| _O(n log(n))_ | _O(n)_| Easy | 35 | ||
 |  |[Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Grid%20Challenge/Solution.java)| _O(n*(n log (n)))_ | _O(n^2)_| Easy | 20 | ||
 |  |[Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Greedy/Maximum%20Perimeter%20Triangle/Solution.java)| _O(n log (n))_ | _O(n)_| Easy | 20 | ||
