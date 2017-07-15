@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-07/13/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-07/15/2017-brightgreen.svg">
 </p>
 
 
@@ -473,6 +473,11 @@
 |   | [Best spot](https://www.hackerrank.com/challenges/best-spot)| Java |  | | Advanced | 100 | ||
 |   | [Find the Seed](https://www.hackerrank.com/challenges/find-the-seed)| Java |  | | Advanced | 100 | ||
 |   | [The Blacklist](https://www.hackerrank.com/challenges/the-blacklist)| Java |  | | Advanced | 100 | ||
+|   | [Police Operation](https://www.hackerrank.com/challenges/police-operation)| Java |  | | Hard | 100 | ||
+|   | [Road Maintenance](https://www.hackerrank.com/challenges/road-maintenance)| Java |  | | Hard | 100 | ||
+|   | [King and Four Sons](https://www.hackerrank.com/challenges/happy-king)| Java |  | | Expert | 100 | ||
+|   | [Counting the Ways](https://www.hackerrank.com/challenges/count-ways-1)| Java |  | | Expert | 100 | ||
+|   | [Hard Disk Drives](https://www.hackerrank.com/challenges/hard-drive-disks)| Java |  | | Expert | 100 | ||
 
 ### Bit Manipulation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
