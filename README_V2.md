@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-07/15/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-07/16/2017-brightgreen.svg">
 </p>
 
 
@@ -478,6 +478,11 @@
 |   | [King and Four Sons](https://www.hackerrank.com/challenges/happy-king)| Java |  | | Expert | 100 | ||
 |   | [Counting the Ways](https://www.hackerrank.com/challenges/count-ways-1)| Java |  | | Expert | 100 | ||
 |   | [Hard Disk Drives](https://www.hackerrank.com/challenges/hard-drive-disks)| Java |  | | Expert | 100 | ||
+|   | [Travel around the world](https://www.hackerrank.com/challenges/travel-around-the-world)| Java |  | | Medium | 120 | ||
+|   | [Robot](https://www.hackerrank.com/challenges/robot)| Java |  | | Advanced | 120 | ||
+|   | [Vim War](https://www.hackerrank.com/challenges/vim-war)| Java |  | | Advanced | 120 | ||
+|   | [Dortmund Dilemma](https://www.hackerrank.com/challenges/dortmund-dilemma)| Java |  | | Advanced | 150 | ||
+|   | [Separate the chocolate](https://www.hackerrank.com/challenges/separate-the-chocolate)| Java |  | | Expert | 250 | ||
 
 ### Bit Manipulation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
