@@ -1,75 +1,62 @@
+/*
+    Problem: https://www.hackerrank.com/challenges/counting-valleys
+    C# language Version: 6.0
+    .Net Framework Version: 4.5.2
+    Thoughts: 
+    1. Set a counter seaLevel to 0.
+    2. Set a boolean isValleyActive to false.
+    3. Set a counter valleyCount to 0.
+    4. After every step:
+        2.1 increment the seaLevel by 1 if it is uphill step and decrement it by 1 if it is a downhill step.
+        2.2 If there is no valley currently active(i.e. isValleyActive was false untill this step) and if seaLevel 
+        has become negative after current step means we have started traversing a valley then set the boolean 
+        isValleyActive to true.
+        2.3 If we were already traversing a valley(i.e. isValleyActive was true untill this step) and if seaLevel 
+        has become zero after current step means we have just finishing traversing a valley then set the boolean 
+        isValleyActive to false and increment valleyCount by 1.
+    5. Keep repeating step 4 untill all steps are iterated.
+    6. Print valleyCount
+
+    Time Complexity:  O(n)
+    Space Complexity: O(1)
+*/
+
 using System;
-
-namespace dataStructureInCSharp
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+class Solution 
 {
-    class Solution
+    static void Main(String[] args) 
     {
-        static void Main(string[] args)
+        var seaLevel = 0;
+        var valleyCount = 0;
+        var totalNumberOfSteps = int.Parse(Console.ReadLine());
+        var garyStepRecord = Console.ReadLine().ToArray();
+        var isValleyActive = false;
+
+        for (int i = 0; i < totalNumberOfSteps; i++)
         {
-            DrawingBook();
-            Console.ReadLine();
-        }
-
-        static int solve(int totalPagesInBook, int targetPageNumber)
-        {
-            var minimumPagesToTurn = 0;
-
-            if (targetPageNumber == 1 || targetPageNumber == totalPagesInBook)
-                return minimumPagesToTurn;
-
-            if (totalPagesInBook % 2 != 0 && targetPageNumber == totalPagesInBook - 1)
-                return minimumPagesToTurn;
-
-
-            if (totalPagesInBook % 2 == 0)
-            {//total number of pages are even
-
-                if (targetPageNumber <= totalPagesInBook / 2)
-                {
-                    //start from front
-                    minimumPagesToTurn = targetPageNumber / 2;
-                }
-                else
-                {
-                    //start from end
-                    double d = ((double)(totalPagesInBook - targetPageNumber)) / 2;
-                    minimumPagesToTurn = (int)Math.Ceiling(d);
-                }
+            if (garyStepRecord[i] == 'U')
+            {
+                seaLevel++;
             }
             else
-            {//total number of pages are odd
-
-
-                //special handling for exactly middle number when total number of pages are like 3,7,11,15...and so on
-                if (targetPageNumber == (totalPagesInBook/2) + 1 && totalPagesInBook % 4 == 3)
-                {
-                    //this requires special handling as this median will be close to the end instead
-                    minimumPagesToTurn = (totalPagesInBook - targetPageNumber) / 2;
-                }
-                else
-                {
-                    if (targetPageNumber <= ((totalPagesInBook / 2) + 1))
-                    {
-                        //start from front
-                        minimumPagesToTurn = targetPageNumber / 2;
-                    }
-                    else
-                    {
-                        //start from end
-                        minimumPagesToTurn = (totalPagesInBook - targetPageNumber) / 2;
-                    }
-                }
-
+            {
+                seaLevel--;
             }
-            return minimumPagesToTurn;
-        }
 
-        private static void DrawingBook()
-        {
-            var n = Convert.ToInt32(Console.ReadLine());
-            var p = Convert.ToInt32(Console.ReadLine());
-            var result = solve(n, p);
-            Console.WriteLine(result);
+            if (!isValleyActive && seaLevel < 0)
+            {
+                isValleyActive = true;
+            }
+
+            if (isValleyActive && seaLevel == 0)
+            {
+                valleyCount++;
+                isValleyActive = false;
+            }
         }
+        Console.WriteLine(valleyCount);
     }
 }
