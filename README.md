@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-07/17/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-07/26/2017-brightgreen.svg">
 </p>
 
 
@@ -96,7 +96,7 @@
 |   | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Day%20Of%20The%20Programmer/Solution.java) | _O(1)_ | _O(1)_ | Easy| 15| ||
 |   | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Bon%20Appetit/Solution.java) | _O(n)_ | _O(n)_ | Easy| 10| ||
 |   | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Sock%20Merchant/Solution.java) | _O(n)_ | _O(n)_ | Easy| 10| ||
-|   | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Drawing%20Book/Solution.java) | _O(1)_ | _O(1)_ | Easy| 10| ||
+|   | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Drawing%20Book/Solution.java) [C#](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Drawing%20Book/Solution.cs) | _O(1)_ | _O(1)_ | Easy| 10| ||
 |   | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Counting%20Valleys/Solution.java) [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Counting%20Valleys/Solution.js) | _O(n)_ | _O(1)_ | Easy| 15| ||
 |   | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Cats%20and%20a%20Mouse/Solution.java) | _O(1)_ | _O(1)_ | Easy| 15| ||
 |   | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Electronics%20Shop/Solution.java) [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Electronics%20Shop/Solution.js) | _O(n log (n))_ | _O(1)_ | Easy| 15| n = m+n||	
