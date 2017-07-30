@@ -1,36 +1,34 @@
+/*
+    Problem: https://www.hackerrank.com/challenges/electronics-shop
+    Language: C# 
+    Thoughts:
+        1. Let Monica has total money MTotal.
+        2. Let maximum money spendable on electronics be MaxMoneySpendable. Initialize it to -1.
+        3. Consider ArrayKeyboardPrices and ArrayDrivePrices.
+        4. Sort ArrayKeyboardPrices in descending order.
+        5. Sort ArrayDrivePrices in ascending order.
+        6. Start iterating the elements in the sorted ArrayKeyboardPrices. Let the keyboard price being iterated is kbCurrent.
+        7. For kbCurrent start iterating the elements of sorted ArrayDrivePrices.
+            - let the drive price being iterated is driveCurrent.
+            - if sum of driveCurrent and kbCurrent is greater than MTotal then stop iterating sorted ArrayDrivePrices
+            - if sum of driveCurrent and kbCurrent is less than or equal to MTotal 
+                then set MaxMoneySpendable to  sum of driveCurrent and kbCurrent
+                and move to next element in sorted ArrayDrivePrices
+        8. Repeat step 7 for all elements of sorted ArrayKeyboardPrices
+        9. Print MaxMoneySpendable.
+
+        Time Complexity:  
+        Worst case : O(n^2)
+        Best case : O(nlog n)
+        Space Complexity: O(1)        
+*/
+
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+
 class Solution {
-
-    
-    /*
-         Problem: https://www.hackerrank.com/challenges/electronics-shop
-         C# Language Version: 6.0
-         .Net Framework Version: 4.5.2
-         Thoughts:
-         1. Let Monica has total money MTotal.
-         2. Let maximum money spendable on electronics be MaxMoneySpendable. Initialize it to -1.
-         3. Consider ArrayKeyboardPrices and ArrayDrivePrices.
-         4. Sort ArrayKeyboardPrices in descending order.
-         5. Sort ArrayDrivePrices in ascending order.
-         6. Start iterating the elements in the sorted ArrayKeyboardPrices. Let the keyboard price being iterated is kbCurrent.
-         7. For kbCurrent start iterating the elements of sorted ArrayDrivePrices.
-              - let the drive price being iterated is driveCurrent.
-              - if sum of driveCurrent and kbCurrent is greater than MTotal then stop iterating sorted ArrayDrivePrices
-              - if sum of driveCurrent and kbCurrent is less than or equal to MTotal 
-                    then set MaxMoneySpendable to  sum of driveCurrent and kbCurrent
-                    and move to next element in sorted ArrayDrivePrices
-         8. Repeat step 7 for all elements of sorted ArrayKeyboardPrices
-         9. Print MaxMoneySpendable.
-
-         Time Complexity:  
-         Worst case : O(n^2)
-         Best case : O(nlog n)
-         Space Complexity: O(1)
-                
-             */
         static int getMoneySpent(int[] keyboards, int[] drives, int totalMoneyAvailable)
         {
             var sortedKeyboardPrices = from keyboard in keyboards
