@@ -1,62 +1,101 @@
 /*
-    Problem: https://www.hackerrank.com/challenges/counting-valleys
-    C# language Version: 6.0
-    .Net Framework Version: 4.5.2
-    Thoughts: 
-    1. Set a counter seaLevel to 0.
-    2. Set a boolean isValleyActive to false.
-    3. Set a counter valleyCount to 0.
-    4. After every step:
-        2.1 increment the seaLevel by 1 if it is uphill step and decrement it by 1 if it is a downhill step.
-        2.2 If there is no valley currently active(i.e. isValleyActive was false untill this step) and if seaLevel 
-        has become negative after current step means we have started traversing a valley then set the boolean 
-        isValleyActive to true.
-        2.3 If we were already traversing a valley(i.e. isValleyActive was true untill this step) and if seaLevel 
-        has become zero after current step means we have just finishing traversing a valley then set the boolean 
-        isValleyActive to false and increment valleyCount by 1.
-    5. Keep repeating step 4 untill all steps are iterated.
-    6. Print valleyCount
+         Problem: https://www.hackerrank.com/challenges/drawing-book/problem
+         C# Language Version: 6.0
+         .Net Framework Version: 4.5.2
+         Thoughts :
+         1. Let total number of pages in the book be totalPagesInBook and the page number we want to open is targetPageNumber.
+         2. Let the minimum number of pages which are to be turned to reach targetPageNumber is minimumPagesToTurn.
+         3. Set minimumPagesToTurn to 0
+         4. There are three cases in which user will not have to turn even a single page
+            - if targetPageNumber is 1
+            - if targetPageNumber is equal to totalPagesInBook
+            - in case when totalPagesInBook is an odd number and targetPageNumber is totalPagesInBook-1
+            If above conditions are met then stop the algorithm execution and print minimumPagesToTurn.
+         5. If condition in step number 4 is not met then proceed further.
+         6. if totalPagesInBook is an even number then
+            - if targetPageNumber is less than or equal to half of totalPagesInBook then starting from front will be beneficial.
+              Set minimumPagesToTurn to half of targetPageNumber.
+            - otherwise starting from end will be beneficial.
+              Set minimumPagesToTurn to half of difference between totalPagesInBook and targetPageNumber. If the operation
+              results in a decimal value then round it off to its nearest higher integer.
+         7. if totalPagesInBook is an odd number then
+            - If targetPageNumber is the exact median of totalPagesInBook and totalPagesInBook in book
+                is exacly one less than the nearest multiple of 4 then starting from end will be beneficial.
+                Set minimumPagesToTurn to half of difference of totalPagesInBook and targetPageNumber.
+            - if targetPageNumber is less than, equal to or one more than half of totalPagesInBook then starting from front will be beneficial.
+              Set minimumPagesToTurn to half of targetPageNumber.
+            - otherwise starting from back will be beneficial.
+              Set minimumPagesToTurn to half of difference between totalPagesInBook and targetPageNumber. 
+          8. Print minimumPagesToTurn
 
-    Time Complexity:  O(n)
-    Space Complexity: O(1)
-*/
-
+         Time Complexity:  O(1)
+         Space Complexity: O(1)
+                
+        */
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-class Solution 
-{
-    static void Main(String[] args) 
-    {
-        var seaLevel = 0;
-        var valleyCount = 0;
-        var totalNumberOfSteps = int.Parse(Console.ReadLine());
-        var garyStepRecord = Console.ReadLine().ToArray();
-        var isValleyActive = false;
+class Solution {
 
-        for (int i = 0; i < totalNumberOfSteps; i++)
-        {
-            if (garyStepRecord[i] == 'U')
+    static int solve(int totalPagesInBook, int targetPageNumber){
+        var minimumPagesToTurn = 0;
+
+            if (targetPageNumber == 1 || targetPageNumber == totalPagesInBook)
+                return minimumPagesToTurn;
+
+            if (totalPagesInBook % 2 != 0 && targetPageNumber == totalPagesInBook - 1)
+                return minimumPagesToTurn;
+
+
+            if (totalPagesInBook % 2 == 0)
             {
-                seaLevel++;
+                //even number of total pages e.g. 10
+                if (targetPageNumber <= totalPagesInBook / 2)
+                {
+                    //start from front
+                    minimumPagesToTurn = targetPageNumber / 2;
+                }
+                else
+                {
+                    //start from end
+                    double d = ((double)(totalPagesInBook - targetPageNumber)) / 2;
+                    minimumPagesToTurn = (int)Math.Ceiling(d);
+                }
             }
             else
             {
-                seaLevel--;
-            }
+                //total number of pages are odd
 
-            if (!isValleyActive && seaLevel < 0)
-            {
-                isValleyActive = true;
-            }
+                //special handling for exactly middle number when total number of pages are like 3,7,11,15...and so on
 
-            if (isValleyActive && seaLevel == 0)
-            {
-                valleyCount++;
-                isValleyActive = false;
+                if (targetPageNumber == (totalPagesInBook/2)+1 && totalPagesInBook % 4 == 3)
+                {
+                    //this requires special handling as this median will be close to the end instead
+                    minimumPagesToTurn = (totalPagesInBook - targetPageNumber) / 2;
+                }
+                else
+                {
+                    if (targetPageNumber <= ((totalPagesInBook / 2) + 1))
+                    {
+                        //start from front
+                        minimumPagesToTurn = targetPageNumber / 2;
+                    }
+                    else
+                    {
+                        //start from end
+                        minimumPagesToTurn = (totalPagesInBook - targetPageNumber) / 2;
+                    }
+                }
+
             }
-        }
-        Console.WriteLine(valleyCount);
+            return minimumPagesToTurn;
+    }
+
+    static void Main(String[] args) {
+        int n = Convert.ToInt32(Console.ReadLine());
+        int p = Convert.ToInt32(Console.ReadLine());
+        int result = solve(n, p);
+        Console.WriteLine(result);
     }
 }
