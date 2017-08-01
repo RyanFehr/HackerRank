@@ -10,15 +10,14 @@
             - if targetPageNumber is 1
             - if targetPageNumber is equal to totalPagesInBook
             - in case when totalPagesInBook is an odd number and targetPageNumber is totalPagesInBook-1
-            If above conditions are met then stop the algorithm execution and print minimumPagesToTurn.
-         5. If condition in step number 4 is not met then proceed further.
-         6. if totalPagesInBook is an even number then
+            If any of the above conditions are met then jumpt to step 7.
+         5. if totalPagesInBook is an even number then
             - if targetPageNumber is less than or equal to half of totalPagesInBook then starting from front will be beneficial.
               Set minimumPagesToTurn to half of targetPageNumber.
             - otherwise starting from end will be beneficial.
               Set minimumPagesToTurn to half of difference between totalPagesInBook and targetPageNumber. If the operation
               results in a decimal value then round it off to its nearest higher integer.
-         7. if totalPagesInBook is an odd number then
+         6. if totalPagesInBook is an odd number then
             - If targetPageNumber is the exact median of totalPagesInBook and totalPagesInBook in book
                 is exacly one less than the nearest multiple of 4 then starting from end will be beneficial.
                 Set minimumPagesToTurn to half of difference of totalPagesInBook and targetPageNumber.
@@ -26,7 +25,7 @@
               Set minimumPagesToTurn to half of targetPageNumber.
             - otherwise starting from back will be beneficial.
               Set minimumPagesToTurn to half of difference between totalPagesInBook and targetPageNumber. 
-          8. Print minimumPagesToTurn
+          7. Print minimumPagesToTurn
 
          Time Complexity:  O(1)
          Space Complexity: O(1)
