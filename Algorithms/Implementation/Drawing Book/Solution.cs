@@ -10,7 +10,7 @@
             - If targetPageNumber is 1 OR
             - If targetPageNumber is equal to totalPagesInBook OR
             - If totalPagesInBook is an odd number and targetPageNumber is totalPagesInBook-1
-            If either of the above three conditions are met then jumpt to step 7.
+            If either of the above three conditions are met then jump to step 7.
          5. If totalPagesInBook is an even number then
             - if targetPageNumber is less than or equal to half of totalPagesInBook then starting from front will be beneficial.
               Set minimumPagesToTurn to half of targetPageNumber.
