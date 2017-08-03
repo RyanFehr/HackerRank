@@ -8,10 +8,10 @@
     3. Set a counter valleyCount to 0.
     4. After every step:
         2.1 increment the seaLevel by 1 if it is uphill step and decrement it by 1 if it is a downhill step.
-        2.2 If there is no valley currently active(i.e. isValleyActive was false untill this step) and if seaLevel 
+        2.2 If there is no valley currently active(i.e. isValleyActive was false until this step) and if seaLevel 
         has become negative after current step means we have started traversing a valley then set the boolean 
         isValleyActive to true.
-        2.3 If we were already traversing a valley(i.e. isValleyActive was true untill this step) and if seaLevel 
+        2.3 If we were already traversing a valley(i.e. isValleyActive was true until this step) and if seaLevel 
         has become zero after current step means we have just finishing traversing a valley then set the boolean 
         isValleyActive to false and increment valleyCount by 1.
     5. Keep repeating step 4 untill all steps are iterated.
