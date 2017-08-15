@@ -8,12 +8,12 @@
  3. Get effective number of rotations using modulus. Let it be effectiveK. Set effectiveK to k % n.
  4. Start iterating each query index one by one
         4.1 Let query index be m
-        4.2 Subtract effective k fromm to get original position of the elment . Let's call it origP.
+        4.2 Subtract effective k from m to get original position of the element . Let's call it origP.
         4.3 If origP is 0 or positive then print a[origP]
         4.4 If origP is negative the print a[origP + n]
 
  Time Complexity:  O(m) //m is number of queries
- Space Complexity: O(1) //number of dynamically allocated variables remain constant with increasing n.
+ Space Complexity: O(1) //number of dynamically allocated variables remain constant with increasing number of elements or queries.
         
 */
 
