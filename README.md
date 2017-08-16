@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-07/28/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-08/16/2017-brightgreen.svg">
 </p>
 
 
@@ -111,7 +111,7 @@
 |   | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Viral%20Advertising/Solution.java) [JS](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Viral%20Advertising/Solution.js) [C#](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Viral%20Advertising/Solution.cs) | _O(n)_ | _O(1)_ | Easy | 15| ||
 |   | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Save%20the%20Prisoner!/Solution.java) [C#](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Save%20the%20Prisoner!/Solution.cs) | _O(1)_ | _O(1)_ | Easy | 15| ||
 |   | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Circular%20Array%20Rotation/Solution.java) [C#](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Circular%20Array%20Rotation/Solution.cs) | _O(n)_ | _O(1)_ | Easy | 20| ||
-|   | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Sequence%20Equation/Solution.java) | _O(n)_ | _O(n)_ | Easy | 20| ||
+|   | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Sequence%20Equation/Solution.java) [C#](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Sequence%20Equation/Solution.cs) | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Jumping%20on%20the%20Clouds-%20Revisited/Solution.java) | _O(n)_ | _O(n)_ | Easy | 15| ||
 |   | [Find Digits](https://www.hackerrank.com/challenges/find-digits)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Find%20Digits/Solution.java) | _O(n)_ | _O(1)_ | Easy | 25| ||
 |   | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Implementation/Extra%20Long%20Factorials/Solution.java) | _O(n)_ | _O(1)_ | Medium | 20| ||
