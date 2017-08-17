@@ -13,8 +13,8 @@
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-08/16/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++/C#-orange.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-08/17/2017-brightgreen.svg">
 </p>
 
 
