@@ -9,15 +9,15 @@
     3. Initialize total energy E with 100.
     4. Initialize current cloud number, c to 0.
     5. Start an infinitely running loop:
-    5.1 Jump to next cloud. Set c to (c + k) % n
-    5.2 if cloud number c is ordinary cloud then reduce E by 1.
-    5.3 if cloud number c is thundercloud then reduce E by 3.
-    5.4 if cloud number c is 0 then quit the infinite loop.
-    5.5 Jump to step 5.1
+        5.1 Jump to next cloud. Set c to (c + k) % n
+        5.2 if cloud number c is ordinary cloud then reduce E by 1.
+        5.3 if cloud number c is thundercloud then reduce E by 3.
+        5.4 if cloud number c is 0 then quit the infinite loop.
+        5.5 Jump to step 5.1
     6. Print E.
 
     Time Complexity:  O(n)
-    Space Complexity: O(1) //we don't have any dynamically allocated variables which will increase with number of clouds.
+    Space Complexity: O(1) //we don't have any dynamically allocated variables which will increase with number of clouds. Ignoring the space used by the input.
                 
 */
 using System;
