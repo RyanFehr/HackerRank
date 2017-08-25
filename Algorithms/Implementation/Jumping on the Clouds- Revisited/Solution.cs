@@ -17,7 +17,7 @@
     6. Print E.
 
     Time Complexity:  O(n)
-    Space Complexity: O(1) //we don't have any dynamically allocated variables which will increase with number of clouds. Ignoring the space used by the input.
+    Space Complexity: O(n) //We are creating an array of the entire input which is a copy. It will increase with increasing number of clouds.
                 
 */
 using System;
