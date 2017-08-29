@@ -23,7 +23,7 @@
 
   Time Complexity:  O(m+n) //there are two separate loops which run m and n times. Since the values of m and n are independent
                      of each other so time complexity becomes order O(m+n)
-  Space Complexity: O(1) //number of dynamically allocated variables remain constant for any number of apples or oranges.
+  Space Complexity: O(n) //In C# you have to read in the entire console line at a time(size n), because it does not have a way to iteratively read in space delimited input
  */
 
 using System;
