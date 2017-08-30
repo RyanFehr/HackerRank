@@ -11,12 +11,12 @@
   5. Start iterating the falling positions of m apples in a loop:
      5.1 Let the falling position of current apple be fa.
      5.2 Let effective falling position of current apple on x-axis be ea. Set ea = ta + fa.
-     5.3 if ea is lying between hs and he (both inclusive) then increment ca.
+     5.3 if ea is lying between hs and he (both inclusive) then increment ca by 1.
      5.4 Repeat steps 5.1 through 5.3 untill all apples have been iterated.
   6. Start iterating the falling positions of n oranges in a loop:
      6.1 Let the falling position of current orange be fo.
      6.2 Let effective falling position of current orange on x-axis be eo. Set eo = to + fo.
-     6.3 if eo is lying between hs and he (both inclusive) then increment co.
+     6.3 if eo is lying between hs and he (both inclusive) then increment co by 1.
      6.4 Repeat steps 6.1 through 6.3 untill all oranges have been iterated.
   7. Print ca on new line.
   8. Print co on new line.
