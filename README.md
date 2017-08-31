@@ -72,7 +72,7 @@
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |  |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/Solve%20Me%20First/Solution.java) | _O(1)_ | _O(1)_| Easy | 1 | ||
-|  |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/Simple%20Array%20Sum/Solution.java) | _O(n)_ | _O(1)_ | Easy | 10 | ||
+|  |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/Simple%20Array%20Sum/Solution.java) [C#](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/Simple%20Array%20Sum/Solution.cs) | _O(n)_ | _O(1)_ | Easy | 10 | ||
 |  |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/Compare%20the%20Triplets/Solution.java) | _O(1)_ | _O(1)_ | Easy | 10 | ||
 |  |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/A%20Very%20Big%20Sum/Solution.java) | _O(n)_ | _O(1)_ | Easy | 10 | ||
 |  |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/Diagonal%20Difference/Solution.java) | _O(n^2)_ | _O(1)_ | Easy | 10 | ||
