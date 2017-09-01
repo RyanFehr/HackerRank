@@ -18,8 +18,9 @@
         5.7 Continue iterating the loop until the termination condition is met.
     6. print c on a new line.
 
-    Time Complexity:  O(n+m) //Little tricky as the while loop is not purely iterative incrementing by 1 each time.
-                            So time complexity should not bump up to n^2 or m^2
+    Time Complexity:  O(x(n+m)) //where x = (max(m) - min(n))/min(n)
+                                //Little tricky as the while loop is not purely iterative incrementing by 1 each time.
+                            
     Space Complexity: O(1) //number of dynamically allocated variables remain constant for any number of elements in set A or B.
 
 */
@@ -77,7 +78,7 @@ class Solution
                 totalXs++;
 
             counter++;
-            multipleOfMaxA = maximumA * counter;
+            multipleOfMaxA = maximumA * counter; //Here counter is the x factor which contributes to O(x(n+m)) complexity.
         }
         return totalXs;
     }
