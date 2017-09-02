@@ -80,7 +80,7 @@
 |  |[Staircase](https://www.hackerrank.com/challenges/staircase)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/Staircase/Solution.java) | _O(n)_ | _O(n)_ | Easy | 10 | ||
 |  |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/Mini-Max%20Sum/Solution.java) | _O(1)_ | _O(1)_ | Easy | 10 | ||
 |  |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/Time%20Conversion/Solution.java) | _O(1)_ | _O(1)_ | Easy | 15 | ||
-|  |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/Birthday%20Cake%20Candles/Solution.java) | _O(n)_ | _O(1)_ | Easy | 10 | ||
+|  |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/Birthday%20Cake%20Candles/Solution.java) [C#](https://github.com/RyanFehr/HackerRank/blob/master/Algorithms/Warmup/Birthday%20Cake%20Candles/Solution.cs) | _O(n)_ | _O(1)_ | Easy | 10 | ||
 
 ### Implementation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
