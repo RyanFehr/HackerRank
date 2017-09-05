@@ -13,8 +13,8 @@
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++/CSharp-orange.svg">FIX
-	<img src="https://img.shields.io/badge/Latest%20Update-08/17/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++/CSharp-orange.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-09/05/2017-brightgreen.svg">
 </p>
 
 
@@ -59,7 +59,7 @@
 - Geometry
 - Probability
 - Linear Algebra Foundations
-## Java ![JavaPoints]FIX
+## Java ![JavaPoints]
 - Introduction
 - Strings
 - BigNumber
