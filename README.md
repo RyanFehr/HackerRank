@@ -80,7 +80,7 @@
 |  |[Staircase](https://www.hackerrank.com/challenges/staircase)| <ul><li>[Java](./Algorithms/Warmup/Staircase/Solution.java)</li><li>[C#](./Algorithms/Warmup/Staircase/Solution.cs)</li><ul> | _O(n)_ | _O(n)_ | Easy | 10 | ||
 |  |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)| <ul><li>[Java](./Algorithms/Warmup/Mini-Max%20Sum/Solution.java)</li><li>[C#](./Algorithms/Warmup/Mini-Max%20Sum/Solution.cs)</li><ul> | _O(1)_ | _O(1)_ | Easy | 10 | ||
 |  |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)| <ul><li>[Java](./Algorithms/Warmup/Time%20Conversion/Solution.java)</li><ul> | _O(1)_ | _O(1)_ | Easy | 15 | ||
-|  |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| <ul><li>[Java](./Algorithms/Warmup/Birthday%20Cake%20Candles/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 10 | ||
+|  |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| <ul><li>[Java](./Algorithms/Warmup/Birthday%20Cake%20Candles/Solution.java)</li><li>[C#](./Algorithms/Warmup/Birthday%20Cake%20Candles/Solution.cs)</li><ul> | _O(n)_ | _O(1)_ | Easy | 10 | ||
 
 ### Implementation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
