@@ -11,27 +11,20 @@ public class Solution {
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();
         int k = input.nextInt();
-        int[] bill = new int[n];
         int totalCost = 0;
+        int notEaten = 0;
         
-        
-        for(int i = 0; i < n; i++)
-        {
+        for(int i = 0; i < n; i++) {
             int item = input.nextInt();
+            if(i == k) notEaten = item;
             totalCost += item;
-            bill[i] = item;
         }
         
-        
         int charged = input.nextInt();
-        if(charged == totalCost/2)
-        {
-            System.out.println(bill[k]/2);
+        if(charged == totalCost/2) {
+            System.out.println(notEaten/2);
             System.exit(0);
         }
         System.out.println("Bon Appetit");
-        
-        
-        
     }
 }
