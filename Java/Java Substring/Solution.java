@@ -1,5 +1,7 @@
-// Problem: 
+// Problem: https://www.hackerrank.com/challenges/java-substring/problem
 // Java 8
+// Time Complexity: O(1)
+// Space Complexity: O(1)
 import java.io.*;
 import java.util.*;
 import java.text.*;
