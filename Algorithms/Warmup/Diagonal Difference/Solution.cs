@@ -7,7 +7,7 @@
     1. Let the sum of primary and secondary diagonals be p and s. Initialize p and s to 0.
     2. Let the number of rows in the square matrix be n.
     3. Run a for loop with two counters namely i and j initialized to 0 and n-1 respectively. The loop shall run n times.
-    3.1 Scan the next row of the matrix anad store it in a one dimensional array. Let it be arr.
+    3.1 Scan the next row of the matrix and store it in a one dimensional array. Let it be arr.
     3.2 Increment p with value of arr[i].
     3.3 Increment s with value of arr[j].
     3.4 In every iteration increment i by 1 but decrement j by 1.
