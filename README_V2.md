@@ -567,6 +567,7 @@
 ### Linked Lists
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|   | [Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists)| [C++]() |  | | Easy | 5| ||
 
 ### Graphs
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
