@@ -1,33 +1,33 @@
 //Problem: https://www.hackerrank.com/challenges/migratory-birds
 //Java 8
-import java.io.*;
+    import java.io.*;
 import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
+import java.util.stream.IntStream;
 
-public class Solution {
+
+public class bird {
+    static int migratoryBirds(int n, int[] ar) {
+     int[] counts = new int[6];
+		for (int type : ar) {
+			counts[type]++;
+		}
+
+		int maxCount = IntStream.range(1, counts.length).map(i -> counts[i]).max().getAsInt();
+		for (int i = 1;; i++) {
+			if (counts[i] == maxCount) {
+				return i;}}}
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
-        int[] types = new int[5];
-        for(int types_i=0; types_i < n; types_i++){
-            int type = in.nextInt()-1; 
-            types[type] = types[type] +1;
+        int[] ar = new int[n];
+        for(int ar_i = 0; ar_i < n; ar_i++){
+            ar[ar_i] = in.nextInt();
         }
-        
-        int max = 0, index = 0;
-        for(int i = 0; i < 5; i++)
-        {
-            if(types[i] > max)
-            {
-                max = types[i]; 
-                index = i;
-            }
-        }
-            
-        
-        System.out.println(index+1);
+        int result = migratoryBirds(n, ar);
+        System.out.println(result);
     }
 }
