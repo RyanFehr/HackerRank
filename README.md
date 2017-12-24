@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++/CSharp-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-09/05/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-09/15/2017-brightgreen.svg">
 </p>
 
 
@@ -127,7 +127,7 @@
 |   | [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team)| <ul><li>[Java](./Algorithms/Implementation/ACM%20ICPC%20Team/Solution.java)</li><ul> | _O(n^3)_ | _O(n)_ | Easy | 25| ||
 |   | [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday)| <ul><li>[Java](./Algorithms/Implementation/Taum%20and%20B'day/Solution.java)</li><li>[C#](./Algorithms/Implementation/Taum%20and%20B'day/Solution.cs)</li><ul> | _O(1)_ | _O(1)_ | Easy | 25| ||
 |   | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls)| <ul><li>[Java](./Algorithms/Implementation/Organizing%20Containers%20of%20Balls/Solution.java)</li><ul> | _O(n^2)_ | _O(n^2)_ | Medium | 30| ||
-|   | [Encryption](https://www.hackerrank.com/challenges/encryption)| <ul><li>[Java](./Algorithms/Implementation/Encryption/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Medium | 30| ||
+|   | [Encryption](https://www.hackerrank.com/challenges/encryption)| <ul><li>[Java](./Algorithms/Implementation/Encryption/Solution.java)</li><li>[C#](./Algorithms/Implementation/Encryption/Solution.cs)</li><ul> | _O(n)_ | _O(1)_ | Medium | 30| ||
 |   | [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater)| <ul><li>[Java](./Algorithms/Implementation/Bigger%20is%20Greater/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Medium | 35| ||
 |   | [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers)| <ul><li>[Java](./Algorithms/Implementation/Modified%20Kaprekar%20Numbers/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 30| ||
 |   | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)| <ul><li>[Java](./Algorithms/Implementation/Beautiful%20Triplets/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
@@ -578,6 +578,7 @@
 |   | [Class vs. Instance](https://www.hackerrank.com/challenges/class-vs-instance)| <ul><li>[Java](./Java/Class%20vs.%20Instance/Solution.java)</li><ul> | _N/A_ | _N/A_ | Easy | 30| ||
 |   | [Inheritance](https://www.hackerrank.com/challenges/inheritance)| <ul><li>[Java](.Java/Inheritance/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 30 | ||
 |   | [Abstract Classes](https://www.hackerrank.com/challenges/abstract-classes)| <ul><li>[Java](./Java/Abstract%20Classes/Solution.java)</li><ul> | _N/A_ | _N/A_ | Easy | 30| ||
+|   | [Complex Numbers](https://www.hackerrank.com/challenges/complex-numbers)| <ul><li>[Java](./Java/Complex%20Numbers/Solution.java)</li><ul> | _O(1)_ | _O(1)_ | Easy | 30 | ||
 
 [HackerRank]:https://cloud.githubusercontent.com/assets/19765741/25342064/d17a563c-28d8-11e7-83fc-763d4ab4820a.jpg
 
