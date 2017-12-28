@@ -42,7 +42,7 @@
 - [Arrays](https://github.com/RyanFehr/HackerRank#arrays)
 - [Linked Lists](https://github.com/RyanFehr/HackerRank#linked-lists)
 - [Trees](https://github.com/RyanFehr/HackerRank#trees)
-- [Balanced Trees](https://github.com/RyanFehr/HackerRank#balanced)
+- [Balanced Trees](https://github.com/RyanFehr/HackerRank#balanced-trees)
 - [Stacks](https://github.com/RyanFehr/HackerRank#stacks)
 - [Queues](https://github.com/RyanFehr/HackerRank#queues)
 - [Heap](https://github.com/RyanFehr/HackerRank#heap)
