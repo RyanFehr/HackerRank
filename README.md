@@ -39,17 +39,17 @@
 - [NP Complete](https://github.com/RyanFehr/HackerRank#np-complete)
 
 ## DataStructures ![DataStructuresPoints]
-- Arrays
-- Linked Lists
-- Trees
-- Balanced Trees
-- Stacks
-- Queues
-- Heap
-- Disjoint Set
-- Multiple Choice
-- Trie
-- Advanced
+- [Arrays](https://github.com/RyanFehr/HackerRank#arrays)
+- [Linked Lists](https://github.com/RyanFehr/HackerRank#linked-lists)
+- [Trees](https://github.com/RyanFehr/HackerRank#trees)
+- [Balanced Trees](https://github.com/RyanFehr/HackerRank#balanced)
+- [Stacks](https://github.com/RyanFehr/HackerRank#stacks)
+- [Queues](https://github.com/RyanFehr/HackerRank#queues)
+- [Heap](https://github.com/RyanFehr/HackerRank#heap)
+- [Disjoint Set](https://github.com/RyanFehr/HackerRank#disjoint-set)
+- [Multiple Choice](https://github.com/RyanFehr/HackerRank#multiple-choice)
+- [Trie](https://github.com/RyanFehr/HackerRank#trie)
+- [Advanced](https://github.com/RyanFehr/HackerRank#advanced)
 
 ## Mathematics ![MathematicsPoints]
 - Fundamentals
@@ -579,6 +579,63 @@
 |   | [Inheritance](https://www.hackerrank.com/challenges/inheritance)| <ul><li>[Java](.Java/Inheritance/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 30 | ||
 |   | [Abstract Classes](https://www.hackerrank.com/challenges/abstract-classes)| <ul><li>[Java](./Java/Abstract%20Classes/Solution.java)</li><ul> | _N/A_ | _N/A_ | Easy | 30| ||
 |   | [Complex Numbers](https://www.hackerrank.com/challenges/complex-numbers)| <ul><li>[Java](./Java/Complex%20Numbers/Solution.java)</li><ul> | _O(1)_ | _O(1)_ | Easy | 30 | ||
+
+### Arrays
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+
+### Linked Lists
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+
+### Trees
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+
+### Balanced Trees
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+
+### Stacks
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+
+### Queues
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+
+### Heap
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+
+### Disjoint Set
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+
+### Multiple Choice
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+
+### Trie
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+
+### Advanced
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+
+
 
 [HackerRank]:https://cloud.githubusercontent.com/assets/19765741/25342064/d17a563c-28d8-11e7-83fc-763d4ab4820a.jpg
 
