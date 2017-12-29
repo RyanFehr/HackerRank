@@ -567,6 +567,7 @@
 ### Linked Lists
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|   | [Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists)| [C++](./DataStructures/Linked%20Lists/Compare%20two%20linked%20lists/Solution.cpp) | _O(n)_ | _O(1)_ | Easy | 5 | ||
 
 ### Graphs
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
@@ -626,8 +627,7 @@
 
 |   | [Walking the Approximate Longest Path](https://www.hackerrank.com/challenges/walking-the-approximate-longest-path)| Java |  | | Hard | 70 | ||
 |   | [Sam's Puzzle (Approximate)](https://www.hackerrank.com/challenges/sams-puzzle)| Java |  | | Advanced | 85 | ||
-
-
+|   | [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem)| [Java](https://github.com/RyanFehr/HackerRank/blob/master/Java/Java%20Substring/Solution.java) | _O(1)_ | _O(1)_ | Easy | 5 | ||
 
 
 [HackerRank]:http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg
