@@ -593,7 +593,7 @@
 ### Trees
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+|  |[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/)| <ul><li>[C++](./DataStructures/Trees/Tree%20Preorder%20Traversal/Solution.cpp)</li><ul> | _O(n)_ | _O(n)_| Easy | 10 | ||
 
 ### Balanced Trees
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
