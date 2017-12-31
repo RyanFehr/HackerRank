@@ -133,7 +133,7 @@
 |   | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)| <ul><li>[Java](./Algorithms/Implementation/Beautiful%20Triplets/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances)| <ul><li>[Java](./Algorithms/Implementation/Minimum%20Distances/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams)| <ul><li>[Java](./Algorithms/Implementation/Strings%20Making%20Anagrams/Solution.java)</li><ul> | _O(&#124;a&#124;+&#124;b&#124;)_ | _O(1)_ | Easy | 30| ||
-|   | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)| <ul><li>[Java](./Algorithms/Implementation/The%20Time%20in%20Words/Solution.java)</li><ul> | _O(1)_ | _O(1)_ | Medium | 25| ||
+|   | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)| <ul><li>[Java](./Algorithms/Implementation/The%20Time%20in%20Words/Solution.java)</li><li>[C#](./Algorithms/Implementation/The%20Time%20in%20Words/Solution.cs)</li><ul> | _O(1)_ | _O(1)_ | Medium | 25| ||
 |   | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)| <ul><li>[Java](./Algorithms/Implementation/Chocolate%20Feast/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 25| ||
 |   | [Service Lane](https://www.hackerrank.com/challenges/service-lane)| <ul><li>[Java](./Algorithms/Implementation/Service%20Lane/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)| <ul><li>[Java](./Algorithms/Implementation/Lisa's%20Workbook/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 25| ||
