@@ -130,10 +130,10 @@
 |   | [Encryption](https://www.hackerrank.com/challenges/encryption)| <ul><li>[Java](./Algorithms/Implementation/Encryption/Solution.java)</li><li>[C#](./Algorithms/Implementation/Encryption/Solution.cs)</li><ul> | _O(n)_ | _O(1)_ | Medium | 30| ||
 |   | [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater)| <ul><li>[Java](./Algorithms/Implementation/Bigger%20is%20Greater/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Medium | 35| ||
 |   | [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers)| <ul><li>[Java](./Algorithms/Implementation/Modified%20Kaprekar%20Numbers/Solution.java)</li><li>[C#](./Algorithms/Implementation/Modified%20Kaprekar%20Numbers/Solution.cs)</li><ul> | _O(n)_ | _O(1)_ | Easy | 30| ||
-|   | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)| <ul><li>[Java](./Algorithms/Implementation/Beautiful%20Triplets/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
-|   | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances)| <ul><li>[Java](./Algorithms/Implementation/Minimum%20Distances/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
+|   | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances)| <ul><li>[Java](./Algorithms/Implementation/Minimum%20Distances/Solution.java)</li><li>[C#](./Algorithms/Implementation/Minimum%20Distances/Solution.cs)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
+|   | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)| <ul><li>[Java](./Algorithms/Implementation/Beautiful%20Triplets/Solution.java)</li><li>[C#](./Algorithms/Implementation/Beautiful%20Triplets/Solution.cs)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams)| <ul><li>[Java](./Algorithms/Implementation/Strings%20Making%20Anagrams/Solution.java)</li><ul> | _O(&#124;a&#124;+&#124;b&#124;)_ | _O(1)_ | Easy | 30| ||
-|   | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)| <ul><li>[Java](./Algorithms/Implementation/The%20Time%20in%20Words/Solution.java)</li><ul> | _O(1)_ | _O(1)_ | Medium | 25| ||
+|   | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)| <ul><li>[Java](./Algorithms/Implementation/The%20Time%20in%20Words/Solution.java)</li><li>[C#](./Algorithms/Implementation/The%20Time%20in%20Words/Solution.cs)</li><ul> | _O(1)_ | _O(1)_ | Medium | 25| ||
 |   | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)| <ul><li>[Java](./Algorithms/Implementation/Chocolate%20Feast/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 25| ||
 |   | [Service Lane](https://www.hackerrank.com/challenges/service-lane)| <ul><li>[Java](./Algorithms/Implementation/Service%20Lane/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)| <ul><li>[Java](./Algorithms/Implementation/Lisa's%20Workbook/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 25| ||
@@ -593,7 +593,7 @@
 ### Trees
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+|  |[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/)| <ul><li>[C++](./DataStructures/Trees/Tree%20Preorder%20Traversal/Solution.cpp)</li><ul> | _O(n)_ | _O(n)_| Easy | 10 | ||
 
 ### Balanced Trees
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
