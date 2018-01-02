@@ -598,7 +598,7 @@
 ### Balanced Trees
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+|  |[Self Balancing Tree](https://www.hackerrank.com/challenges/self-balancing-tree/)| <ul><li>[C++](./DataStructures/Balanced%20Trees/Self%20Balancing%20Tree/Solution.cpp)</li><ul> | _O(log(n))_ | _O(n)_| Medium | 50 | ||
 
 ### Stacks
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
