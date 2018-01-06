@@ -594,6 +594,7 @@
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |  |[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/)| <ul><li>[C++](./DataStructures/Trees/Tree%20Preorder%20Traversal/Solution.cpp)</li><ul> | _O(n)_ | _O(n)_| Easy | 10 | ||
+|  |[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/)| <ul><li>[C#](./DataStructures/Trees/Swap%20Nodes%20[Algo]/Solution.cs)</li><ul> | _O(n)_ | _O(n)_| Medium | 40 | ||
 
 ### Balanced Trees
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
