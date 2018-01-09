@@ -135,7 +135,7 @@
 |   | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams)| <ul><li>[Java](./Algorithms/Implementation/Strings%20Making%20Anagrams/Solution.java)</li><ul> | _O(&#124;a&#124;+&#124;b&#124;)_ | _O(1)_ | Easy | 30| ||
 |   | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)| <ul><li>[Java](./Algorithms/Implementation/The%20Time%20in%20Words/Solution.java)</li><li>[C#](./Algorithms/Implementation/The%20Time%20in%20Words/Solution.cs)</li><ul> | _O(1)_ | _O(1)_ | Medium | 25| ||
 |   | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)| <ul><li>[Java](./Algorithms/Implementation/Chocolate%20Feast/Solution.java)</li><li>[C#](./Algorithms/Implementation/Chocolate%20Feast/Solution.cs)</li><ul> | _O(log(n))_ | _O(1)_ | Easy | 25| Base of logarithmic time complexity is m ||
-|   | [Service Lane](https://www.hackerrank.com/challenges/service-lane)| <ul><li>[Java](./Algorithms/Implementation/Service%20Lane/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
+|   | [Service Lane](https://www.hackerrank.com/challenges/service-lane)| <ul><li>[Java](./Algorithms/Implementation/Service%20Lane/Solution.java)</li><li>[C#](./Algorithms/Implementation/Service%20Lane/Solution.cs)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)| <ul><li>[Java](./Algorithms/Implementation/Lisa's%20Workbook/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 25| ||
 |   | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations)| <ul><li>[Java](./Algorithms/Implementation/Flatland%20Space%20Stations/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 25| ||
 |   | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations)| <ul><li>[Java](./Algorithms/Implementation/Fair%20Rations/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 25| ||
@@ -594,11 +594,12 @@
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |  |[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/)| <ul><li>[C++](./DataStructures/Trees/Tree%20Preorder%20Traversal/Solution.cpp)</li><ul> | _O(n)_ | _O(n)_| Easy | 10 | ||
+|  |[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/)| <ul><li>[C#](./DataStructures/Trees/Swap%20Nodes%20[Algo]/Solution.cs)</li><ul> | _O(n)_ | _O(n)_| Medium | 40 | ||
 
 ### Balanced Trees
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+|  |[Self Balancing Tree](https://www.hackerrank.com/challenges/self-balancing-tree/)| <ul><li>[C++](./DataStructures/Balanced%20Trees/Self%20Balancing%20Tree/Solution.cpp)</li><ul> | _O(log(n))_ | _O(n)_| Medium | 50 | ||
 
 ### Stacks
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
