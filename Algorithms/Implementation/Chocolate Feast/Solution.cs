@@ -18,7 +18,8 @@
         2.5 print the value of cc on a new line on console.
 
      Time Complexity:  O(log(n)) //base of logarithm is m. 
-                                //This time complexity is corresponding to algorithm steps followed in each trip.
+                                 // Base of logarithmic time complexity is m as the number of wrappers obtained 
+                                 // in first purchase get reduced to n/m in each iteration while getting processed using a loop
      Space Complexity: O(1) //number of dynamically allocated variables remain constant for any input.
 
 */
