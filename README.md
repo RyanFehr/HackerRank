@@ -613,7 +613,7 @@
 ### Heap
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+|  |[QHEAP1](https://www.hackerrank.com/challenges/qheap1/)| <ul><li>[C#](./DataStructures/Heap/QHEAP1/Solution.cs)</li><ul> | _Insert - O(log(n)), Delete - O(n), Print - O(1)_ | _Insert - O(1), Delete - O(1), Print - O(1)_| Easy | 25 | ||
 
 ### Disjoint Set
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
