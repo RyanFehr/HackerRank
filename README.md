@@ -623,7 +623,9 @@
 ### Multiple Choice
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+|  |[Data Structures MCQ 1](https://www.hackerrank.com/challenges/how-well-do-you-know-trees/problem)| <ul><li>Correct Answer - n-1</li><ul> | _NA_ | _NA_| Hard | 5 | ||
+|  |[Data Structures MCQ 2](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures/problem)| <ul><li>Correct Answer - Segment Tree</li><ul> | _NA_ | _NA_| Hard | 5 | ||
+|  |[Data Structures MCQ 3](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures-1/problem)| <ul><li>Correct Answer - Stack</li><ul> | _NA_ | _NA_| Hard | 5 | ||
 
 ### Trie
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
