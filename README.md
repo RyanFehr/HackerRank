@@ -229,7 +229,7 @@
 |   | [Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort)| <ul><li>Java</li></ul> |  | | Advanced | 50| ||
 |   | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications)| <ul><li>[Java](./Algorithms/Sorting/Fraudulent%20Activity%20Notifications/Solution.java)</li><ul> | _O(n^2)_ | _O(n)_ | Medium | 40| ||
 |   | [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework)| <ul><li>[Java](./Algorithms/Sorting/Lily's%20Homework/Solution.java)</li><ul> | _O(n log(n))_ | _O(n)_  | Medium | 40| ||
-|   | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting)| <ul><li>[Java](./Algorithms/Sorting/Big%20Sorting/Solution.java)</li><ul> | _O(n log(n))_ | _O(n)_ | Easy | 20| ||
+|   | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting)| <ul><li>[Java](./Algorithms/Sorting/Big%20Sorting/Solution.java)</li><li>[C#](./Algorithms/Sorting/Big%20Sorting/Solution.cs)</li><ul> | _O(n log(n))_ | _O(n)_ | Easy | 20| ||
 
 ### Search
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
