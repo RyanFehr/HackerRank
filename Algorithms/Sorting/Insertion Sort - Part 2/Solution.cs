@@ -5,29 +5,30 @@
          Tool Version : Visual Studio Community 2017
          Thoughts :
          1. Let the unsorted array be arr and number of elements in arr be n.
-         2. Initialize a counter i with 1.
-         3. Start a loop until i < n
-             3.1 Let the element to be sorted in current pass is e located at ith index of arr.
+         2. Initialize a counter c with 1.
+         3. Start a loop until c < n
+             3.1 Let the element to be sorted in current pass is e located at cth index of arr.
              3.2 Initialize a counter j = 0.
-             3.3 Start a loop to obtain the position where e actually needs to be inserted.
-                 3.3.1 if j < i then continue the loop else break it and go to step 3.4
+             3.3 Start a loop to obtain the position where e actually needs to be inserted in the array.
+                 3.3.1 if j < c then continue the loop else break it and go to step 3.4
                  3.3.2 if e <= arr[j] then break the loop and go to step 3.4
                  3.3.3 increment j by 1.
                  3.3.4 Keep repeating steps from 3.3.1 through 3.3.3 untill loop breaking condition isn't met.
              3.4 Now j holds the position where e actually needs to be inserted.
-             3.5 Start a loop for shifting elements towards right to create the void at position j for e to fill in:
+             3.5 Initialize a new counter i and set it to c. Now start a loop for shifting elements towards right to create the void 
+                 at position j for e to fill in:
                  3.5.1 If i <= j break the loop and go to step 3.6
                  3.5.2 set arr[i] = arr[i - 1]
                  3.5.3 decrement i by 1.
                  3.5.4 Keep repeating steps from 3.5.1 through 3.5.3 untill loop breaking condition isn't met.
              3.6 Replace jth element of array with e.
              3.7 Print the entire array elements separated by space character.
-             3.8 Keep repeating steps from 3.1 through 3.7 untill loop breaking condition isn't met.
+             3.8 Increment c by 1.
+             3.9 Keep repeating steps from 3.1 through 3.8 untill loop breaking condition isn't met.
 
          Time Complexity:  O(n^2) //There is a nested loop.
          Space Complexity: O(1) //number of dynamically allocated variables remain constant for any input.
-                
-        */
+         */
 using System;
 
 class Solution
