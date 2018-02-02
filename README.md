@@ -583,7 +583,7 @@
 ### Arrays
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+|  |[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)| <ul><li>[C++](./DataStructures/Arrays/Arrays%20-%20DS/Solution.cpp)</li><ul> | _O(n)_ | _O(n)_| Easy | 10 | ||
 
 ### Linked Lists
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
