@@ -14,7 +14,6 @@ public class Solution {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();
-        input.nextLine();
         String s = input.nextLine();
         int k = input.nextInt() % 26;
         StringBuilder output = new StringBuilder("");
