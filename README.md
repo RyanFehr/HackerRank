@@ -624,6 +624,7 @@
 ### Multiple Choice
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|  |[Data Structures MCQ 2](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures/problem)| <ul><li>[Language Independent](./DataStructures/Multiple%20Choice/Data%20Structures%20MCQ%202/Solution.md)</li><ul> | _NA_ | _NA_| Hard | 5 | ||
 |  |[Data Structures MCQ 3](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures-1/problem)| <ul><li>[Language Independent](./DataStructures/Multiple%20Choice/Data%20Structures%20MCQ%203/Solution.md)</li><ul> | _NA_ | _NA_| Hard | 5 | ||
 
 ### Trie
