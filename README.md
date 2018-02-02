@@ -604,7 +604,7 @@
 ### Stacks
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+|  |[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/)| <ul><li>[C++](./DataStructures/Stacks/Maximum%20Element/Solution.cpp)</li><ul> | _Push-O(1), Delete - O(n), Print - O(1)_ | _Push - O(1), Delete - O(1), Print - O(1)_| Easy | 20 | ||
 
 ### Queues
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
