@@ -11,7 +11,9 @@
          5. Start a loop 
             5.1 if e < arr[j] then set arr[j + 1] = arr[j] and print the entire array elements separated by space character.
             5.2 if e >= arr[j] then break the loop.
-            5.3 Keep repeating steps from 5.1 through 5.2 untill loop breaking condition isn't met.
+            5.3 Decrement j by 1.
+            5.4 Break the loop if j < 0.
+            5.3 Keep repeating steps from 5.1 through 5.4 untill loop breaking condition isn't met.
          6. j+1 is the correct position where e needs to be inserted. Replace (j+1)th element of array with e.
          7. Print the entire array elements separated by space character one last time.
 
