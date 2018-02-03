@@ -134,8 +134,8 @@
 |   | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)| <ul><li>[Java](./Algorithms/Implementation/Beautiful%20Triplets/Solution.java)</li><li>[C#](./Algorithms/Implementation/Beautiful%20Triplets/Solution.cs)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams)| <ul><li>[Java](./Algorithms/Implementation/Strings%20Making%20Anagrams/Solution.java)</li><ul> | _O(&#124;a&#124;+&#124;b&#124;)_ | _O(1)_ | Easy | 30| ||
 |   | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)| <ul><li>[Java](./Algorithms/Implementation/The%20Time%20in%20Words/Solution.java)</li><li>[C#](./Algorithms/Implementation/The%20Time%20in%20Words/Solution.cs)</li><ul> | _O(1)_ | _O(1)_ | Medium | 25| ||
-|   | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)| <ul><li>[Java](./Algorithms/Implementation/Chocolate%20Feast/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 25| ||
-|   | [Service Lane](https://www.hackerrank.com/challenges/service-lane)| <ul><li>[Java](./Algorithms/Implementation/Service%20Lane/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
+|   | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)| <ul><li>[Java](./Algorithms/Implementation/Chocolate%20Feast/Solution.java)</li><li>[C#](./Algorithms/Implementation/Chocolate%20Feast/Solution.cs)</li><ul> | _O(log(n))_ | _O(1)_ | Easy | 25| Base of logarithmic time complexity is m ||
+|   | [Service Lane](https://www.hackerrank.com/challenges/service-lane)| <ul><li>[Java](./Algorithms/Implementation/Service%20Lane/Solution.java)</li><li>[C#](./Algorithms/Implementation/Service%20Lane/Solution.cs)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)| <ul><li>[Java](./Algorithms/Implementation/Lisa's%20Workbook/Solution.java)</li><li>[C#](./Algorithms/Implementation/Lisa's%20Workbook/Solution.cs)</li><ul> | _O(n)_ | _O(1)_ | Easy | 25| ||
 |   | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations)| <ul><li>[Java](./Algorithms/Implementation/Flatland%20Space%20Stations/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 25| ||
 |   | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations)| <ul><li>[Java](./Algorithms/Implementation/Fair%20Rations/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 25| ||
@@ -583,27 +583,28 @@
 ### Arrays
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+|  |[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)| <ul><li>[C++](./DataStructures/Arrays/Arrays%20-%20DS/Solution.cpp)</li><ul> | _O(n)_ | _O(n)_| Easy | 10 | ||
 
 ### Linked Lists
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+|  |[Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list)| <ul><li>[C++](./DataStructures/Linked%20Lists/Print%20the%20Elements%20of%20a%20Linked%20List/Solution.cpp)</li><ul> | _O(n)_ | _O(1)_| Easy | 5 | ||
 
 ### Trees
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |  |[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/)| <ul><li>[C++](./DataStructures/Trees/Tree%20Preorder%20Traversal/Solution.cpp)</li><ul> | _O(n)_ | _O(n)_| Easy | 10 | ||
+|  |[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/)| <ul><li>[C#](./DataStructures/Trees/Swap%20Nodes%20[Algo]/Solution.cs)</li><ul> | _O(n)_ | _O(n)_| Medium | 40 | ||
 
 ### Balanced Trees
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+|  |[Self Balancing Tree](https://www.hackerrank.com/challenges/self-balancing-tree/)| <ul><li>[C++](./DataStructures/Balanced%20Trees/Self%20Balancing%20Tree/Solution.cpp)</li><ul> | _O(log(n))_ | _O(n)_| Medium | 50 | ||
 
 ### Stacks
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+|  |[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/)| <ul><li>[C++](./DataStructures/Stacks/Maximum%20Element/Solution.cpp)</li><ul> | _Push-O(1), Delete - O(n), Print - O(1)_ | _Push - O(1), Delete - O(1), Print - O(1)_| Easy | 20 | ||
 
 ### Queues
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
@@ -613,7 +614,7 @@
 ### Heap
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+|  |[QHEAP1](https://www.hackerrank.com/challenges/qheap1/)| <ul><li>[C#](./DataStructures/Heap/QHEAP1/Solution.cs)</li><ul> | _Insert - O(log(n)), Delete - O(n), Print - O(1)_ | _Insert - O(1), Delete - O(1), Print - O(1)_| Easy | 25 | ||
 
 ### Disjoint Set
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
@@ -623,7 +624,7 @@
 ### Multiple Choice
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+|  |[Data Structures MCQ 3](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures-1/problem)| <ul><li>[Language Independent](./DataStructures/Multiple%20Choice/Data%20Structures%20MCQ%203/Solution.md)</li><ul> | _NA_ | _NA_| Hard | 5 | ||
 
 ### Trie
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
