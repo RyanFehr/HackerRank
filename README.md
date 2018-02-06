@@ -609,7 +609,7 @@
 ### Queues
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+|  |[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/)| <ul><li>[C#](./DataStructures/Queues/Queue%20using%20Two%20Stacks/Solution.cs)</li><ul> | _Enqueue - O(1), Dequeue - O(n), Print - O(n)_ | _Enqueue - O(1), Dequeue - O(1), Print - O(1)_| Medium | 30 | ||
 
 ### Heap
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
