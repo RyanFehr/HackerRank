@@ -214,7 +214,7 @@
 |   | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant)| <ul><li>[Java](./Algorithms/Sorting/Correctness%20and%20the%20Loop%20Invariant/Solution.java)</li><ul> | _O(n^2)_ | _O(1)_ | Easy | 30 | ||
 |   | [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime)| <ul><li>[Java](./Algorithms/Sorting/Running%20Time%20of%20Algorithms/Solution.java)</li><ul> | _O(n^2)_ | _O(1)_ | Easy | 30 | ||
 |   | [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1)| <ul><li>[Java](./Algorithms/Sorting/Quicksort%201%20-%20Partition/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 10| ||
-|   | [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2)| <ul><li>[Java](./Algorithms/Sorting/Quicksort%202%20-%20Sorting/Solution.java)</li><ul> | _O(n^2)_ | _O(n)_ | Easy | 30| ||
+|   | [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2)| <ul><li>[Java](./Algorithms/Sorting/Quicksort%202%20-%20Sorting/Solution.java)</li><li>[C#](./Algorithms/Sorting/Quicksort%202%20-%20Sorting/Solution.cs)</li><ul> | _O(n^2)_ | _O(n)_ | Easy | 30| ||
 |   | [Quicksort In-Place](https://www.hackerrank.com/challenges/quicksort3)| <ul><li>[Java](./Algorithms/Sorting/Quicksort%20In-Place/Solution.java)</li><ul> | _O(n^2)_ | _O(log(n))_ | Medium| 35| ||
 |   | [Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4)| <ul><li>[Java](./Algorithms/Sorting/Running%20Time%20of%20Quicksort/Solution.java)</li><ul> | _O(n log(n))_ | _O(log(n))_ | Easy | 35| ||
 |   | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1)| <ul><li>[Java](./Algorithms/Sorting/Counting%20Sort%201/Solution.java)</li><ul> | _O(n+k)_ | _O(k)_ | Easy | 30| ||
