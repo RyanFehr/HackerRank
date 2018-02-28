@@ -589,6 +589,7 @@
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |  |[Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list)| <ul><li>[C++](./DataStructures/Linked%20Lists/Print%20the%20Elements%20of%20a%20Linked%20List/Solution.cpp)</li><ul> | _O(n)_ | _O(1)_| Easy | 5 | ||
+|  |[Reverse a Linked List](https://www.hackerrank.com/challenges/reverse-a-linked-list)| <ul><li>[Java](./DataStructures/Linked%20Lists/Reverse%20a%20linked%20list/Solution.java)</li><ul> | _O(n)_ | _O(1)_| Easy | 5 | ||
 
 ### Trees
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
