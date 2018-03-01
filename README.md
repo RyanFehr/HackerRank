@@ -218,7 +218,7 @@
 |   | [Quicksort In-Place](https://www.hackerrank.com/challenges/quicksort3)| <ul><li>[Java](./Algorithms/Sorting/Quicksort%20In-Place/Solution.java)</li><ul> | _O(n^2)_ | _O(log(n))_ | Medium| 35| ||
 |   | [Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4)| <ul><li>[Java](./Algorithms/Sorting/Running%20Time%20of%20Quicksort/Solution.java)</li><ul> | _O(n log(n))_ | _O(log(n))_ | Easy | 35| ||
 |   | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1)| <ul><li>[Java](./Algorithms/Sorting/Counting%20Sort%201/Solution.java)</li><ul> | _O(n+k)_ | _O(k)_ | Easy | 30| ||
-|   | [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2)| <ul><li>[Java](./Algorithms/Sorting/Counting%20Sort%202/Solution.java)</li><ul> | _O(n+k)_ | _O(k)_ | Easy | 30| ||
+|   | [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2)| <ul><li>[Java](./Algorithms/Sorting/Counting%20Sort%202/Solution.java)</li><li>[C#](./Algorithms/Sorting/Counting%20Sort%202/Solution.cs)</li><ul> | _O(n)_ | _O(n)_ | Easy | 30| ||
 |   | [Counting Sort 3](https://www.hackerrank.com/challenges/countingsort3)| <ul><li>[Java](./Algorithms/Sorting/Counting%20Sort%203/Solution.java)</li><ul> | _O(n+k)_ | _O(k)_ | Easy | 30| ||
 |   | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4)| <ul><li>[Java](./Algorithms/Sorting/The%20Full%20Counting%20Sort/Solution.java)</li><ul> | _O(n+k)_ | _O(k)_ | Medium | 40| ||
 |   | [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk)| <ul><li>[Java](./Algorithms/Sorting/Marc's%20Cakewalk/Solution.java)</li><ul> | _O(n + k)_ | _O(k)_ | Easy | 15| ||
