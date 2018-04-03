@@ -607,6 +607,7 @@
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |  |[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/)| <ul><li>[C++](./DataStructures/Stacks/Maximum%20Element/Solution.cpp)</li><ul> | _Push-O(1), Delete - O(n), Print - O(1)_ | _Push - O(1), Delete - O(1), Print - O(1)_| Easy | 20 | ||
+|  |[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/)| <ul><li>[Java](./DataStructures/Stacks/Balanced%20Brackets/Solution.java)</li><ul> | _O(n)_ | _O(n)_| Medium | 25 | ||
 
 ### Queues
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
