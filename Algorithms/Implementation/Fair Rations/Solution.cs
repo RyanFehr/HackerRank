@@ -8,7 +8,7 @@
 
     - Keep a count of distributed breads. 
     - Iterate the entire array except the last element
-    - check if the current bread count is odd then add 1 to it also add 1 to subsequent bread count. increment count of distributed breads by 2.
+      - check if the current bread count is odd then add 1 to it also add 1 to subsequent bread count. increment count of distributed breads by 2.
     - If last element of the array is even then print the count of distributed breads.
     - If last element of the array is odd then print "NO".
 
