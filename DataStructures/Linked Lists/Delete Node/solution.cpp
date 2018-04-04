@@ -1,5 +1,12 @@
-
-//https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem
+/*
+    Problem : https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem
+    C++ 14
+    Approach : 
+        We simply need to iterate the linked list and then remove an element by adjusting the node pointers
+    
+    Time Complexity : O(n)
+    Space Complexity : O(1)
+*/
 /*
   Delete Node at a given position in a linked list 
   Node is defined as 
