@@ -20,5 +20,6 @@ Node* Delete(Node *head, int position)
     head->next = Delete(head->next,position-1);
     return head;
     }
-    
+ // This is a "method-only" submission.
+  // You only need to complete this method   
 }
