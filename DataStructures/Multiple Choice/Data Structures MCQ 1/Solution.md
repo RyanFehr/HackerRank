@@ -2,9 +2,9 @@
 
 If we have a tree of n nodes, how many edges will it have?
 
-[&nbsp;]&nbsp;&nbsp; 1 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                       [&nbsp;]&nbsp;&nbsp;  (n*(n-1))/2
+[&nbsp;&nbsp;]&nbsp;&nbsp; 1 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                       [&nbsp;&nbsp;]&nbsp;&nbsp;  (n*(n-1))/2
 
-[&nbsp;]&nbsp;&nbsp;(n*(n-1))&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;[x]&nbsp;&nbsp;  n-1
+[&nbsp;&nbsp;]&nbsp;&nbsp;(n*(n-1))&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;[X]&nbsp;&nbsp;  n-1
 
 **Explanation**: Correct answer is **n-1**. 
 
