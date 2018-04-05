@@ -34,8 +34,8 @@ class Solution
                 count += 2;
             }
 
-            //improvisation: Skip the next element if it is even
-            if (B[i + 1] % 2 == 0)
+            //improvisation: Keep skipping the next elements if they are even
+            while (i < B.Length - 1 && B[i + 1] % 2 == 0)
                 i++;
         }
 
