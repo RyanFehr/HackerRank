@@ -22,10 +22,11 @@
          7. Print all the elements of the sortedOutput (separated by space).
             
 
-         Time Complexity:  O(n) // there are two for loops which run n times each one after the other. Since the loops aren't nested
-                                //so efficiency will still be of order n.
+         Time Complexity:  O(n+k) // there are two for loops which run n times each one after the other. The loops aren't nested.
+                                //Then there is the third loop which runs 100 (= k) times in this case.
          
-         Space Complexity: O(n) //We require an additional array of size n to store the sorted output array.
+         Space Complexity: O(n+k) //We require an additional array of size n to store the sorted output array.
+                                  //Also, we require an additional array of size 100 (=k) to store the frequence of each number (from 0-99) in the input array. 
 
         */
 
