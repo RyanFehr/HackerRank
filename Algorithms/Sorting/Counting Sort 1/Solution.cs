@@ -12,16 +12,12 @@
          4. Print all the elements of the arroutput (separated by space).
             
 
-         Time Complexity:  O(n) // there is one for loop which runs n times. 
-                                // The second loop used for printing the elements of arroutput always runs 100 times irrespective of input size
-                                // so it can be ignored.
+         Time Complexity:  O(n+k) // there is one for loop which runs n times. 
+                                // The second loop used for printing the elements of arroutput runs 100 (= k) times irrespective of input size.
          
-         Space Complexity: O(1) //Space complexity doesn't  match the optimal O(1) solution as in C# you have to read the entire console line at a time (size n), 
-                            as it doesn't have a way to iteratively read in space delimited input. If there had been a Scanner like class which exists in Java 
-                            then it would have been possible to accomplish the same algorithm in O(1) space complexity.
-
-                            //the additional array of size 100 is required to store the frequency of each number from 0-99. But it is constant
-                              w.r.t. changing input so it can be ignored.
+         Space Complexity: O(k) //the additional array of size 100 (= k) is required to store the frequency of each number (from 0-99) in the input list. 
+        
+                  
         */
 
 using System;
