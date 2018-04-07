@@ -140,7 +140,7 @@
 |   | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations)| <ul><li>[Java](./Algorithms/Implementation/Flatland%20Space%20Stations/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 25| ||
 |   | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations)| <ul><li>[Java](./Algorithms/Implementation/Fair%20Rations/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 25| ||
 |   | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map)| <ul><li>[Java](./Algorithms/Implementation/Cavity%20Map/Solution.java)</li><ul> | _O(n^2)_ | _O(n^2)_ | Easy | 30| ||
-|   | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones)| <ul><li>[Java](./Algorithms/Implementation/Manasa%20and%20Stones/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 30| ||
+|   | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones)| <ul><li>[Java](./Algorithms/Implementation/Manasa%20and%20Stones/Solution.java)</li><li>[C#](./Algorithms/Implementation/Manasa%20and%20Stones/Solution.cs)</li><ul> | _O(n)_ | _O(1)_ | Easy | 30| ||
 |   | [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search)| <ul><li>[Java](./Algorithms/Implementation/The%20Grid%20Search/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Medium | 30| n = len(word)||
 |   | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs)| <ul><li>[Java](./Algorithms/Implementation/Happy%20Ladybugs/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 30| ||
 |   | [Strange Counter](https://www.hackerrank.com/challenges/strange-code)| <ul><li>[Java](./Algorithms/Implementation/Strange%20Counter/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 30| n = t ||
