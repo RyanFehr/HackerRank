@@ -52,7 +52,7 @@
 - [Advanced](https://github.com/RyanFehr/HackerRank#advanced)
 
 ## Mathematics ![MathematicsPoints]
-- Fundamentals
+- [Fundamentals](https://github.com/RyanFehr/HackerRank#fundamentals)
 - Number Theory
 - Combinatorics
 - Algebra
@@ -641,6 +641,11 @@
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+
+### Fundamentals
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|  |[Leonardo's Prime Factors](https://www.hackerrank.com/challenges/leonardo-and-prime/problem)| <ul><li>[C#](./Mathematics/Fundamentals/Leonardo's%20Prime%20Factors/Solution.cs)</li><ul> | _O(1)_ | _O(1)_| Easy | 10 | ||
 
 
 
