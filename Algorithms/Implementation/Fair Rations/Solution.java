@@ -36,8 +36,8 @@ Examples:
 [1 1 1 1 1 1 1 1 1 1 1 1 1] unsolvable
 
 
-
-O(n) inplace or O(n) space
+Time: O(n)
+Space: O(1)
 
 
 */
@@ -55,18 +55,16 @@ public class Solution {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int N = in.nextInt();
-        int B[] = new int[N];
-        for(int B_i=0; B_i < N; B_i++){
-            B[B_i] = in.nextInt();
-        }
-        
+               
         int bread = 0;
+        int currentBread = 0;
         
-        for(int i = 0; i < B.length; i++)
+        for(int i = 0; i < N; i++)
         {
-            if(i == B.length-1)//We have reached the last person
+            currentBread += in.nextInt();
+            if(i == N-1)//We have reached the last person
             {
-                if(B[i] % 2 == 1) //If last person ended with odd bread it is not possible
+                if(currentBread % 2 == 1) //If last person ended with odd bread it is not possible
                 {
                     System.out.println("NO");
                     System.exit(0);
@@ -79,12 +77,13 @@ public class Solution {
             }
             
             
-            if(B[i] % 2 == 1) //The current person has odd bread give them and the person behind them bread
+            if(currentBread % 2 == 1) //The current person has odd bread give them and the next person bread
             {
-                B[i] = B[i] + 1;
-                B[i+1] = B[i+1] +1; 
+                currentBread = 1;
                 bread += 2;
+                continue;
             }
+            currentBread = 0; // No extra bread was given out
         }
         
     }
