@@ -4,28 +4,33 @@
          .Net Framework Version: 4.7
          Tool Version : Visual Studio Community 2017
          Thoughts :
-         I didn't sort the input. Instead I created a look up of the input array. e.g. for the input test case # 1
 
+         Instead I created a dictionary look up (element,index) of the input array as I iterated through the elements. e.g. for the input test case # 0
+
+         4 (Sum to be found)
+         5 (number of input elements)
+         1 4 5 3 2
+
+         I created a look-up data structure as shown below for each value in the array during iteration:
+
+         1 - 0
+         4 - <ignored as a pair will not be possible in this case>
+         5 - <ignored as a pair will not be possible in this case>
+         3 - [Solution found at this element. Break further iteration]
+
+         Case # 1 has got duplicate elements. So how do you insert the duplicate values in dictionary?
+
+         4 (Sum to be found)
+         4 (number of input elements)
          2 2 4 3
-
-         I created a look-up data structure as shown below for each value in the array and the indexes of array where it was found:
-
-         2 - 0,1
-         4 - 2
-         3 - 3
-
-         Now it was straight forward. Let total money be m
-
-         - Start iterating the original array
-         - Let current icecream price be x
-         - Other icecream price will be m-x
-         - Search (m-x) entry in the look-up
-         - If (m-x) is found in the look-up then take out its index from look-up value and produce the final answer.
         
-        Note: A special handling while searching the look-up data structure is required as two icecreams can exist who have same price.
+         Duplicate value will have two cases:
+         - Either it will be part of the solution pair. So, you will get solution the moment you reach to the duplicate
+            element. So you will not need to insert it any way.
+         - If it is not part of the solution pair then you can simply ignore it.
 
          Time Complexity:  O(n) //there are no nested for loops.
-         Space Complexity: O(n) //an extra look-up is required
+         Space Complexity: O(n) //an extra look-up dictionary storage is required
                 
            
         */
@@ -35,62 +40,39 @@ using System.Collections.Generic;
 using System.Linq;
 class Solution
 {
+
     static int[] IcecreamParlor(int totalMoney, int[] icecreamPrices)
     {
         var boughtIcreamIndexes = new int[2];
-        var lookUp = icecreamPrices.Select((element, index) => new { element, index }).ToLookup(x => x.element, x => x.index);
-
+        var lookup = new Dictionary<int, int>();
         for (var i = 0; i < icecreamPrices.Length; i++)
         {
             if (icecreamPrices[i] < totalMoney)
             {
                 var otherIceCreamPrice = totalMoney - icecreamPrices[i];
-                if (icecreamPrices[i] == otherIceCreamPrice)
+                if (lookup.ContainsKey(otherIceCreamPrice))
                 {
-                    //check whether two flavors have got same price
-                    if (lookUp.Contains(otherIceCreamPrice))
+                    //solution found
+                    var indexOfOtherIcecream = lookup[otherIceCreamPrice];
+                    if (indexOfOtherIcecream < i)
                     {
-                        //there should be two icecream flavors of same price to be able to proceed
-                        var samePricedIcreamFlavors = lookUp[otherIceCreamPrice];
-                        var indexOfOtherIcecream = -1;
-                        if (samePricedIcreamFlavors.Count() > 1)
-                        {
-                            indexOfOtherIcecream = samePricedIcreamFlavors.Where(x => x != i).Single();
-                            if (indexOfOtherIcecream < i)
-                            {
-                                boughtIcreamIndexes[0] = indexOfOtherIcecream + 1;
-                                boughtIcreamIndexes[1] = i + 1;
-                            }
-                            else
-                            {
-                                boughtIcreamIndexes[0] = i + 1;
-                                boughtIcreamIndexes[1] = indexOfOtherIcecream + 1;
-                            }
-                            break;
-                        }
+                        boughtIcreamIndexes[0] = indexOfOtherIcecream + 1;
+                        boughtIcreamIndexes[1] = i + 1;
                     }
+                    else
+                    {
+                        boughtIcreamIndexes[0] = i + 1;
+                        boughtIcreamIndexes[1] = indexOfOtherIcecream + 1;
+                    }
+                    break;
                 }
                 else
                 {
-                    if (lookUp.Contains(otherIceCreamPrice))
-                    {
-                        var indexOfOtherIcecream = lookUp[otherIceCreamPrice].First();// hashMap[otherIceCreamPrice];
-                        if (indexOfOtherIcecream < i)
-                        {
-                            boughtIcreamIndexes[0] = indexOfOtherIcecream + 1;
-                            boughtIcreamIndexes[1] = i + 1;
-                        }
-                        else
-                        {
-                            boughtIcreamIndexes[0] = i + 1;
-                            boughtIcreamIndexes[1] = indexOfOtherIcecream + 1;
-                        }
-                        break;
-                    }
+                    if (!lookup.ContainsKey(icecreamPrices[i]))
+                        lookup.Add(icecreamPrices[i], i);
                 }
             }
         }
-
         return boughtIcreamIndexes;
     }
 
