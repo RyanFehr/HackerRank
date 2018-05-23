@@ -159,7 +159,7 @@
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |   | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string)| <ul><li>[Java](./Algorithms/Strings/Super%20Reduced%20String/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 10| ||
 |   | [camelCase](https://www.hackerrank.com/challenges/camelcase)| <ul><li>[Java](./Algorithms/Strings/camelCase/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 15| ||
-|   | [Two Characters](https://www.hackerrank.com/challenges/two-characters)| <ul><li>[Java](./Algorithms/Strings/Two%20Characters/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy| 15| ||
+|   | [Two Characters](https://www.hackerrank.com/challenges/two-characters)| <ul><li>[Java](./Algorithms/Strings/Two%20Characters/Solution.java)</li><li>[C#](./Algorithms/Strings/Two%20Characters/Solution.cs)</li><ul> | _O(n)_ | _O(n)_ | Easy| 15| ||
 |   | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1)| <ul><li>[Java](./Algorithms/Strings/Caesar%20Cipher/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 15| ||
 |   | [Caesar Cipher: Encryption](https://www.hackerrank.com/challenges/linkedin-practice-caesar-cipher)| <ul><li>[Java](./Algorithms/Strings/Caesar%20Cipher%20Encryption/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 40 | ||
 |   | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration)| <ul><li>[Java](./Algorithms/Strings/Mars%20Exploration/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 15| ||
