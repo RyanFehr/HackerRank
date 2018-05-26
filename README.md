@@ -165,7 +165,7 @@
 |   | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration)| <ul><li>[Java](./Algorithms/Strings/Mars%20Exploration/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 15| ||
 |   | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string)| <ul><li>[Java](./Algorithms/Strings/HackerRank%20in%20a20String!/Solution.java)</li> <li>[JS](./Algorithms/Strings/HackerRank%20in%20a20String!/Solution.js)</li><ul> | _O(n)_ | _O(1)_ | Easy | 20| ||
 |   | [Pangrams](https://www.hackerrank.com/challenges/pangrams)| <ul><li>[Java](./Algorithms/Strings/Pangrams/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 20| ||
-|   | [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string)| <ul><li>[Java](./Algorithms/Strings/Weighted%20Uniform%20Strings/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
+|   | [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string)| <ul><li>[Java](./Algorithms/Strings/Weighted%20Uniform%20Strings/Solution.java)</li><li>[C#](./Algorithms/Strings/Weighted%20Uniform%20Strings/Solution.cs)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers)| <ul><li>Java</li></ul> |  | | Easy | 20| ||
 |   | [Funny String](https://www.hackerrank.com/challenges/funny-string)| <ul><li>[Java](./Algorithms/Strings/Funny%20String/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 25| ||
 |   | [Gemstones](https://www.hackerrank.com/challenges/gem-stones)| <ul><li>[Java](./Algorithms/Strings/Gemstones/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
