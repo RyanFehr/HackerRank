@@ -241,7 +241,7 @@
 |   | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)| <ul><li>Java</li> <li>[C++](./Algorithms/Search/Missing%20Numbers/Solution.cpp)</li><ul> |  | | Easy | 45 | ||
 |   | [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss)| <ul><li>[Java](./Algorithms/Search/Minimum%20Loss/Solution.java)</li><ul> | _O(n log(n))_ | _O(n)_ | Medium | 35| ||
 |   | [KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard)| <ul><li>Java</li></ul> |  | | Medium | 35 | ||
-|   | [Pairs](https://www.hackerrank.com/challenges/pairs)| <ul><li>Java</li> <li>[C++](./Algorithms/Search/Pairs/Solution.cpp)</li><ul> | _O(n log(n))_ | _O(n)_ | Medium | 50 | ||
+|   | [Pairs](https://www.hackerrank.com/challenges/pairs)| <ul><li>Java</li> <li>[C++](./Algorithms/Search/Pairs/Solution.cpp)</li><li>[C#](./Algorithms/Search/Pairs/Solution.cs)</li><ul> | _O(n log(n))_ | _O(n)_ | Medium | 50 | ||
 |   | [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array)| <ul><li>Java</li> <li>[C++](./Algorithms/Search/SherlockandArray/Solution.cpp)</li><ul> |  | | Easy | 40 | ||
 |   | [Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum)| <ul><li>Java</li></ul> |  | | Hard | 65 | ||
 |   | [Connected Cells in a grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid)| <ul><li>Java</li></ul> |  | | Medium | 50 | ||
