@@ -171,7 +171,7 @@
 |   | [Gemstones](https://www.hackerrank.com/challenges/gem-stones)| <ul><li>[Java](./Algorithms/Strings/Gemstones/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)| <ul><li>[Java](./Algorithms/Strings/Alternating%20Characters/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 20| ||
 |   | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string)| <ul><li>[Java](./Algorithms/Strings/Beautiful%20Binary%20String/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 20| ||
-|   | [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery)| <ul><li>[Java](./Algorithms/Strings/The%20Love-Letter%20Mystery/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 20| ||
+|   | [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery)| <ul><li>[Java](./Algorithms/Strings/The%20Love-Letter%20Mystery/Solution.java)</li><li>[C#](./Algorithms/Strings/The%20Love-Letter%20Mystery/Solution.cs)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Determining DNA Health](https://www.hackerrank.com/challenges/determining-dna-health)| <ul><li>Java</li></ul> |  | | Hard | 50| ||
 |   | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index)| <ul><li>[Java](./Algorithms/Strings/Palindrome%20Index/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 25| ||
 |   | [Anagram](https://www.hackerrank.com/challenges/anagram)| <ul><li>[Java](./Algorithms/Strings/Anagram/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 25| ||
