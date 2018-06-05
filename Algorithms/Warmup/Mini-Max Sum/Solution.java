@@ -8,28 +8,54 @@ import java.util.regex.*;
 
 public class Solution {
 
-    public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
+    static void miniMaxSum(int[] arr) {
+        long[] a = new long[5];
         
-        long min = Long.MAX_VALUE;
-        long max = 0;
-        long sum = 0;
-        for(int i=0; i<5; i++)
-        {
-            long curr = in.nextLong();  
-            if(max < curr)
-            {
-                max = curr;
+        //Creating an array with the sum off each 4 elements of arr[]
+        for(int i = 0; i < arr.length; i++){
+            for(int j = 0; j < arr.length; j++){
+                if(j != i){
+                    a[i] += arr[j];
+                }
             }
-            if(min > curr)
-            {
-                min = curr;
-            }
-            
-            sum += curr;
         }
-        long minSum = sum - max;//Removes the largest of the 5 numbers to get the min sum
-        long maxSum = sum - min;//Removes the smallest of the 5 numbers to get the max sum
-        System.out.println(minSum + " " + maxSum);
+        
+        //Then find the max value of a[];
+        long max = 0;
+        for(int i = 0; i < arr.length; i++){
+            if(max < a[i]){
+                max = a[i];
+            }
+        }
+        
+        //Then find the min value of a[];
+        long min = max;
+        for(int i = 0; i < arr.length; i++){
+            if(min > a[i]){
+                min = a[i];
+            }
+        }
+        
+        //This is just a stupid way to it :)
+        System.out.println(min+" "+max);
+    }
+
+    private static final Scanner scanner = new Scanner(System.in);
+
+    public static void main(String[] args) {
+        int[] arr = new int[5];
+
+        String[] arrItems = scanner.nextLine().split(" ");
+        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+
+        for (int i = 0; i < 5; i++) {
+            int arrItem = Integer.parseInt(arrItems[i]);
+            arr[i] = arrItem;
+        }
+
+        miniMaxSum(arr);
+
+        scanner.close();
     }
 }
+
