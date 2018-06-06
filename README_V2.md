@@ -523,7 +523,7 @@
 |   | [Pangrams](https://www.hackerrank.com/challenges/pangrams)| [Java](./Algorithms/Strings/Pangrams/Solution.java) |  | | Easy | 20| ||
 |   | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)| [Java](./Algorithms/Implementation/Climbing%20the%20Leaderboard/Solution.java) | _O(n+m)_ | _(n)_ | Easy| 20| ||
 |   | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams)| [Java](./Algorithms/Implementation/Strings%20Making%20Anagrams/Solution.java) | _O(&#124;a&#124;+&#124;b&#124;)_ | _O(1)_ | Easy | 30| ||
-|   | [Enryption](https://www.hackerrank.com/challenges/encryption)| [Java](./Algorithms/Implementation/Encyrption/Solution.java) |  | | Medium | 30| ||
+|   | [Enryption](https://www.hackerrank.com/challenges/encryption)| [Java](./Algorithms/Implementation/Encryption/Solution.java) |  | | Medium | 30| ||
 |   | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams)| [Java](./Algorithms/Strings/Making%20Anagrams/Solution.java) |  | | Easy | 30| ||
 |   | [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers)| [Java](./Algorithms/Implementation/Modified%20Kaprekar%20Numbers/Solution.java) |  | | Easy | 30| ||
 |   | [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2)| [Java](./Algorithms/Implementation/Queen's%20Attack%20II/Solution.java) | _O(k)_ | _O(1)_ | Medium | 30| ||
@@ -536,7 +536,7 @@
 |   | [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted)| Java |  | | Medium | 50| ||
 |   | [Beautiful Quadruples](https://www.hackerrank.com/challenges/xor-quadruples)| Java |  | | Medium | 50| ||
 |   | [HackerRank City](https://www.hackerrank.com/challenges/hr-city)| Java |  | | Medium | 50| ||
-|   | [Maximixing the Function](https://www.hackerrank.com/challenges/maximizing-the-function)| Java |  | | Hard | 70| ||
+|   | [Maximizing the Function](https://www.hackerrank.com/challenges/maximizing-the-function)| Java |  | | Hard | 70| ||
 |   | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo)| Java |  | | Hard | 80| ||
 |   | [Gridland Provinces](https://www.hackerrank.com/challenges/gridland-provinces)| Java |  | | Hard | 80| ||
 |   | [Fighting Pits](https://www.hackerrank.com/challenges/fighting-pits)| Java |  | | Hard | 80| ||
