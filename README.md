@@ -236,7 +236,7 @@
 |   | [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)| <ul><li>[Java](./Algorithms/Search/Ice%20Cream%20Parlor/Solution.java)</li><li>[C#](./Algorithms/Search/Ice%20Cream%20Parlor/Solution.cs)</li><ul> | _O(n)_ | _O(n)_ | Easy | 30 | ||
 |   | [Binary Search: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor)| <ul><li>[Java](./Algorithms/Search/Binary%20Search%20Ice%20Cream%20Parlor/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 35 | ||
 |   | [Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro)| <ul><li>Java</li></ul> |  | | Medium | 25 | ||
-|   | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)| <ul><li>Java</li> <li>[C++](./Algorithms/Search/Missing%20Numbers/Solution.cpp)</li><ul> |  | | Easy | 45 | ||
+|   | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)| <ul><li>Java</li> <li>[C++](./Algorithms/Search/Missing%20Numbers/Solution.cpp)</li><li>[C#](./Algorithms/Search/Missing%20Numbers/Solution.cs)</li><ul> | _O(n)_ | _O(n)_ | Easy | 45 | ||
 |   | [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss)| <ul><li>[Java](./Algorithms/Search/Minimum%20Loss/Solution.java)</li><ul> | _O(n log(n))_ | _O(n)_ | Medium | 35| ||
 |   | [KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard)| <ul><li>Java</li></ul> |  | | Medium | 35 | ||
 |   | [Pairs](https://www.hackerrank.com/challenges/pairs)| <ul><li>Java</li> <li>[C++](./Algorithms/Search/Pairs/Solution.cpp)</li><ul> | _O(n log(n))_ | _O(n)_ | Medium | 50 | ||
