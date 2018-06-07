@@ -13,8 +13,9 @@
          Gotchas:
           <None>
 
-         Time Complexity:  O(n) //length of bigger string out of the two input strings.
-         Space Complexity: O(m + n) //both input strings need to be stored in memory for processing.
+         Time Complexity:  O(n) // actually it is O(m+n) i.e. the lengh of sum of two strings. But even in worst case
+                                    if both strings are of length n = 10^4 then it will be O(2n) ~ O(n)
+         Space Complexity: O(1) //No additional space required.
 */
 using System;
 using System.Collections.Generic;
@@ -23,34 +24,38 @@ class Solution
 {
     static void Main(string[] args)
     {
-        var inputText1 = Console.ReadLine();
-        var inputText2 = Console.ReadLine();
-        var letterMap = new Dictionary<char, int>();
-        var maxLength = inputText1.Length > inputText2.Length ? inputText1.Length : inputText2.Length;
+        var nextChar = Console.Read();
+            var letterMap = new Dictionary<int, int>();
 
-        for (var j = 0; j < maxLength; j++)
-        {
-            if (j < inputText1.Length)
+            //special handling for hackerrank execution environment.
+            //on my pc I compare it with 13 which is ascii code of carriage return '\r'
+            //10 is ascii code of '\n'
+            while (nextChar != 10)
             {
-                if (letterMap.ContainsKey(inputText1[j]))
-                    letterMap[inputText1[j]]++;
+                if (letterMap.ContainsKey(nextChar))
+                    letterMap[nextChar]++;
                 else
-                    letterMap.Add(inputText1[j], 1);
+                    letterMap.Add(nextChar, 1);
+                nextChar = Console.Read();
             }
 
-            if (j < inputText2.Length)
+            nextChar = Console.Read();
+            //special handling for hackerrank execution environment.
+            //on my pc I compare it with 13 which is ascii code of carriage return '\r'
+            //Hacker rank treats -1 as end of file which marks the end of second string.
+            while (nextChar != -1)
             {
-                if (letterMap.ContainsKey(inputText2[j]))
-                    letterMap[inputText2[j]]--;
+                if (letterMap.ContainsKey(nextChar))
+                    letterMap[nextChar]--;
                 else
-                    letterMap.Add(inputText2[j], -1);
+                    letterMap.Add(nextChar, -1);
+                nextChar = Console.Read();
             }
-        }
 
-        var totalDiffs = 0;
-        foreach (var item in letterMap)
-            totalDiffs += Math.Abs(item.Value);
+            var totalDiffs = 0;
+            foreach (var item in letterMap)
+                totalDiffs += Math.Abs(item.Value);
 
-        Console.WriteLine(totalDiffs);
+            Console.WriteLine(totalDiffs);
     }
 }
