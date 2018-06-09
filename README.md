@@ -177,7 +177,7 @@
 |   | [Anagram](https://www.hackerrank.com/challenges/anagram)| <ul><li>[Java](./Algorithms/Strings/Anagram/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 25| ||
 |   | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams)| <ul><li>[Java](./Algorithms/Strings/Making%20Anagrams/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 30| ||
 |   | [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones)| <ul><li>[Java](./Algorithms/Strings/Game%20of%20Thrones-I/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 30| ||
-|   | [Two Strings](https://www.hackerrank.com/challenges/two-strings)| <ul><li>[Java](./Algorithms/Strings/Two%20Strings/Solution.java)</li><ul> | _O(&#124;a&#124; + &#124;b&#124;)_ | _O(1)_ | Easy | 25| ||
+|   | [Two Strings](https://www.hackerrank.com/challenges/two-strings)| <ul><li>[Java](./Algorithms/Strings/Two%20Strings/Solution.java)</li><li>[C#](./Algorithms/Strings/Two%20Strings/Solution.cs)</li><ul> | _O(&#124;a&#124; + &#124;b&#124;)_ | _O(1)_ | Easy | 25| a and b are lengths of the input strings ||
 |   | [String Construction](https://www.hackerrank.com/challenges/string-construction)| <ul><li>[Java](./Algorithms/Strings/String%20Construction/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 25| ||
 |   | [Sherlock and Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string)| <ul><li>[Java](./Algorithms/Strings/Sherlock%20and%20Valid%20String/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Hard | 100| ||
 |   | [Richie Rich](https://www.hackerrank.com/challenges/richie-rich)| <ul><li>Java</li> <li>[Python3](./Algorithms/Strings/Richie%20Rich/solution.py)</li><ul> | _O(n)_  | _O(n)_ | Medium | 30| ||
