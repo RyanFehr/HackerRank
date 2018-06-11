@@ -105,11 +105,15 @@ class Solution
 
     private static bool IsItLargestNDigitNumber(string textPart, int numberWidth)
     {
-        var origNum = long.Parse(textPart);
-        var successorNum = origNum + 1;
-        if (successorNum.ToString().Length - numberWidth == 1)
-            return true;
-        else
-            return false;
+        var isLargest = true;
+		for (var i = 0; i < textPart.Length; i++)
+		{
+			if (textPart[i] != '9')
+			{
+				isLargest = false;
+				break;
+			}
+		}
+		return isLargest;
     }
 }
