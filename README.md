@@ -585,6 +585,7 @@
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |  |[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)| <ul><li>[C++](./DataStructures/Arrays/Arrays%20-%20DS/Solution.cpp)</li><ul> | _O(n)_ | _O(n)_| Easy | 10 | ||
 |  |[2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)| <ul><li>[C++](./DataStructures/Arrays/2D%20Array%20-%20DS/Solution.cpp)</li><ul> | _O(1)_ | _O(1)_| Easy | 15 | ||
+|  |[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)| <ul><li>[C#](./DataStructures/Arrays/Sparse%20Arrays/Solution.cs)</li><ul> | _O(n + q)_ | _O(n + q)_| Medium | 25 | n = number of input strings, q = number of queries ||
 
 ### Linked Lists
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
