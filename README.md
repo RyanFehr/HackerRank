@@ -636,7 +636,7 @@
 ### Trie
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+|  |[Contacts](https://www.hackerrank.com/challenges/contacts/problem)| <ul><li>[C#](./DataStructures/Trie/Contacts/Solution.cs)</li><ul> | _Add - O(L), Find - O(1)_ | _Add - O(L), Find - O(1)_| Medium | 40 | L = Length of a contact name ||
 
 ### Advanced
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
