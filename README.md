@@ -232,7 +232,7 @@
 ### Search
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters)| <ul><li>[JS](./Algorithms/Search/Hackerland%20Radio%20Transmitters/Solution.js)</li><ul> | _O(n log(n))_ | _O(1)_ | Easy | 15 | ||
+|   | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters)| <ul><li>[JS](./Algorithms/Search/Hackerland%20Radio%20Transmitters/Solution.js)</li><li>[C#](./Algorithms/Search/Hackerland%20Radio%20Transmitters/Solution.cs)</li><ul> | _O(n log(n))_ | _O(n)_ | Medium | 25 | ||
 |   | [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)| <ul><li>[Java](./Algorithms/Search/Ice%20Cream%20Parlor/Solution.java)</li><li>[C#](./Algorithms/Search/Ice%20Cream%20Parlor/Solution.cs)</li><ul> | _O(n)_ | _O(n)_ | Easy | 30 | ||
 |   | [Binary Search: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor)| <ul><li>[Java](./Algorithms/Search/Binary%20Search%20Ice%20Cream%20Parlor/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 35 | ||
 |   | [Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro)| <ul><li>Java</li></ul> |  | | Medium | 25 | ||
