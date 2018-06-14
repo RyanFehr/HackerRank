@@ -1,66 +1,121 @@
 /*
          Problem: https://www.hackerrank.com/challenges/contacts/problem
          C# Language Version: 6.0
-         .Net Framework Version: 4.7
+         .NET Framework Version: 4.7
          Tool Version : Visual Studio Community 2017
          Thoughts (Key points in algorithm):
-         -  First of all, I tried it with conventional brute force way using Trie data structure but it didn't work out. Most of 
-            the test cases result in time-out.
-         - Brute-force algorithm: First create a simple Trie structure and keep adding words into it. Then, when you've to search 
-            the count of a given string prefix. For that first check whether the prefix exists in the Trie or not. Once the prefix
-            is found then start a scan from the last node where the last character of the prefix fragment was found e.g. if prefix
-            fragment is "hac" then start from the node containing 'c' letter. From there on count the number of nodes who have 
-            endOfWord marker set to true. This scanning has to continue untill all leaf nodes are met.
-         - Currently implemented algorithm:
-            => Take the input string of length L. Find all the prefix substrings of the input starting from length 1 to L. e.g.
-                for string hack we will have 'h','ha','hac','hack'
-            => Add each substring into a hashmap. Set the value field of each hashmap entry to 1.
-            => While adding a substring if it already exists in the hashmap then increment its count by 1.
-            => For finding the count of words having the prefix fragment, make a scan in the hashmap for it and print its count.
-            => if prefix fragment is not present in hashmap then print 0.
+         - Create the conventional Trie structure . 
+         - Add every word into the Trie with letters of the word being a node.
+         - Addtionally for this problem , we also have to maintain a count at each node. Everytime a character node is getting
+           added or repeated then increment its count by 1. e.g.
+            => add 'hack'. Then four nodes will get added with count set to 1 at each node.
+            => now, add 'hacker'. Then for first four nodes 'hack', the same existing nodes will be used with their counts bumped
+                to 2. Two new nodes for 'er' will be added with count set to 1.
+         - During find operation, just find the word in the Trie and print the count in the node of the last character.
+            
 
-         Gotchas:
-          <None>
+        Gotchas/Caveats:
+          - This is a conventional Trie structure but given the demand of the question it will work even if we don't have
+            endOfWord marker flag in a Trie node.
+          - Initially I had taken a Trie node as a struct. It gets messed up later when you've to increment the count
+            on any Trie node. The concept to know is that structs are immutable in C#. Then I had to convert struct 
+            into class and then everything worked like a charm.
 
-         Time Complexity: Add operation -  O(L), find operation - O(1). L is length of string.
-         Space Complexity: Add operation -  O(L), find operation - O(1) //We create a hashmap containing L substrings of any input string.
+         Time Complexity: Add operation -  O(L), find operation - O(L). L is length of string.
+         Space Complexity: Add operation -  O(L), find operation - O(1) //We need to create a new Trie Node for each letter in the input string during Add operation.
          
          Note: n, the number of queries has no relevance in deciding time or space complexity of this problem. The problem is
-                more centered around add and search operations.
+                more centered around add and search operations in a Trie structure.
         */
-using System;
-using System.Collections.Generic;
 
-class Solution
-{
-    static void Main(string[] args)
-    {
-        var substringMap = new Dictionary<string, int>();
+using System;
+
+class Solution {
+    static void Main(string[] args) {
         var operationCount = int.Parse(Console.ReadLine());
-        for (var i = 0; i < operationCount; i++)
-        {
-            var operation = Console.ReadLine();
-            var splits = operation.Split(' ');
-            var operationType = splits[0];
-            var word = splits[1];
-            if (operationType == "add")
+            var root = new TrieNode(char.MinValue, 0);
+            for (var i = 0; i < operationCount; i++)
             {
-                for (var j = 1; j <= word.Length; j++)
+                var operation = Console.ReadLine();
+                var splits = operation.Split(' ');
+                var operationType = splits[0];
+                var word = splits[1];
+                if (operationType == "add")
+                    AddTrieNode(root, word);
+                else
                 {
-                    var subString = word.Substring(0, j);
-                    if (substringMap.ContainsKey(subString))
-                        substringMap[subString]++;
-                    else
-                        substringMap.Add(subString, 1);
+                    var count = GetWordCountFromTrie(root, word);
+                    Console.WriteLine(count);
                 }
             }
-            else
+    }
+    
+    private static void AddTrieNode(TrieNode root, string word)
+    {
+            var currentPointer = root;
+            //insert word into Trie
+            for (int i = 0; i < word.Length; i++)
             {
-                if (substringMap.ContainsKey(word))
-                    Console.WriteLine(substringMap[word]);
+                if (currentPointer.Children[word[i] - 97] != null)
+                {
+                    currentPointer = currentPointer.Children[word[i] - 97];
+                    currentPointer.Count++;
+                }
                 else
-                    Console.WriteLine(0);
+                {
+                    TrieNode newNode;
+                    if (i == word.Length - 1)
+                        newNode = new TrieNode(word[i],1);
+                    else
+                        newNode = new TrieNode(word[i],1);
+
+                    //make the new node a child of currentPointer
+                    currentPointer.Children[word[i] - 97] = newNode;
+
+                    //set currentPointer to new node.
+                    currentPointer = newNode;
+                }
             }
         }
-    }
+    
+    private static int GetWordCountFromTrie(TrieNode trieRoot, string word)
+    {
+            var wordCount = 0;
+            var i = 0;
+            var lastNode = trieRoot;
+            for (; i < word.Length; i++)
+            {
+                if (lastNode.Children[word[i] - 97] != null)
+                {
+                    lastNode = lastNode.Children[word[i] - 97];
+                    continue;
+                }
+                else
+                    break;
+            }
+
+            if (i == word.Length)
+                //I've the track of last node where the desired word fragment was found.
+                wordCount = lastNode.Count;
+            else
+                wordCount = 0;
+
+            return wordCount;
+        }
+    
+    
+}
+
+public class TrieNode
+{
+        public char NodeChar { get; }
+        public int  Count { get; set; }
+        public TrieNode[] Children { get; }
+
+        public TrieNode(char nodeChar,int count)
+        {
+            Count = count;
+            NodeChar = nodeChar;
+            Children = new TrieNode[26];
+        }
 }
