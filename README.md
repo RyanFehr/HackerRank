@@ -14,7 +14,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java/JS/Python/C++/CSharp-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-09/15/2017-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-05/01/2018-brightgreen.svg">
 </p>
 
 
@@ -52,7 +52,7 @@
 - [Advanced](https://github.com/RyanFehr/HackerRank#advanced)
 
 ## Mathematics ![MathematicsPoints]
-- Fundamentals
+- [Fundamentals](https://github.com/RyanFehr/HackerRank#fundamentals)
 - Number Theory
 - Combinatorics
 - Algebra
@@ -93,7 +93,7 @@
 |   | [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar)| <ul><li>[Java](./Algorithms/Implementation/Birthday%20Chocolate/Solution.java)</li> <li>[C#](./Algorithms/Implementation/Birthday%20Chocolate/Solution.cs)</li><ul> | _O(n)_ | _O(1)_ | Easy| 10| ||
 |   | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)| <ul><li>[Java](./Algorithms/Implementation/Breaking%20the%20Records/Solution.java)</li> <li>[C#](./Algorithms/Implementation/Breaking%20the%20Records/Solution.cs)</li><ul> | _O(n)_ | _O(1)_ | Easy| 10| ||
 |   | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds)| <ul><li>[Java](./Algorithms/Implementation/Migratory%20Birds/Solution.java)</li> <li>[JS](./Algorithms/Implementation/Migratory%20Birds/Solution.js)</li><li>[C#](./Algorithms/Implementation/Migratory%20Birds/Solution.cs)</li><ul> | _O(n)_ | _O(1)_ | Easy| 10| ||
-|   | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer)| <ul><li>[Java](./Algorithms/Implementation/Day%20Of%20The%20Programmer/Solution.java)</li><ul> | _O(1)_ | _O(1)_ | Easy| 15| ||
+|   | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer)| <ul><li>[Java](./Algorithms/Implementation/Day%20Of%20The%20Programmer/Solution.java)</li><li>[C#](./Algorithms/Implementation/Day%20Of%20The%20Programmer/Solution.cs)</li><ul> | _O(1)_ | _O(1)_ | Easy| 15| ||
 |   | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit)| <ul><li>[Java](./Algorithms/Implementation/Bon%20Appetit/Solution.java)</li><li>[C#](./Algorithms/Implementation/Bon%20Appetit/Solution.cs)</li><ul> | _O(n)_ | _O(1)_ | Easy| 10| ||
 |   | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)| <ul><li>[Java](./Algorithms/Implementation/Sock%20Merchant/Solution.java)</li> <li>[C#](./Algorithms/Implementation/Sock%20Merchant/Solution.cs)</li><ul> | _O(n)_ | _O(n)_ | Easy| 10| ||
 |   | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)| <ul><li>[Java](./Algorithms/Implementation/Drawing%20Book/Solution.java)</li> <li>[C#](./Algorithms/Implementation/Drawing%20Book/Solution.cs)</li><ul> | _O(1)_ | _O(1)_ | Easy| 10| ||
@@ -136,11 +136,11 @@
 |   | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)| <ul><li>[Java](./Algorithms/Implementation/The%20Time%20in%20Words/Solution.java)</li><li>[C#](./Algorithms/Implementation/The%20Time%20in%20Words/Solution.cs)</li><ul> | _O(1)_ | _O(1)_ | Medium | 25| ||
 |   | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)| <ul><li>[Java](./Algorithms/Implementation/Chocolate%20Feast/Solution.java)</li><li>[C#](./Algorithms/Implementation/Chocolate%20Feast/Solution.cs)</li><ul> | _O(log(n))_ | _O(1)_ | Easy | 25| Base of logarithmic time complexity is m ||
 |   | [Service Lane](https://www.hackerrank.com/challenges/service-lane)| <ul><li>[Java](./Algorithms/Implementation/Service%20Lane/Solution.java)</li><li>[C#](./Algorithms/Implementation/Service%20Lane/Solution.cs)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
-|   | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)| <ul><li>[Java](./Algorithms/Implementation/Lisa's%20Workbook/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 25| ||
-|   | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations)| <ul><li>[Java](./Algorithms/Implementation/Flatland%20Space%20Stations/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 25| ||
-|   | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations)| <ul><li>[Java](./Algorithms/Implementation/Fair%20Rations/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 25| ||
-|   | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map)| <ul><li>[Java](./Algorithms/Implementation/Cavity%20Map/Solution.java)</li><ul> | _O(n^2)_ | _O(n^2)_ | Easy | 30| ||
-|   | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones)| <ul><li>[Java](./Algorithms/Implementation/Manasa%20and%20Stones/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 30| ||
+|   | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)| <ul><li>[Java](./Algorithms/Implementation/Lisa's%20Workbook/Solution.java)</li><li>[C#](./Algorithms/Implementation/Lisa's%20Workbook/Solution.cs)</li><ul> | _O(n)_ | _O(1)_ | Easy | 25| ||
+|   | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations)| <ul><li>[Java](./Algorithms/Implementation/Flatland%20Space%20Stations/Solution.java)</li><li>[C#](./Algorithms/Implementation/Flatland%20Space%20Stations/Solution.cs)</li><ul> | _O(n)_ | _O(n)_ | Easy | 25| ||
+|   | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations)| <ul><li>[Java](./Algorithms/Implementation/Fair%20Rations/Solution.java)</li><li>[C#](./Algorithms/Implementation/Fair%20Rations/Solution.cs)</li><ul> | _O(n)_ | _O(1)_ | Easy | 25| ||
+|   | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map)| <ul><li>[Java](./Algorithms/Implementation/Cavity%20Map/Solution.java)</li><li>[C#](./Algorithms/Implementation/Cavity%20Map/Solution.cs)</li><ul> | _O(n^2)_ | _O(n^2)_ | Easy | 30| ||
+|   | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones)| <ul><li>[Java](./Algorithms/Implementation/Manasa%20and%20Stones/Solution.java)</li><li>[C#](./Algorithms/Implementation/Manasa%20and%20Stones/Solution.cs)</li><ul> | _O(n)_ | _O(1)_ | Easy | 30| ||
 |   | [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search)| <ul><li>[Java](./Algorithms/Implementation/The%20Grid%20Search/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Medium | 30| n = len(word)||
 |   | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs)| <ul><li>[Java](./Algorithms/Implementation/Happy%20Ladybugs/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 30| ||
 |   | [Strange Counter](https://www.hackerrank.com/challenges/strange-code)| <ul><li>[Java](./Algorithms/Implementation/Strange%20Counter/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 30| n = t ||
@@ -157,14 +157,15 @@
 ### Strings
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string)| <ul><li>[Java](./Algorithms/Strings/Super%20Reduced%20String/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 10| ||
-|   | [camelCase](https://www.hackerrank.com/challenges/camelcase)| <ul><li>[Java](./Algorithms/Strings/camelCase/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 15| ||
-|   | [Two Characters](https://www.hackerrank.com/challenges/two-characters)| <ul><li>[Java](./Algorithms/Strings/Two%20Characters/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy| 15| ||
-|   | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1)| <ul><li>[Java](./Algorithms/Strings/Caesar%20Cipher/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 15| ||
+|   | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string)| <ul><li>[Java](./Algorithms/Strings/Super%20Reduced%20String/Solution.java)</li><li>[C#](./Algorithms/Strings/Super%20Reduced%20String/Solution.cs)</li><ul> | _O(n)_ | _O(n)_ | Easy | 10| ||
+|   | [camelCase](https://www.hackerrank.com/challenges/camelcase)| <ul><li>[Java](./Algorithms/Strings/camelCase/Solution.java)</li><li>[C#](./Algorithms/Strings/camelCase/Solution.cs)</li><ul> | _O(n)_ | _O(1)_ | Easy | 15| ||
+|   | [Strong Password](https://www.hackerrank.com/challenges/strong-password)| <ul><li>[C#](./Algorithms/Strings/Strong%20Password/Solution.cs)</li><ul> | _O(n)_ | _O(1)_ | Easy | 15| ||
+|   | [Two Characters](https://www.hackerrank.com/challenges/two-characters)| <ul><li>[Java](./Algorithms/Strings/Two%20Characters/Solution.java)</li><li>[C#](./Algorithms/Strings/Two%20Characters/Solution.cs)</li><ul> | _O(n)_ | _O(n)_ | Easy| 15| ||
+|   | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1)| <ul><li>[Java](./Algorithms/Strings/Caesar%20Cipher/Solution.java)</li><li>[C#](./Algorithms/Strings/Caesar%20Cipher/Solution.cs)</li><ul> | _O(n)_ | _O(n)_ | Easy | 15| ||
 |   | [Caesar Cipher: Encryption](https://www.hackerrank.com/challenges/linkedin-practice-caesar-cipher)| <ul><li>[Java](./Algorithms/Strings/Caesar%20Cipher%20Encryption/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 40 | ||
-|   | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration)| <ul><li>[Java](./Algorithms/Strings/Mars%20Exploration/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 15| ||
-|   | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string)| <ul><li>[Java](./Algorithms/Strings/HackerRank%20in%20a20String!/Solution.java)</li> <li>[JS](./Algorithms/Strings/HackerRank%20in%20a20String!/Solution.js)</li><ul> | _O(n)_ | _O(1)_ | Easy | 20| ||
-|   | [Pangrams](https://www.hackerrank.com/challenges/pangrams)| <ul><li>[Java](./Algorithms/Strings/Pangrams/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 20| ||
+|   | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration)| <ul><li>[Java](./Algorithms/Strings/Mars%20Exploration/Solution.java)</li><li>[C#](./Algorithms/Strings/Mars%20Exploration/Solution.cs)</li><ul> | _O(n)_ | _O(1)_ | Easy | 15| ||
+|   | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string)| <ul><li>[Java](./Algorithms/Strings/HackerRank%20in%20a20String!/Solution.java)</li> <li>[JS](./Algorithms/Strings/HackerRank%20in%20a20String!/Solution.js)</li><li>[C#](./Algorithms/Strings/HackerRank%20in%20a20String!/Solution.cs)</li><ul> | _O(n)_ | _O(1)_ | Easy | 20| ||
+|   | [Pangrams](https://www.hackerrank.com/challenges/pangrams)| <ul><li>[Java](./Algorithms/Strings/Pangrams/Solution.java)</li><li>[C#](./Algorithms/Strings/Pangrams/Solution.cs)</li><ul> | _O(n)_ | _O(1)_ | Easy | 20| ||
 |   | [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string)| <ul><li>[Java](./Algorithms/Strings/Weighted%20Uniform%20Strings/Solution.java)</li><li>[C#](./Algorithms/Strings/Weighted%20Uniform%20Strings/Solution.cs)</li><ul> | _O(n)_ | _O(n)_ | Easy | 20| ||
 |   | [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers)| <ul><li>Java</li></ul> |  | | Easy | 20| ||
 |   | [Funny String](https://www.hackerrank.com/challenges/funny-string)| <ul><li>[Java](./Algorithms/Strings/Funny%20String/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 25| ||
@@ -208,41 +209,38 @@
 ### Sorting
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro)| <ul><li>[Java](./Algorithms/Sorting/Intro%20to%20Tutorial%20Challenges/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 30| ||
-|   | [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1)| <ul><li>[Java](./Algorithms/Sorting/Insertion%20Sort%20-%20Part%201/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 30 | ||
-|   | [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2)| <ul><li>[Java](./Algorithms/Sorting/Insertion%20Sort%20-%20Part%202/Solution.java)</li><ul> | _O(n^2)_ | _O(1)_ | Easy | 30 | ||
-|   | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant)| <ul><li>[Java](./Algorithms/Sorting/Correctness%20and%20the%20Loop%20Invariant/Solution.java)</li><ul> | _O(n^2)_ | _O(1)_ | Easy | 30 | ||
-|   | [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime)| <ul><li>[Java](./Algorithms/Sorting/Running%20Time%20of%20Algorithms/Solution.java)</li><ul> | _O(n^2)_ | _O(1)_ | Easy | 30 | ||
-|   | [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1)| <ul><li>[Java](./Algorithms/Sorting/Quicksort%201%20-%20Partition/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 10| ||
-|   | [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2)| <ul><li>[Java](./Algorithms/Sorting/Quicksort%202%20-%20Sorting/Solution.java)</li><ul> | _O(n^2)_ | _O(n)_ | Easy | 30| ||
+|   | [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro)| <ul><li>[Java](./Algorithms/Sorting/Intro%20to%20Tutorial%20Challenges/Solution.java)</li><li>[C#](./Algorithms/Sorting/Intro%20to%20Tutorial%20Challenges/Solution.cs)</li><ul> | _O(n)_ | _O(1)_ | Easy | 30| ||
+|   | [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1)| <ul><li>[Java](./Algorithms/Sorting/Insertion%20Sort%20-%20Part%201/Solution.java)</li><li>[C#](./Algorithms/Sorting/Insertion%20Sort%20-%20Part%201/Solution.cs)</li><ul> | _O(n)_ | _O(1)_ | Easy | 30 | ||
+|   | [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2)| <ul><li>[Java](./Algorithms/Sorting/Insertion%20Sort%20-%20Part%202/Solution.java)</li><li>[C#](./Algorithms/Sorting/Insertion%20Sort%20-%20Part%202/Solution.cs)</li><ul> | _O(n^2)_ | _O(1)_ | Easy | 30 | ||
+|   | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant)| <ul><li>[Java](./Algorithms/Sorting/Correctness%20and%20the%20Loop%20Invariant/Solution.java)</li><li>[C#](./Algorithms/Sorting/Correctness%20and%20the%20Loop%20Invariant/Solution.cs)</li><ul> | _O(n^2)_ | _O(1)_ | Easy | 30 | ||
+|   | [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime)| <ul><li>[Java](./Algorithms/Sorting/Running%20Time%20of%20Algorithms/Solution.java)</li><li>[C#](./Algorithms/Sorting/Running%20Time%20of%20Algorithms/Solution.cs)</li><ul> | _O(n^2)_ | _O(1)_ | Easy | 30 | ||
+|   | [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1)| <ul><li>[Java](./Algorithms/Sorting/Quicksort%201%20-%20Partition/Solution.java)</li><li>[C#](./Algorithms/Sorting/Quicksort%201%20-%20Partition/Solution.cs)</li><ul> | _O(n)_ | _O(n)_ | Easy | 10| ||
+|   | [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2)| <ul><li>[Java](./Algorithms/Sorting/Quicksort%202%20-%20Sorting/Solution.java)</li><li>[C#](./Algorithms/Sorting/Quicksort%202%20-%20Sorting/Solution.cs)</li><ul> | _O(n^2)_ | _O(n)_ | Easy | 30| ||
 |   | [Quicksort In-Place](https://www.hackerrank.com/challenges/quicksort3)| <ul><li>[Java](./Algorithms/Sorting/Quicksort%20In-Place/Solution.java)</li><ul> | _O(n^2)_ | _O(log(n))_ | Medium| 35| ||
 |   | [Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4)| <ul><li>[Java](./Algorithms/Sorting/Running%20Time%20of%20Quicksort/Solution.java)</li><ul> | _O(n log(n))_ | _O(log(n))_ | Easy | 35| ||
-|   | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1)| <ul><li>[Java](./Algorithms/Sorting/Counting%20Sort%201/Solution.java)</li><ul> | _O(n+k)_ | _O(k)_ | Easy | 30| ||
-|   | [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2)| <ul><li>[Java](./Algorithms/Sorting/Counting%20Sort%202/Solution.java)</li><ul> | _O(n+k)_ | _O(k)_ | Easy | 30| ||
+|   | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1)| <ul><li>[Java](./Algorithms/Sorting/Counting%20Sort%201/Solution.java)</li><li>[C#](./Algorithms/Sorting/Counting%20Sort%201/Solution.cs)</li><ul> | _O(n+k)_ | _O(k)_ | Easy | 30| value of k in this problem is 100  ||
+|   | [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2)| <ul><li>[Java](./Algorithms/Sorting/Counting%20Sort%202/Solution.java)</li><li>[C#](./Algorithms/Sorting/Counting%20Sort%202/Solution.cs)</li><ul> | _O(n+k)_ | _O(n+k)_ | Easy | 30| Value of k is 100 in this problem. ||
 |   | [Counting Sort 3](https://www.hackerrank.com/challenges/countingsort3)| <ul><li>[Java](./Algorithms/Sorting/Counting%20Sort%203/Solution.java)</li><ul> | _O(n+k)_ | _O(k)_ | Easy | 30| ||
-|   | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4)| <ul><li>[Java](./Algorithms/Sorting/The%20Full%20Counting%20Sort/Solution.java)</li><ul> | _O(n+k)_ | _O(k)_ | Medium | 40| ||
-|   | [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk)| <ul><li>[Java](./Algorithms/Sorting/Marc's%20Cakewalk/Solution.java)</li><ul> | _O(n + k)_ | _O(k)_ | Easy | 15| ||
-|   | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array)| <ul><li>[Java](./Algorithms/Sorting/Minimum%20Absolute%20Difference%20in%20an%20Array/Solution.java)</li> <li>[JS](./Algorithms/Sorting/Minimum%20Absolute%20Difference%20in%20an%20Array/Solution.js)</li><ul> | _O(n log(n))_ | _O(1)_ | Easy | 15| ||
-|   | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance)| <ul><li>[Java](./Algorithms/Sorting/Luck%20Balance/Solution.java)</li><ul> | _O(n log(n))_ | _O(1)_ | Easy | 20| ||
-|   | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)| <ul><li>[Java](./Algorithms/Sorting/Closest%20Numbers/Solution.java)</li><ul> | _O(n log(n))_ | _O(n)_ | Easy | 35| ||
-|   | [Find the Median](https://www.hackerrank.com/challenges/find-the-median)| <ul><li>[Java](./Algorithms/Sorting/Find%20the%20Median/Solution.java)</li><ul> | _O(n log(n))_ | _O(n)_ | Easy | 35| ||
+|   | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4)| <ul><li>[Java](./Algorithms/Sorting/The%20Full%20Counting%20Sort/Solution.java)</li><li>[C#](./Algorithms/Sorting/The%20Full%20Counting%20Sort/Solution.cs)</li><ul> | _O(n+k)_ | _O(n+k)_ | Medium | 40| ||
+|   | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)| <ul><li>[Java](./Algorithms/Sorting/Closest%20Numbers/Solution.java)</li><li>[C#](./Algorithms/Sorting/Closest%20Numbers/Solution.cs)</li><ul> | _O(n log(n))_ | _O(n)_ | Easy | 35| ||
+|   | [Find the Median](https://www.hackerrank.com/challenges/find-the-median)| <ul><li>[Java](./Algorithms/Sorting/Find%20the%20Median/Solution.java)</li><li>[C#](./Algorithms/Sorting/Find%20the%20Median/Solution.cs)</li><ul> | _O(n log(n))_ | _O(n)_ | Easy | 35| ||
 |   | [Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort)| <ul><li>Java</li></ul> |  | | Advanced | 50| ||
 |   | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications)| <ul><li>[Java](./Algorithms/Sorting/Fraudulent%20Activity%20Notifications/Solution.java)</li><ul> | _O(n^2)_ | _O(n)_ | Medium | 40| ||
 |   | [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework)| <ul><li>[Java](./Algorithms/Sorting/Lily's%20Homework/Solution.java)</li><ul> | _O(n log(n))_ | _O(n)_  | Medium | 40| ||
-|   | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting)| <ul><li>[Java](./Algorithms/Sorting/Big%20Sorting/Solution.java)</li><ul> | _O(n log(n))_ | _O(n)_ | Easy | 20| ||
+|   | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting)| <ul><li>[Java](./Algorithms/Sorting/Big%20Sorting/Solution.java)</li><li>[C#](./Algorithms/Sorting/Big%20Sorting/Solution.cs)</li><ul> | _O(n log(n))_ | _O(n)_ | Easy | 20| ||
 
 ### Search
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters)| <ul><li>[JS](./Algorithms/Search/Hackerland%20Radio%20Transmitters/Solution.js)</li><ul> | _O(n log(n))_ | _O(1)_ | Easy | 15 | ||
-|   | [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)| <ul><li>[Java](./Algorithms/Search/Ice%20Cream%20Parlor/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 30 | ||
+|   | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters)| <ul><li>[JS](./Algorithms/Search/Hackerland%20Radio%20Transmitters/Solution.js)</li><li>[C#](./Algorithms/Search/Hackerland%20Radio%20Transmitters/Solution.cs)</li><ul> | _O(n log(n))_ | _O(n)_ | Medium | 25 | ||
+|   | [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)| <ul><li>[Java](./Algorithms/Search/Ice%20Cream%20Parlor/Solution.java)</li><li>[C#](./Algorithms/Search/Ice%20Cream%20Parlor/Solution.cs)</li><ul> | _O(n)_ | _O(n)_ | Easy | 30 | ||
 |   | [Binary Search: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor)| <ul><li>[Java](./Algorithms/Search/Binary%20Search%20Ice%20Cream%20Parlor/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 35 | ||
 |   | [Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro)| <ul><li>Java</li></ul> |  | | Medium | 25 | ||
-|   | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)| <ul><li>Java</li> <li>[C++](./Algorithms/Search/Missing%20Numbers/Solution.cpp)</li><ul> |  | | Easy | 45 | ||
+|   | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)| <ul><li>Java</li> <li>[C++](./Algorithms/Search/Missing%20Numbers/Solution.cpp)</li><li>[C#](./Algorithms/Search/Missing%20Numbers/Solution.cs)</li><ul> | _O(n)_ | _O(n)_ | Easy | 45 | ||
 |   | [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss)| <ul><li>[Java](./Algorithms/Search/Minimum%20Loss/Solution.java)</li><ul> | _O(n log(n))_ | _O(n)_ | Medium | 35| ||
 |   | [KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard)| <ul><li>Java</li></ul> |  | | Medium | 35 | ||
-|   | [Pairs](https://www.hackerrank.com/challenges/pairs)| <ul><li>Java</li> <li>[C++](./Algorithms/Search/Pairs/Solution.cpp)</li><ul> | _O(n log(n))_ | _O(n)_ | Medium | 50 | ||
-|   | [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array)| <ul><li>Java</li> <li>[C++](./Algorithms/Search/SherlockandArray/Solution.cpp)</li><ul> |  | | Easy | 40 | ||
+|   | [Pairs](https://www.hackerrank.com/challenges/pairs)| <ul><li>Java</li> <li>[C++](./Algorithms/Search/Pairs/Solution.cpp)</li><li>[C#](./Algorithms/Search/Pairs/Solution.cs)</li><ul> | _O(n log(n))_ | _O(n)_ | Medium | 50 | ||
+|   | [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array)| <ul><li>Java</li> <li>[C++](./Algorithms/Search/SherlockandArray/Solution.cpp)</li><li>[C#](./Algorithms/Search/SherlockandArray/Solution.cs)</li><ul> | _O(n)_ | _O(n)_| Easy | 40 | ||
 |   | [Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum)| <ul><li>Java</li></ul> |  | | Hard | 65 | ||
 |   | [Connected Cells in a grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid)| <ul><li>Java</li></ul> |  | | Medium | 50 | ||
 |   | [Short Palindrome](https://www.hackerrank.com/challenges/short-palindrome)| <ul><li>Java</li></ul> |  | | Medium | 40 | ||
@@ -329,9 +327,12 @@
 ### Greedy
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|   | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array)| <ul><li>[Java](./Algorithms/Greedy/Minimum%20Absolute%20Difference%20in%20an%20Array/Solution.java)</li> <li>[JS](./Algorithms/Greedy/Minimum%20Absolute%20Difference%20in%20an%20Array/Solution.js)</li><ul> | _O(n log(n))_ | _O(1)_ | Easy | 15| ||
 |  |[Chief Hopper](https://www.hackerrank.com/challenges/chief-hopper)| <ul><li>[Java](./Algorithms/Greedy/Chief%20Hopper/Solution.java)</li><ul> | _O(n)_ | _O(n)_| Hard | 65 | ||
 |  |[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys)| <ul><li>[Java](./Algorithms/Greedy/Mark%20and%20Toys/Solution.java)</li> <li>[JS](./Algorithms/Greedy/Mark%20and%20Toys/Solution.js)</li><ul> | _O(n log(n))_ | _O(n)_| Easy | 35 | ||
+|  | [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk)| <ul><li>[Java](./Algorithms/Greedy/Marc's%20Cakewalk/Solution.java)</li><ul> | _O(n + k)_ | _O(k)_ | Easy | 15| ||
 |  |[Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge)| <ul><li>[Java](./Algorithms/Greedy/Grid%20Challenge/Solution.java)</li><ul> | _O(n*(n log (n)))_ | _O(n^2)_| Easy | 20 | ||
+|  |[Luck Balance](https://www.hackerrank.com/challenges/luck-balance)| <ul><li>[Java](./Algorithms/Greedy/Luck%20Balance/Solution.java)</li><ul> | _O(n log(n))_ | _O(1)_ | Easy | 20| ||
 |  |[Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle)| <ul><li>[Java](./Algorithms/Greedy/Maximum%20Perimeter%20Triangle/Solution.java)</li><ul> | _O(n log (n))_ | _O(n)_| Easy | 20 | ||
 |  |[Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays)| <ul><li>[Java](./Algorithms/Greedy/Permuting%20Two%20Arrays/Solution.java)</li> <li>[JS](./Algorithms/Greedy/Permuting%20Two%20Arrays/Solution.js)</li><ul> | _O(n log (n))_ | _O(n)_| Easy | 40 | ||
 |  |[Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders)| <ul><li>[Java](./Algorithms/Greedy/Jim%20and%20the%20Orders/Solution.java)</li><ul> | _O(n log (n))_ | _O(n)_| Easy | 40 | ||
@@ -584,11 +585,15 @@
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |  |[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)| <ul><li>[C++](./DataStructures/Arrays/Arrays%20-%20DS/Solution.cpp)</li><ul> | _O(n)_ | _O(n)_| Easy | 10 | ||
+|  |[2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)| <ul><li>[C++](./DataStructures/Arrays/2D%20Array%20-%20DS/Solution.cpp)</li><ul> | _O(1)_ | _O(1)_| Easy | 15 | ||
 
 ### Linked Lists
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |  |[Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list)| <ul><li>[C++](./DataStructures/Linked%20Lists/Print%20the%20Elements%20of%20a%20Linked%20List/Solution.cpp)</li><ul> | _O(n)_ | _O(1)_| Easy | 5 | ||
+|  |[Reverse a Linked List](https://www.hackerrank.com/challenges/reverse-a-linked-list)| <ul><li>[Java](./DataStructures/Linked%20Lists/Reverse%20a%20linked%20list/Solution.java)</li><ul> | _O(n)_ | _O(1)_| Easy | 5 | ||
+|  |[Compare Two Linked Lists](https://www.hackerrank.com/challenges/compare-two-linked-lists)| <ul><li>[C++](./DataStructures/Linked%20Lists/Compare%20two%20linked%20lists/Solution.cpp)</li><ul> | _O(n)_ | _O(1)_| Easy | 5 | ||
+|  |[Delete a node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem)| <ul><li>[C++](./DataStructures/Linked%20Lists/Delete%20Node/solution.cpp)</li><ul> | _O(n)_ | _O(1)_| Easy | 5 | ||
 
 ### Trees
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
@@ -605,11 +610,12 @@
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |  |[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/)| <ul><li>[C++](./DataStructures/Stacks/Maximum%20Element/Solution.cpp)</li><ul> | _Push-O(1), Delete - O(n), Print - O(1)_ | _Push - O(1), Delete - O(1), Print - O(1)_| Easy | 20 | ||
+|  |[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/)| <ul><li>[Java](./DataStructures/Stacks/Balanced%20Brackets/Solution.java)</li><ul> | _O(n)_ | _O(n)_| Medium | 25 | ||
 
 ### Queues
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+|  |[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/)| <ul><li>[C#](./DataStructures/Queues/Queue%20using%20Two%20Stacks/Solution.cs)</li><ul> | _Enqueue - O(1), Dequeue - O(n), Print - O(n)_ | _Enqueue - O(1), Dequeue - O(1), Print - O(1)_| Medium | 30 | ||
 
 ### Heap
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
@@ -624,6 +630,8 @@
 ### Multiple Choice
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|  |[Data Structures MCQ 1](https://www.hackerrank.com/challenges/how-well-do-you-know-trees/problem)| <ul><li>[Language Independent](./DataStructures/Multiple%20Choice/Data%20Structures%20MCQ%201/Solution.md)</li><ul> | _NA_ | _NA_| Hard | 5 | ||
+|  |[Data Structures MCQ 2](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures/problem)| <ul><li>[Language Independent](./DataStructures/Multiple%20Choice/Data%20Structures%20MCQ%202/Solution.md)</li><ul> | _NA_ | _NA_| Hard | 5 | ||
 |  |[Data Structures MCQ 3](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures-1/problem)| <ul><li>[Language Independent](./DataStructures/Multiple%20Choice/Data%20Structures%20MCQ%203/Solution.md)</li><ul> | _NA_ | _NA_| Hard | 5 | ||
 
 ### Trie
@@ -635,6 +643,11 @@
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |  |[Spaceholder](https://www.hackerrank.com/challenges/spaceholder)| <ul><li>[C#]()</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+
+### Fundamentals
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|  |[Leonardo's Prime Factors](https://www.hackerrank.com/challenges/leonardo-and-prime/problem)| <ul><li>[C#](./Mathematics/Fundamentals/Leonardo's%20Prime%20Factors/Solution.cs)</li><ul> | _O(1)_ | _O(1)_| Easy | 10 | ||
 
 
 
