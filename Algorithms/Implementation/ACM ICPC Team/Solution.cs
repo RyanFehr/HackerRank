@@ -1,11 +1,11 @@
-/*
+﻿/*
          Problem: https://www.hackerrank.com/challenges/acm-icpc-team/problem
          C# Language Version: 6.0
          .NET Framework Version: 4.7
          Tool Version : Visual Studio Community 2017
          Thoughts (Key points in algorithm):
          - Basic idea is that we need to iterate through every possible combination of two attendees (i.e. in pairs). In that sense it starts being
-            a Combinatorics problem (nC2). e.g. for four students 1,2,3,4 all possible combinations are (1,2),(1,3),(1,4),(2,3),(2,4),(3,4)
+            a Combinatorics problem (ⁿC₂). e.g. for four students 1,2,3,4 all possible combinations are (1,2),(1,3),(1,4),(2,3),(2,4),(3,4)
          - While iterating a given combination, see if the current pair has highest number of known courses among the pair of attendees iterated
            so far.
          - Also keep a count of pairs who had the highest number of known courses.
