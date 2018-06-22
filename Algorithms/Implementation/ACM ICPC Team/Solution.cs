@@ -63,10 +63,10 @@ class Solution
     private static int CountKnownTopicsToBothAttendee(string knownTopicsAttendee1, string knownTopicsAttendee2)
     {
         var count = 0;
-        var CourseKnownFlag = '1';
-        for (var courseIndex = 0; courseIndex < knownTopicsAttendee1.Length; courseIndex++)
+        var TopicKnownFlag = '1';
+        for (var topicIndex = 0; topicIndex < knownTopicsAttendee1.Length; topicIndex++)
         {
-            if (knownTopicsAttendee1[courseIndex] == CourseKnownFlag || knownTopicsAttendee2[courseIndex] == CourseKnownFlag)
+            if (knownTopicsAttendee1[topicIndex] == TopicKnownFlag || knownTopicsAttendee2[topicIndex] == TopicKnownFlag)
                 count++;
         }
         return count;
