@@ -36,8 +36,6 @@ class Solution
 
         if (sumOfMoney < priceOfGame)
             Console.WriteLine(0);
-        else if (sumOfMoney < priceOfGame * 2)
-            Console.WriteLine(1);
         else
         {
             totalGamesBought = 1 + (priceOfGame - minimumCost) / discount;
@@ -47,7 +45,7 @@ class Solution
             else
             {
                 var b = 2 * priceOfGame + discount;
-                totalGamesBought = (b - (int)Math.Sqrt(b * b - 8 * discount * sumOfMoney)) / (2 * discount);
+                totalGamesBought = (int)((b - Math.Sqrt(b * b - 8 * discount * sumOfMoney)) / (2 * discount));
             }
             Console.WriteLine(totalGamesBought);
         }
