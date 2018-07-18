@@ -143,7 +143,7 @@
 |   | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones)| <ul><li>[Java](./Algorithms/Implementation/Manasa%20and%20Stones/Solution.java)</li><li>[C#](./Algorithms/Implementation/Manasa%20and%20Stones/Solution.cs)</li><ul> | _O(n)_ | _O(1)_ | Easy | 30| ||
 |   | [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search)| <ul><li>[Java](./Algorithms/Implementation/The%20Grid%20Search/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Medium | 30| n = len(word)||
 |   | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs)| <ul><li>[Java](./Algorithms/Implementation/Happy%20Ladybugs/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Easy | 30| ||
-|   | [Strange Counter](https://www.hackerrank.com/challenges/strange-code)| <ul><li>[Java](./Algorithms/Implementation/Strange%20Counter/Solution.java)</li><ul> | _O(n)_ | _O(1)_ | Easy | 30| n = t ||
+|   | [Strange Counter](https://www.hackerrank.com/challenges/strange-code)| <ul><li>[Java](./Algorithms/Implementation/Strange%20Counter/Solution.java)</li><li>[C#](./Algorithms/Implementation/Strange%20Counter/Solution.cs)</li><ul> | _O(n)_ | _O(1)_ | Easy | 30| n = t ||
 |   | [Absolute Permuation](https://www.hackerrank.com/challenges/absolute-permutation)| <ul><li>[Java](./Algorithms/Implementation/Absolute%20Permuation/Solution.java)</li><ul> | _O(n)_ | _O(n)_ | Medium | 40| ||
 |   | [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man)| <ul><li>[Java](./Algorithms/Implementation/The%20Bomberman%20Game/Solution.java)</li><ul> | _O(n*m)_ | _O(n*m)_ | Medium | 40| ||
 |   | [Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses)| <ul><li>Java</li></ul> |  | | Medium | 40| ||
