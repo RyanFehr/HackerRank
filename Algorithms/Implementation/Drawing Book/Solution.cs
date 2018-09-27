@@ -36,7 +36,8 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 class Solution {
-
+        
+/*
     static int solve(int totalPagesInBook, int targetPageNumber){
         var minimumPagesToTurn = 0;
 
@@ -91,6 +92,20 @@ class Solution {
             return minimumPagesToTurn;
     }
 
+*/
+         
+   static int solve(int n, int p) {
+        int left = p/2;
+        int right;
+        if(n%2==0){
+            right = (n-p+1)/2;
+        } else {
+            right = (n-p)/2;
+        }
+        
+        return Math.Min(left, right);
+    }   
+         
     static void Main(String[] args) {
         int n = Convert.ToInt32(Console.ReadLine());
         int p = Convert.ToInt32(Console.ReadLine());
