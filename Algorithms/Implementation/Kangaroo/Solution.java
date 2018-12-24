@@ -23,9 +23,17 @@ public class Solution {
                 System.out.println("YES");
                 System.exit(0);//Once they meet we don't need to continue checking
             }
+            
+            if($x2 >= $x1 + 5 && $v2 >= $v1) // to avoid timeout
+            {
+                System.out.println("NO");
+                System.exit(0);
+            }
+            
             x1 += v1;
             x2 += v2;
         }
+        
         System.out.println("NO");
     }
 }
