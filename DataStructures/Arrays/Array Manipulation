@@ -1,0 +1,53 @@
+/*
+https://www.hackerrank.com/challenges/crush/problem
+Java 8
+
+Time Complexity: O(m+n)
+Space Complexity: O(n)
+
+ */
+
+import java.io.*;
+import java.util.*;
+
+public class Solution {
+
+    static long arrayManipulation(int n, int[][] queries) {
+        long[] arr = new long[n];
+        int m = queries.length;
+        // difference array
+        for (int i = 0; i < m; i++) {
+            int a = queries[i][0] - 1;
+            int b = queries[i][1] - 1;
+            int k = queries[i][2];
+            arr[a] += k;
+            if (b < n - 1) {
+                arr[b + 1] -= k;
+            }
+        }
+        long max = 0;
+        long x = 0;
+        for (int i = 0; i < n; i++) {
+            x += arr[i];
+            if (max < x) {
+                max = x;
+            }
+        }
+        return max;
+    }
+
+    public static void main(String[] args) throws IOException {
+        Scanner input = new Scanner(System.in);
+        int n = input.nextInt();
+        int m = input.nextInt();
+        int[][] qrys = new int[m][3];
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < 3; j++) {
+                qrys[i][j] = input.nextInt();
+            }
+        }
+
+        long re = arrayManipulation(n, qrys);
+        System.out.println(re);
+    }
+}
