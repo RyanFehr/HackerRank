@@ -55,5 +55,6 @@ public class Solution {
         for (int i = 0; i < re.length; i++) {
             System.out.println(re[i]);
         }
+        input.close();
     }
 }
