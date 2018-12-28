@@ -35,5 +35,6 @@ public class Solution {
         }
         int re = hourglassSum(arr);
         System.out.println(re);
+        input.close();
     }
 }
