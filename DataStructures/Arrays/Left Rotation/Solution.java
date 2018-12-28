@@ -35,5 +35,6 @@ public class Solution {
             s.append(" ");
         }
         System.out.println(s.toString());
+        input.close();
     }
 }
