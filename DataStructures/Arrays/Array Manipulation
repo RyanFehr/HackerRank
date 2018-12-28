@@ -49,5 +49,6 @@ public class Solution {
 
         long re = arrayManipulation(n, qrys);
         System.out.println(re);
+        input.close();
     }
 }
