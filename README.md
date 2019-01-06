@@ -343,7 +343,7 @@
 |   | [Yet Another Minimax Problem](https://www.hackerrank.com/challenges/yet-another-minimax-problem)| <ul><li>Java</li></ul> |  | | Medium | 20| ||
 |   | [Flipping the Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix)| <ul><li>[Java](./Algorithms/Constructve%20Algorithms/Flipping%20Matrix/Solution.java)</li><ul> | _O(n^2)_ | _O(n^2)_ | Medium | 30 | ||
 |   | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development)| <ul><li>Java</li></ul> |  | | Medium | 30| ||
-|  |[Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist)| <ul><li>[JS](./Algorithms/Greedy/Greedy%20Florist/Solution.js)</li><ul> | _O(n log (n))_ | _O(n)_| Medium | 35 | ||
+|  |[Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist)| <ul><li>[JS](./Algorithms/Greedy/Greedy%20Florist/Solution.js)</li><li>[C#](./Algorithms/Greedy/Greedy%20Florist/Solution.cs)</li><ul> | _O(n log (n))_ | _O(n)_| Medium | 35 | ||
 |  |[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys)| <ul><li>[Java](./Algorithms/Greedy/Mark%20and%20Toys/Solution.java)</li><ul> | _O(n log(n))_ | _O(n)_| Easy | 35 | ||
 |   | [Max Min](https://www.hackerrank.com/challenges/angry-children)| <ul><li>[Java](./Algorithms/Greedy/Max%20Min/Solution.java)</li><ul> | _O(n log(n))_ | _O(1)_ | Medium | 35| ||
 |   | [Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays)| <ul><li>Java</li></ul> |  | | Easy | 40| ||
