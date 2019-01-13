@@ -31,18 +31,19 @@ function readLine() {
 
 /////////////// ignore above this line ////////////////////
 
-function getMoneySpent(keyboards, drives, s){
-    drives.sort((a, b) => a - b);
-    keyboards.sort((a, b) => a - b);
-    let max = -1;
-    for (let d of drives) {
-        for (let k of keyboards) {
-            if (d + k <= s) {
-                max = (d + k > max) ? d + k : max;
-            }
+function getMoneySpent(keyboards, drives, b) {
+    let r = -1;
+    keyboards.sort((a, b) => b - a);    //Desc
+    drives.sort((a, b) => a - b);       //Asc
+    for (let i = 0, j = 0; i < keyboards.length; i++)
+        for (; j < drives.length; j++) {
+            const tmp = keyboards[i] + drives[j];
+            if (tmp > b)
+                break;
+            if (tmp > r)
+                r = tmp;
         }
-    }
-    return max;
+    return r;
 }
 
 function main() {
