@@ -6,8 +6,15 @@ We can sort and compare all pairs. If a pair is > max and <= s
 then we set it as the new max. Then we eturn  max after 
 checking all pairs.
 
-Time Complexity: O(n * m) //Iterate over both arrays  
-Space Complexity: O(1) //No additional memory used
+Optimization:
+If we sort 1 in descending and the other in ascending 
+order we only have to visit each element once, because 
+we can make use of the fact that the sum of the element 
+following the current will be greater/less than the 
+current sum depending on the direction we iterate from
+
+Time Complexity: O(n+m (log (n+m))) //We sort in n+m (log (n+m)) then iterate in n+m  
+Space Complexity: O(1) //We consider the arrays as given
 */
 process.stdin.resume();
 process.stdin.setEncoding('ascii');
