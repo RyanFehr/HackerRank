@@ -1,5 +1,11 @@
 // Problem: https://www.hackerrank.com/challenges/picking-numbers/problem
 // JS
+/*
+Initial Thoughts:
+Since 0 < a[i] < 100 we can use an Array(100) to store the frequencies of the numbers
+Then we run over our frequency array and extract the two adjancent elements that create the highest result
+This solution isn't ideal for situations when a[i] increases dramatically, especially when n stays relatively small.
+*/
 
 'use strict';
 
