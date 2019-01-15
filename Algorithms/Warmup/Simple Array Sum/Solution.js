@@ -1,5 +1,12 @@
 // Problem: https://www.hackerrank.com/challenges/simple-array-sum/problem
 // JS
+/*
+Initial Thoughts:
+To sum the elements of an array a simple "for" or "for of" loop would suffice
+I used JS reduce which produces neater and more functional code IMO
+
+Time Complexity: O(n)
+*/
 
 'use strict';
 
