@@ -1,5 +1,15 @@
 // Problem: https://www.hackerrank.com/challenges/compare-the-triplets/problem
 // JS
+/*
+Initial Thoughts:
+We receive 2 arrays (a for Alice and b for Bob) of exactly 3 elements each
+We have to compare each of the 3 elements in one array to its counterpart in the other array
+Based on the comparison we have to add points to either Alice or Bob and return both individuals' points in one array where item 0 is Alice's points and item 1 is Bob's
+We initialize an array [0,0] and increment it based on the comparisons
+
+Time Complexity: O(1);
+Space Complexity: O(1);
+*/
 
 'use strict';
 
