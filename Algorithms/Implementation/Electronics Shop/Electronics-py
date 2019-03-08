@@ -1,0 +1,14 @@
+s,n, m = (int(i) for i in input().split())
+b = [int(i) for i in input().strip().split(' ')]
+c = [int(i) for i in input().strip().split(' ')]
+flag = 0
+for i in range(len(b)):
+    for j in range(len(c)):
+        sum = b[i] + c[j]
+        if sum <=s and sum > flag:
+            flag = sum 
+if(flag):
+    print(flag)
+else:
+    print(-1)
+        
