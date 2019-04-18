@@ -16,7 +16,7 @@ public class Solution {
         int year = in.nextInt();
         
         LocalDate dt = LocalDate.of(year, month, day);
-        System.out.print(dt.getDayOfWeek());
+        System.out.print(dt.getDayOfWeek().toString());
     }
 }
 
