@@ -1,41 +1,29 @@
 //Problem: https://www.hackerrank.com/challenges/priyanka-and-toys
-//Java 8
-/*
-Initial Thoughts: We can sort the toys ascending by weight,
-                  then we just iterate over it not counting 
-                  when we get the next 4 consecutive weight
-                  toys for free
-                 
-Time Complexity: O(n log(n)) //We have to sort the toys by weight
-Space Complexity: O(n) //We store the input in a dynamically allocated array
-*/
+
 import java.io.*;
 import java.util.*;
 
 public class Solution {
-
+    static int count = 0;
+    static int t = 0;
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int n = input.nextInt();
-        int units = 1;
-        
-        //Initialize the array of toys
+        int n = input.nextInt();       
+        int k = 4;
+       //Initialize the array of toys
         int[] toys = new int[n];
         for(int i = 0; i < n; i++)
             toys[i] = input.nextInt();
         
         Arrays.sort(toys); //Sort the toys ascending by weight
+         IntStream.rangeClosed(0,toys.length-1).boxed().map(x->{
+           if(!(toys[t]+k>=toys[x])){
+               count++;
+               t=x;
+           }
+           return  count;
+        }).collect(Collectors.toList());
         
-        int currentWeight = toys[0];
-        for(int weight : toys)
-        {
-            if(!(weight <= currentWeight+4))
-            {
-                units++;
-                currentWeight = weight;
-            }
-        }
-        
-        System.out.println(units);
+        System.out.println(count+1);
     }
 }
