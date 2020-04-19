@@ -34,14 +34,17 @@ public class Solution {
         
         if(M < 30)
         {
-            if(M > 1)
+            if(M >= 1)
             {
                 if(M > 20)
                 {System.out.print("twenty "+words.get(M-20)+" minutes past "+words.get(H));}
                 else if(M == 15)
                 {System.out.print("quarter past "+words.get(H));}
+                else if(M == 1)
+                {System.out.print(words.get(M)+" minute past "+words.get(H));}
                 else
                 {System.out.print(words.get(M)+" minutes past "+words.get(H));}
+                    
             }
             else
             {System.out.print(words.get(M)+" minute past "+words.get((H+1)%12));}
