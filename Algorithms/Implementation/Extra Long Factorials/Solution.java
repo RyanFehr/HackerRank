@@ -15,8 +15,7 @@ public class Solution {
         
         for(int i = 2; i <= N; i++)
         {
-            BigInteger multiplier = new BigInteger(String.valueOf(i));
-            factorial = factorial.multiply(multiplier);
+             factorial = factorial.multiply(BigInteger.valueOf(multiplier));
         }
         
         System.out.println(factorial);
