@@ -23,7 +23,7 @@
 
 
 
-## Algorithms ![AlgorithmsPoints]
+## Algorithms ![AlgorithmsPoints for coding interviews]
 - [Warmup](https://github.com/RyanFehr/HackerRank#warmup)
 - [Implementation](https://github.com/RyanFehr/HackerRank#implementation)
 - [Strings](https://github.com/RyanFehr/HackerRank#strings)
@@ -38,7 +38,7 @@
 - [Game Theory](https://github.com/RyanFehr/HackerRank#game-theory)
 - [NP Complete](https://github.com/RyanFehr/HackerRank#np-complete)
 
-## DataStructures ![DataStructuresPoints]
+## DataStructures ![DataStructuresPoints for coding interviews]
 - [Arrays](https://github.com/RyanFehr/HackerRank#arrays)
 - [Linked Lists](https://github.com/RyanFehr/HackerRank#linked-lists)
 - [Trees](https://github.com/RyanFehr/HackerRank#trees)
@@ -51,7 +51,7 @@
 - [Trie](https://github.com/RyanFehr/HackerRank#trie)
 - [Advanced](https://github.com/RyanFehr/HackerRank#advanced)
 
-## Mathematics ![MathematicsPoints]
+## Mathematics ![MathematicsPoints for competitive coding point of view]
 - [Fundamentals](https://github.com/RyanFehr/HackerRank#fundamentals)
 - Number Theory
 - Combinatorics
@@ -59,7 +59,7 @@
 - Geometry
 - Probability
 - Linear Algebra Foundations
-## Java ![JavaPoints]
+## Java ![INTRODUCTION TO JAVA FOR COMPETITIVE CODING PURPOSE HOW TO USE IT.]
 - Introduction
 - Strings
 - BigNumber
@@ -229,7 +229,7 @@
 |   | [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework)| <ul><li>[Java](./Algorithms/Sorting/Lily's%20Homework/Solution.java)</li><ul> | _O(n log(n))_ | _O(n)_  | Medium | 40| ||
 |   | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting)| <ul><li>[Java](./Algorithms/Sorting/Big%20Sorting/Solution.java)</li><li>[C#](./Algorithms/Sorting/Big%20Sorting/Solution.cs)</li><ul> | _O(n log(n))_ | _O(n)_ | Easy | 20| ||
 
-### Search
+### Search for competitive coding.
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |   | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters)| <ul><li>[JS](./Algorithms/Search/Hackerland%20Radio%20Transmitters/Solution.js)</li><li>[C#](./Algorithms/Search/Hackerland%20Radio%20Transmitters/Solution.cs)</li><ul> | _O(n log(n))_ | _O(n)_ | Medium | 25 | ||
@@ -258,7 +258,7 @@
 |   | [Distant Pairs](https://www.hackerrank.com/challenges/distant-pairs)| <ul><li>Java</li></ul> |  | | Expert | 80 | ||
 |   | [King Richard's Knights](https://www.hackerrank.com/challenges/king-richards-knights)| <ul><li>Java</li></ul> |  | | Hard | 80 | ||
 
-### Graph Theory
+### Graph Theory for beginners.
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |   | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development)| <ul><li>Java</li></ul> |  | | Medium | 30| ||
