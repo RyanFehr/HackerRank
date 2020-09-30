@@ -371,7 +371,10 @@
 |   | [Short Palindrome](https://www.hackerrank.com/challenges/short-palindrome)| <ul><li>Java</li></ul> |  | | Medium | 40 | ||
 |   | [Abbreviation](https://www.hackerrank.com/challenges/abbr)| <ul><li>Java</li></ul> |  | | Medium | 40 | ||
 |   | [Fair Cut](https://www.hackerrank.com/challenges/fair-cut)| <ul><li>Java</li></ul> |  | | Medium | 40 | ||
-|   | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified)| <ul><li>[Java](./Algorithms/Dynamic%20Programming/Modified%20Fibonacci/Solution.java)</li><ul> |  | | Medium | 45 | ||
+|   | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified)| <ul><li>[Java](./Algorithms/Dynamic%20Programming/Modified%20Fibonacci/Solution.java)</li>
+    |[Class Problem](https://coderinme.com/class-hackerrank-problem-solution/)
+	<ul> 
+	|  | | Medium | 45 | ||
 |   | [Lego Blocks](https://www.hackerrank.com/challenges/lego-blocks)| <ul><li>Java</li></ul> |  | | Medium | 50 | ||
 |   | [Candies](https://www.hackerrank.com/challenges/candies)| <ul><li>Java</li></ul> |  | | Medium | 50 | ||
 |   | [Stock Maximize](https://www.hackerrank.com/challenges/stockmax)| <ul><li>Java</li></ul> |  | | Medium | 50 | ||
