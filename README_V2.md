@@ -134,7 +134,7 @@
 |   | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)| [Java](./Algorithms/Implementation/The%20Hurdle%20Race/Solution.java) | _O(n)_ | _O(1)_ | Easy| 15| ||
 |   | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)| [Java](./Algorithms/Implementation/Utopian%20Tree/Solution.java) |  | | Easy | 20| ||
 |   | [Service Lane](https://www.hackerrank.com/challenges/service-lane)| [Java](./Algorithms/Implementation/Service%20Lane/Solution.java) |  | | Easy | 20| ||
-|   | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)| [Java](./Algorithms/Implementation/Circular%20Array%20Rotation/Solution.java) |  | | Easy | 20| ||
+|   | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)| [Java](./Algorithms/Implementation/Circular%20Array%20Rotation/Solution.java) | _O(n)_ | _O(1)_ | Easy | 20| ||
 |   | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares)| [Java](./Algorithms/Implementation/Sherlock%20and%20Squares/Solution.java) |  | | Easy | 20| ||
 |   | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)| [Java](./Algorithms/Implementation/Angry%20Professor/Solution.java) |  | | Easy | 20| ||
 |   | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)| [Java](./Algorithms/Implementation/Extra%20Long%20Factorials/Solution.java) |  | | Medium | 20| ||
