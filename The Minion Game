@@ -1,0 +1,21 @@
+import re
+def minion_game(string):
+    cntStuart=0
+    cntKevin=0
+    vowel="AEIOU"
+    for i in range(len(string)):
+            if s[i] in vowel:
+             cntKevin+=len(s)-i
+            else:
+                cntStuart+=len(s)-i
+            
+    if cntStuart>cntKevin:
+        print("Stuart",cntStuart)
+    elif cntStuart<cntKevin:
+        print("Kevin",cntKevin)
+    else:
+        print("Draw")
+        
+if __name__ == '__main__':
+    s = input()
+    minion_game(s)
