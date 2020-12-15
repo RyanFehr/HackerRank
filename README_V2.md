@@ -114,6 +114,7 @@
 |   | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)| [Java](./Algorithms/Implementation/Drawing%20Book/Solution.java) |  | | Easy| 10| ||
 |  |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| [Java](./Algorithms/Warmup/Birthday%20Cake%20Candles/Solution.java) | _O(n)_ | _O(1)_ | Easy | 10 | ||
 |   | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit)| [Java](./Algorithms/Implementation/Bon%20Appetit/Solution.java) |  | | Easy| 10| ||
+
 |   | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)| [Java](./Algorithms/Implementation/Sock%20Merchant/Solution.java) |  | | Easy| 10| ||
 |   | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)| [Java](./Algorithms/Implementation/Apple%20and%20Orange/Solution.java) |  | | Easy| 10| ||
 |   | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)| [Java](./Algorithms/Implementation/Between%20Two%20Sets/Solution.java) | _O((A^2)+B)_ | _O(1)_ | Easy| 10| ||
