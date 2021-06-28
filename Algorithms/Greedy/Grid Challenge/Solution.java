@@ -44,7 +44,7 @@ public class Solution {
     
     //Checks if grid columns are lexicographically ordered
     static boolean checkColumns(char[][] grid){
-        for(int i = 0; i < grid.length; i++){//column
+        for(int i = 0; i < grid.length-1; i++){//column
             for(int j = 1; j < grid.length; j++){//row
                 if(grid[j][i] < grid[j-1][i])
                     return false;
