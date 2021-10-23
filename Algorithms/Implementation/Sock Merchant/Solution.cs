@@ -26,20 +26,13 @@ class Solution {
 
     static int sockMerchant(int[] socksPile)
     {
-        var pairsFound = 0;
-        var sockColorHash = new Dictionary<int, int>();
-
-        foreach (var sock in socksPile)
-        {
-            if (sockColorHash.ContainsKey(sock))
-            {
-                pairsFound++;
-                sockColorHash.Remove(sock);
+        var pairsFoundSum = 0;
+        var grps = socksPile.GroupBy(i => i);
+            foreach (var grp in grps) {
+                pairsFoundSum += grp.Count() / 2;
             }
-            else
-                sockColorHash.Add(sock, 1);
-        }
-        return pairsFound;
+
+            return pairsFoundSum;
     }
 
     static void Main(String[] args) {
