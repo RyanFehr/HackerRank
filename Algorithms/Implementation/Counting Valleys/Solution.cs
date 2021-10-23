@@ -30,33 +30,21 @@ class Solution
     static void Main(String[] args) 
     {
         var seaLevel = 0;
-        var valleyCount = 0;
+        var valleysCount = 0;
         var totalNumberOfSteps = int.Parse(Console.ReadLine());
         var garyStepRecord = Console.ReadLine().ToArray();
-        var isValleyActive = false;
 
-        for (int i = 0; i < totalNumberOfSteps; i++)
-        {
-            if (garyStepRecord[i] == 'U')
-            {
-                seaLevel++;
+        foreach (var c in garyStepRecord) {
+                if (c == 'U') {
+                    seaLevel++;
+                }
+                else {
+                    seaLevel--;
+                    if (seaLevel == -1) {
+                        valleysCount++;
+                    }
+                }
             }
-            else
-            {
-                seaLevel--;
-            }
-
-            if (!isValleyActive && seaLevel < 0)
-            {
-                isValleyActive = true;
-            }
-
-            if (isValleyActive && seaLevel == 0)
-            {
-                valleyCount++;
-                isValleyActive = false;
-            }
-        }
-        Console.WriteLine(valleyCount);
+        Console.WriteLine(valleysCount);
     }
 }
