@@ -10,7 +10,7 @@ public class Solution {
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();
         int d = input.nextInt();
-        
+        List<Integer> arr = new ArrayList<>();  // to add all Array Elements as It will be used Later
         Set<Integer>  values = new HashSet<>();
         
         int beautifulTriplets = 0;
@@ -20,7 +20,7 @@ public class Solution {
         for(int i = 0; i < n; i++)
         {
             int x = input.nextInt();
-            
+            arr.add(x);
             if(!values.contains(x))
             {
                 values.add(x);
@@ -29,7 +29,7 @@ public class Solution {
         
         
         //Check if set has a value, value+d, and value + 2d
-        for(Integer digit : values)
+        for(Integer digit : arr)  // use " arr " in place of " values " as if the input Value have any Repetition it need to be Counted.
         {
             if(values.contains(digit+d) && values.contains(digit+(2*d)))
             {
