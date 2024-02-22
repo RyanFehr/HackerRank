@@ -26,11 +26,12 @@ class Solution
                                     , "eleven", "twelve","thirteen","fourteen","fifteen","sixteen","seventeen","eighteen","nineteen","twenty"
                                     , "twenty one", "twenty two", "twenty three", "twenty four", "twenty five", "twenty six", "twenty seven", "twenty eight","twenty nine" };
 
-
         if (m == 0)
             Console.Write($"{hourWords[h - 1]} o' clock");
 
-        if ((m > 0 && m < 15) || (m > 15 && m < 30))
+        if ( m == 1 )
+            Console.Write($"{minuteWords[0] minute past {hourWords[h - 1]}");
+        else if ((m > 0 && m < 15) || (m > 15 && m < 30))
             Console.Write($"{minuteWords[m - 1]} minutes past {hourWords[h - 1]}");
 
         if ((m > 30 && m < 45) || (m > 45 && m < 60))
