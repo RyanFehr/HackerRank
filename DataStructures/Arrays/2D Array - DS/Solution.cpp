@@ -16,11 +16,12 @@
 */
 
 #include <bits/stdc++.h>
+#include <climits>
 
 using namespace std;
 
 int array2D(vector<vector<int>> arr) {
-	int maxSum;
+	int maxSum = = INT_MIN;
 	int tempSum;
 	for (int arr_i = 0; arr_i < 6; arr_i++) {
 		for (int arr_j = 0; arr_j < 6; arr_j++) {
@@ -44,9 +45,7 @@ int array2D(vector<vector<int>> arr) {
 				tempSum += arr[tempI][tempJ];
 				tempJ++;
 				tempSum += arr[tempI][tempJ];
-				if (arr_i == 0 && arr_j == 0)
-					maxSum = tempSum;
-				else if (tempSum > maxSum)
+				if (tempSum > maxSum)
 				{
 					maxSum = tempSum;
 				}
